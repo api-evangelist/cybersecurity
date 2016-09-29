@@ -1,5 +1,1661 @@
 [
 	{
+		"curated_id": "v7ROWxg0i5Lr56a69zACgjUvkDF48B20123T8uxzM498e41230Sf41163LS51GI7L7KpNZgUJOhlK123LPclOGYeYFyqpw117117",
+		"item_date": "2016-09-21 00:00:00",
+		"title": "KrebsOnSecurity Hit With Record DDoS",
+		"url": "https://krebsonsecurity.com/2016/09/krebsonsecurity-hit-with-record-ddos/",
+		"domain": "krebsonsecurity.com",
+		"image": ""
+	},
+	{
+		"curated_id": "h3htO5Dga9mFzQ116HuQ1OfwJQFfBK1230ZlLdKpIn9EbxfVmU4Ofo8qzArMnwTaPRPg0116jE1165UZ5WnH6ZsZPcEqZg117117",
+		"item_date": "2016-09-23 00:00:00",
+		"title": "Hackers Trawl User Data in Hopes a Small Target Will Lead to a Big One",
+		"url": "http://www.nytimes.com/2016/09/24/technology/hackers-trawl-user-data-in-hopes-a-small-target-will-lead-to-a-big-one.html",
+		"domain": "www.nytimes.com",
+		"image": ""
+	},
+	{
+		"curated_id": "8tZjTOOZ5xy1cp18123JTRSXUxhKlivjcNprnNf8CXp7lh2SnSSAMdaJj4nOP15QSFCJRMTL4sW490R7Ob6uuItg117117",
+		"item_date": "2016-09-23 00:00:00",
+		"title": "Journalist Hit By Record DDoS Attack Im Kind of Like Plutonium Right Now",
+		"url": "http://motherboard.vice.com/read/journalist-hit-by-record-ddos-attack-im-kind-of-like-plutonium-right-now",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "8POQkWCVt7sByZp123DtrHZPguj116jXc3SuGrsiL13VGPTT7LiuvGfLIk3x7Cb123bqWkjGv9qp0cmIsQYNLuytWg116Q117117",
+		"item_date": "2016-09-23 00:00:00",
+		"title": "UPDATE 1Yahoo is sued for gross negligence over huge hacking",
+		"url": "http://www.reuters.com/article/yahoo-cyber-lawsuit-idUSL2N1BZ1Z6",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Vaxu1h43XTtLrDNtrJBPGqjZImc7zHQ70t2wI1H0nJL2Daa8ygsKgWmdN9jWGPMfPe5L1SxFXfRWuEWH6tBEtQ117117",
+		"item_date": "2016-09-23 00:00:00",
+		"title": "Advisory Body Calls For Stronger Cybersecurity Measures Across Airline Industry",
+		"url": "http://www.darkreading.com/risk/advisory-body-calls-for-stronger-cybersecurity-measures-across-airline-industry/d/d-id/1327002",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "EnZueOmP2ZyOJnXr4SMPK9kBj1gHBm1fpTvJSVQYx1N5aPnQ0123L5bzc0EmjVT5oct7SeJF6Qe123123B0Qju9UpvEg117117",
+		"item_date": "2016-09-23 00:00:00",
+		"title": "OnPremises  In The Cloud  Making Sense Of Your Cybersecurity Ecosystem",
+		"url": "http://www.darkreading.com/cloud/on-premises-and-in-the-cloud--making-sense-of-your-cybersecurity-ecosystem/a/d-id/1326994",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "opGzw1jKw3rO6JnX116DnbxSmy6tdEtjebpgCiks7TvFEYDsy3MNR16U4v116k08LKybX1ONS0vb9lpswV1168t0PGug117117",
+		"item_date": "2016-09-23 00:00:00",
+		"title": "UPDATE 2Yahoo faces growing scrutiny over when it learned of data breach",
+		"url": "http://www.reuters.com/article/yahoo-cyber-questions-idUSL2N1BZ1X3",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "PugZLT34uAnZ1231232U116Z17Jp4XY7tPcc4w7GhfvRx116kgJmiLnTgYMlfio0ERqsfKhldKqTxlKwDZkaTTh5U7H1YA117117",
+		"item_date": "2016-09-23 00:00:00",
+		"title": "What the Yahoo account data breach means for the future of identity",
+		"url": "http://www.janrain.com/blog/what-the-yahoo-account-data-breach-means-for-the-future-of-identity/",
+		"domain": "www.janrain.com",
+		"image": ""
+	},
+	{
+		"curated_id": "nTbwITMhNMF2rVQLESlMoGJC4ZPHf6u8U8vUQicD5ADTXmJlvMl5k116lKjFLx7BHGgWuTzR8123yIu6n21lgdEDSw117117",
+		"item_date": "2016-09-23 00:00:00",
+		"title": "Report NSA operator left source code exposed before breach",
+		"url": "http://thehill.com/policy/cybersecurity/297442-nsa-cyber-weapon-leak-pinned-to-operator-errorn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "qi7ODdRiv21trPrbxtmDdcHACWM9iR0N7bNkKvSFZ0R1qmTRn3eZWLO8FtEd4qps6P72tb0123nVFlgTQynNd9123A117117",
+		"item_date": "2016-09-23 00:00:00",
+		"title": "Trump hotels agree to pay 50K in data breach settlement",
+		"url": "http://thehill.com/blogs/blog-briefing-room/news/297483-trump-hotels-agrees-to-pay-50k-in-data-breach-settlementn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "zRPINqClEw3BJnzkBkYztWvawCWWiqzIRPyxkt159Ch9gJh4DiWJHWIiNvnqgdj2I8c123AOqBj9bZ0116FhyNXeFw117117",
+		"item_date": "2016-09-23 00:00:00",
+		"title": "The Biggest Internet Attack in History",
+		"url": "https://www.lawfareblog.com/biggest-internet-attack-history",
+		"domain": "www.lawfareblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "NsYUIJdL085123xvc3NjTS6xV6rsvKkGpuSenIwcJuFzgV5KPhw4uxggM9uOJFWy6zYdG116ujCrmj8a0ii116ktUQUw117117",
+		"item_date": "2016-09-23 00:00:00",
+		"title": "Unprecedented and Unlawful The NSAs Upstream Surveillance",
+		"url": "https://www.aclu.org/blog/speak-freely/unprecedented-and-unlawful-nsas-upstream-surveillance",
+		"domain": "www.aclu.org",
+		"image": ""
+	},
+	{
+		"curated_id": "xgnvltbfTIr9r6L56WHwaG2SOkYktvpF6Ql6RMzq1jSIUOnm79ic0q9116Q116ZRdyBa9w4kRaFBXKJlS5Nl7Z5R5g117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "Exclusive Probe of leaked US NSA hacking tools examines operatives mistake",
+		"url": "http://www.reuters.com/article/us-cyber-nsa-tools-idUSKCN11S2MF",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "EJ1YGx8rQ6mK116Pdq3q116w2u8TLE0sSPv123rtQhZKco12NvSQnA3q4OsNp1232116vBJjY1lmcumbm5txzkbJAYb123Hd4g117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "Dem criticizes Yahoo for not disclosing hack sooner",
+		"url": "http://thehill.com/policy/technology/297344-dem-criticizes-yahoo-for-not-disclosing-hack-soonern",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "kePUjgDsR6MnULhkPKMq1166fdeh116123ryWVeyMttvmHphy5bnpWBod7KGK0L8Q76vXBwCZL9QJASSGfEPKSlPGcUw117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "Intel Dems Russia making 039serious effort039 to influence US election",
+		"url": "http://thehill.com/policy/cybersecurity/297357-intel-dems-russia-making-serious-effort-to-influence-us-electionn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "MDGHC1ciyc9116vkbmJj1162ldzrkJPABIIR123vpBKi9i13N9EtxQKD5s7VH6rfSXiFOcNH146Kv12aDUm123y8123eTkUw117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "Overnight Cybersecurity Fallout from Yahoos massive breach",
+		"url": "http://thehill.com/policy/cybersecurity/overnights/297356-overnight-cybersecurity-yahoo-announces-massive-breachn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "rXBmXqz13H1116hXhcgNsxJNGi9zksXcMoykaHs75J1jgLGm2paZm116eI3Z1236SwsczybYqwoBxMgvTRRCQeAq2fCg117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "Yahoo Reveals Nation StateBorne Data Breach Affecting A HalfBillion Users",
+		"url": "http://www.darkreading.com/attacks-breaches/yahoo-reveals-nation-state-borne-data-breach-affecting-a-half-billion-users/d/d-id/1326984",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "OXkeFxREn0M116dxVZ78G3qAtKJgpVwBp90w49UgOSDzSdI7KudK72X6FQJedPEvCZap116Zc0kkj24123UfRiJ4DvuA117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "Biometric Skimmers Pose Emerging Threat To ATMs",
+		"url": "http://www.darkreading.com/bank-systems-and-tech/biometric-skimmers-pose-emerging-threat-to-atms/d/d-id/1326987",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "MaLfb1231utqR0VjHOkvtEdPRh116VZpllTD0YmEcy0C3SQGFBfjSwourYYXI0ec5SI123TWmtKSZio7123dmyOYBrYCbw117117",
+		"item_date": "2016-09-23 00:00:00",
+		"title": "Cybersecurity is a team sport",
+		"url": "http://blogs.ca.com/2016/09/23/cybersecurity-is-a-team-sport/",
+		"domain": "blogs.ca.com",
+		"image": ""
+	},
+	{
+		"curated_id": "v1t3kAzYxLYtbPu3QIESQM1169CJqskUXepyY6Amuv123U5i116iQzi1Xva4ucjGwLXONsTkGBD123lTGe0yzTCAjHx0hQ117117",
+		"item_date": "2016-09-23 00:00:00",
+		"title": "500m Yahoo accounts were hacked in 2014 company confirms",
+		"url": "http://www.itsecurityguru.org/2016/09/23/500m-yahoo-accounts-were-hacked-in-2014-company-confirms/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "4wRf9qc6ablVYxnNIREU9pKPZjh0DyxLeaPtmpn5BfJObMwkSje0TeMXy1TNfYgH2ziLxq92oQn4fzyHn4PX116w117117",
+		"item_date": "2016-09-23 00:00:00",
+		"title": "324000 payment cards breached CVVs included",
+		"url": "http://www.itsecurityguru.org/2016/09/23/324000-payment-cards-breached-cvvs-included/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "0psFheTioSj7KgLrPQGZMX5m48OPwcybxIh4C2116zDoxot6cJ79IazDeDZcZmN72hXYC1TJriE0S53Kx9PeJIZg117117",
+		"item_date": "2016-09-23 00:00:00",
+		"title": "Yahoo hack  Industry reactions",
+		"url": "http://www.itsecurityguru.org/2016/09/23/yahoo-hack-industry-reactions/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "zb9sUShxDgvacn94iYmXWSz07XLU4iInsIaCZ9AvfGfDVPUI1165SAGUGdvZ2gdR5M19xjFqIF7IXy116vCsyVC7Fw117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "Yahoo confirms statesponsored attacker stole personal data of at least 500 million users",
+		"url": "https://techcrunch.com/2016/09/22/yahoo-confirms-state-sponsored-attacker-stole-personal-data-of-at-least-500-million-users/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "PoZl116L116cIdnUcj8rOnIbQSEud1eOGYScUg2i8phr4q9fQETEHrK3k6942Z99ZEMpLbqDhFWLJmxIF1DakK4KjQ117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "Ethereum Is Under Attack",
+		"url": "http://motherboard.vice.com/read/ethereum-is-under-ddos-attack",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "kp2116123vsFzaUXV3IHTdXLkcYnU8HCfTIcAUVeFwCyL52YBNmUpyIdVzCtFtBykE0L2O6123S80cX1168NOjVp7cTfJw117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "Yahoo Says a Nation State Hacked 500 Million Customer Accounts",
+		"url": "http://motherboard.vice.com/read/yahoo-says-a-nation-state-hacked-500-million-customer-accounts",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "VTF4oSW116XCMJia9LlDe0QTUgL7f123xG9dYTKgbcogO5VwMrIf1lJ0SzYXVoKGvBwglhCMi7lM6mIgykcSz4LwVQ117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "Bedrock Control System Provides Cyber Secure SCADA RTU Platform for Clarksville Light  Water",
+		"url": "http://www.remotemagazine.com/main/news/bedrock-control-system-provides-cyber-secure-scada-rtu-platform-for-clarksville-light-water/",
+		"domain": "www.remotemagazine.com",
+		"image": ""
+	},
+	{
+		"curated_id": "uXA6QJIbmXz1HYlEpf5qotVZF89w4wIPtpIQFyIZ3nFDj3123786VTD1gSo0SNhzWhav6FIu4TnydI0oSuZvlBNA117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "Yahoo Confirms Massive Data Breach Affecting At Least 500 Million Accounts",
+		"url": "http://time.com/4504830/yahoo-confirms-massive-data-breach/",
+		"domain": "time.com",
+		"image": ""
+	},
+	{
+		"curated_id": "gN5NVBJJx2hEB8X6ZoXQM5whU0SUSfrzCtWjNQydCdXvRLKybD116qcZ00Ffz116Vetsv7F7a03hfxsc1239VEn6hzqA117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "Yahoo announces major data breach",
+		"url": "http://thehill.com/policy/technology/297291-yahoo-announces-major-data-breachn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "UTxPOvXbDP1vrIhHbENIyYDDNn0pRN9Eiu06br1s04a116HFE123JEbvTQ116zAu16789crYOGZubVwTwYsQPrWaU3Kw117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "Yahoo Says Hackers Stole Data on 500 Million Users in 2014",
+		"url": "http://www.nytimes.com/2016/09/23/technology/yahoo-hackers.html",
+		"domain": "www.nytimes.com",
+		"image": ""
+	},
+	{
+		"curated_id": "rif7mz4xb4116SFNR1Ere1CE3RyH73pX8CMxA123fEOj2uBoA8NI78QKeOzCrMblCmmpUmZK29Mh1230N4CnugMkCcuQ117117",
+		"item_date": "2016-09-21 19:30:45",
+		"title": "No Global Warrants Stop the US Governments Hacking Loophole",
+		"url": "https://noglobalwarrants.org/",
+		"domain": "noglobalwarrants.org",
+		"image": ""
+	},
+	{
+		"curated_id": "VQTnlQZd9RYvmjT0MuH7oP5vwDfQCCpdtpeAPBTXIwpKIPlMtzkWT9ma61JHEt123MZP4W7t6sThYtI116Pyi5scDw117117",
+		"item_date": "2016-09-22 12:26:55",
+		"title": "sp800150seconddraft",
+		"url": "http://csrc.nist.gov/publications/drafts/800-150/sp800_150_second_draft.pdf",
+		"domain": "csrc.nist.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "ZLDWbZk3wRDif3hWGUdtCbmEnAIatiVKIDI3YNLUp22j2NiRziTIaeUgThQsPw116NX7y83nijQ2hRCh4JSGosaw117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "Hack Brief Yahoo Looks Set to Confirm a Big Old Data Breach",
+		"url": "https://www.wired.com/2016/09/hack-brief-yahoo-looks-set-confirm-big-old-data-breach/",
+		"domain": "www.wired.com",
+		"image": ""
+	},
+	{
+		"curated_id": "40FyMVpqHazDmDzuIIGASd9LmQr1rO6LypONnhOicytDDEbyTbqNW2XgOIxYZifQBXIqhL8AtC123oFWRTADxSQw117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "Yahoo set to announce huge breach report",
+		"url": "http://thehill.com/policy/technology/297185-yahoo-set-to-announce-huge-breach-reportn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "V311630XbuBJN4JgZpYEceqpO2pBK8bX5NTJq116aP0MU6egNPmOjl8y32P6Bg7V1VPX9OUtfN0p512vYBBmcJhICA117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "Small business cybersecurity bill clears House",
+		"url": "http://thehill.com/policy/cybersecurity/297192-improving-small-business-cyber-security-act-clears-housen",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "q123lYW1bd4dnGT123gTpNwJ5zMTfRl116r116pAvorXe480N123iH4F116RqrkxNaMoFjgmqeA2VWNkN94GlBPWOu3YUkkZRg117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "Yahoo is expected to confirm massive data breach affecting hundreds of millions of users",
+		"url": "http://www.pcworld.com/article/3123038/security/yahoo-reportedly-to-confirm-massive-data-breach.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "WeqgSSmG634ZP5txWc0yRF8jCL1pOE8123zi123nh116IA0pNLhPoZV5WrRtf3IwC6qW116JSsA6ZAr78QFCPXcLJF1h5g117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "Report Yahoo May Confirm Serious Data Breach Implications For Verizon Unknown",
+		"url": "http://www.crn.com/news/networking/300082187/report-yahoo-may-confirm-serious-data-breach-implications-for-verizon-unknown.htm",
+		"domain": "www.crn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "uu9nn123r0F24Bkruc5UQiGtmJG7hjjnwxhu8dTjuhTqlfFcUkwBhwHJ1238qofPHSS9LJW2cBAMXmXjByYUN3LBbA117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "Massive web attack hits security blogger",
+		"url": "http://www.bbc.co.uk/news/technology-37439513",
+		"domain": "www.bbc.co.uk",
+		"image": ""
+	},
+	{
+		"curated_id": "IEjZRosG123nRw04kb2i9gxqOFj7Gzpmx2FeeXQ1mVDCsMUzmkfYswgBjhUXaMojeynsclNArUMR116NoptKYOVseA117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "New legislation seeks to prevent US voting systems from being hacked",
+		"url": "http://www.itsecurityguru.org/2016/09/22/new-legislation-seeks-to-prevent-us-voting-systems-from-being-hacked/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "Ycjiy5uf6aKuxPsRavt0OTnipDg123qs123n116fZgpbTJEE1UWskL5NAlsTt6wZpax6uQFMavu123GG7Xl63WtbH0reAg117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "Poisonous Mamba Ransomware Overwrites Your Master Boot Record Encrypts Your Entire Hard Drive",
+		"url": "http://www.itsecurityguru.org/2016/09/22/poisonous-mamba-ransomware-overwrites-your-master-boot-record-encrypts-your-entire-hard-drive/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "TAXrdJ7Lxvyh1Hc3FBClhdfPuW1116hMMDezPPbL5kNHA45piKb5YJPlfScgyl1L0123qkwAeVY8wa2k116S5ozAZktg117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "Chinese hackers steal millions in Wall Street tech firm breach",
+		"url": "http://www.itsecurityguru.org/2016/09/22/chinese-hackers-steal-millions-in-wall-street-tech-firm-breach/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "fw1DgVZVTdWZtUU4EgjBct40jSuhSIKq4iaWagVLl8pJmFuQCt0SZoOardgdIVKc1qEKKYePqUWsGTs1123Bl1Fw117117",
+		"item_date": "2016-09-21 00:00:00",
+		"title": "Overnight Cybersecurity Trump opposes internet handover  A record breaking cyber attack  Intel chief says Russian election hacks are a 039tradition039",
+		"url": "http://thehill.com/policy/cybersecurity/overnights/297131-overnight-cybersecurity-not-a-big-shock-russia-hacksn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "A54gJ89Tcei8W6cYXdOFkjwGhhxWier2RfF2Fh8x6F6AVzVL7vvdHzwHSvEfQvXdWgtvs123hvvIYu6OA2X9hnMQ117117",
+		"item_date": "2016-09-19 00:00:00",
+		"title": "Hackers Hit Some Cisco Customers With Leaked NSA Hacking Tools",
+		"url": "http://motherboard.vice.com/read/hackers-hit-cisco-customers-leaked-nsa-hacking-tools-shadow-brokers",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "0i2AbcUZKGQSRaNpIrZQGxpt4OdtS90k123m5mwpM4syzEie2lYcTq28yQeZwzCMxj123IWbwEKF2gIytTMsZtqpeA117117",
+		"item_date": "2016-09-19 00:00:00",
+		"title": "Fear hacker hits hundreds of government servers",
+		"url": "http://thehill.com/policy/cybersecurity/296636-fear-hacker-hits-hundreds-of-government-serversn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "xy2c1pLOoDw0v4LjipByFEUzN8ZUWZsdv467OuMvH7oRbb0Lib8Ramk7ElFfOHXqggrNKz116YGnr7a54ZCLHNmw117117",
+		"item_date": "2016-09-19 00:00:00",
+		"title": "Overnight Cybersecurity House panel looks into Reddit post about Clinton emails  Hacker claims he hit hundreds of government servers",
+		"url": "http://thehill.com/policy/cybersecurity/overnights/296722-overnight-cybersecurity-russia-responsen",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "fSj1jC123RJNEhXV7dQL123yFoaFnepgnk6hUMuzOcVZldUt100zepSddW2116rMJsNWSngravkCFkZHaXAl1164pvXSDA117117",
+		"item_date": "2016-09-21 00:00:00",
+		"title": "Influencers Calling it critical infrastructure wont protect the vote",
+		"url": "http://cyberlaw.stanford.edu/press/influencers-calling-it-critical-infrastructure-wont-protect-vote",
+		"domain": "cyberlaw.stanford.edu",
+		"image": ""
+	},
+	{
+		"curated_id": "r2pPuTUKMNHAvz70fRsbfeR10qnk4qqk47wMluz8dLC9o0t6FJg00mI5ODySPKLmqSFekiwg8RMl1uZm8m3JMg117117",
+		"item_date": "2016-09-21 00:00:00",
+		"title": "Cybersecurity and the Ballot Box",
+		"url": "http://cyberlaw.stanford.edu/multimedia/cybersecurity-and-ballot-box",
+		"domain": "cyberlaw.stanford.edu",
+		"image": ""
+	},
+	{
+		"curated_id": "iz116tnCEPm9OAYPHK9RHkYdxYGnZegkUqzmNstkUyC7Ce3dBhMBy3K8feiapSMuusiFLhfEg8trC9WJEbdxySBQ117117",
+		"item_date": "2016-09-21 00:00:00",
+		"title": "DDOS Trends Report 2016",
+		"url": "https://ctovision.com/ddos-trends-report-2016/",
+		"domain": "ctovision.com",
+		"image": ""
+	},
+	{
+		"curated_id": "R2fgsteToodnV7nAi12324Abokwrttw46WTbbGR0pr116a9yKn586IMWNXEfB116Ih4clV1f6FaUd0k5F2etQe6CsDYA117117",
+		"item_date": "2016-09-21 00:00:00",
+		"title": "Top spy suggests Russia trying to sow doubt in US elections",
+		"url": "http://thehill.com/policy/national-security/296999-top-spy-suggests-russia-trying-to-sow-doubt-in-us-electionsn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "0RWsJucVD9imMn4SYGtqU7eb7dhxt5DgZw9i4wHtFyELxQSMaqo8PS116SP9KLP8OEGDSPlzFSA6EgE123hX8ilsNw117117",
+		"item_date": "2016-09-21 00:00:00",
+		"title": "Hackers hit reporter with recordbreaking attack",
+		"url": "http://thehill.com/policy/cybersecurity/297049-hackers-hit-reporter-with-record-breaking-attackn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "IsCm123Hbs1C037ZbQvsGi7t3T116kjvmm5jykusMNEw4x1iFSdKm123aubQF8G6n9fyvk0Be1rbDKJHl1237Vh4YTtH123g117117",
+		"item_date": "2016-09-21 09:00:02",
+		"title": "Are You Covered Ransomware CEO Fraud and Cyber Insurance",
+		"url": "https://www.infosecurity-magazine.com/webinars/cyber-insurance-plugging-holes-in/",
+		"domain": "www.infosecurity-magazine.com",
+		"image": ""
+	},
+	{
+		"curated_id": "116MmLpnQl1RdhnLCi1u85cjppSMu7MHApQg3116jZG67MCKKi2dxroPo116vemSlgHDN28hnVaSWFZLZIZp6iEou27g117117",
+		"item_date": "2016-09-21 09:11:17",
+		"title": "Someone Is Learning How to Take Down the Internet",
+		"url": "https://www.schneier.com/blog/archives/2016/09/someone_is_lear.html",
+		"domain": "www.schneier.com",
+		"image": ""
+	},
+	{
+		"curated_id": "2TTH4tqwj6wR97QGy4TO116KgNL123F1ejuZg8d8KJajIDv116zHJVKhvUfzzwWL3aSD8GM8AN116xazWXh8R8PtA7s77Q117117",
+		"item_date": "2016-09-21 00:00:00",
+		"title": "A Twist On The Cyber Kill Chain Defending Against A JavaScript Malware Attack",
+		"url": "http://www.darkreading.com/attacks-breaches/a-twist-on-the-cyber-kill-chain-defending-against-a-javascript-malware-attack/a/d-id/1326952",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "KTGW1fDtDJ116zYFhovqArB116yPRjL1236GNCWF4JfZDAyF8G3by1x10116uKmJYrXch2yGpKLgPu0L99GuSBoaMv1234MQ117117",
+		"item_date": "2016-09-21 00:00:00",
+		"title": "Tesla Model S Hack",
+		"url": "https://www.schneier.com/blog/archives/2016/09/tesla_model_s_h.html",
+		"domain": "www.schneier.com",
+		"image": ""
+	},
+	{
+		"curated_id": "kWsCqYUJLQYH22tCTzI8J5W123lu1oMYVYbUllj43KQFk1ZWxllroodilB004K3khW2n28RHhRVrjlEx0nYUybUw117117",
+		"item_date": "2016-09-21 00:00:00",
+		"title": "Security researchers from China remotely hacked a Tesla Model S",
+		"url": "http://www.itsecurityguru.org/2016/09/21/security-researchers-from-china-remotely-hacked-a-tesla-model-s/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "tPesxMBl2nRWPCQVZ12364ejZlLOxvC0z2BkpBOiXV1161c1gfNbzpxZ116Z2gsfCItRrANWr1233IW2u123MjUiWxpL6gNA117117",
+		"item_date": "2016-09-19 00:00:00",
+		"title": "The Evolving Law of Global Killing",
+		"url": "https://www.lawfareblog.com/evolving-law-global-killing",
+		"domain": "www.lawfareblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "116nq8wfk8fpZVCOamh9p43waZP116q32CC1235L5tras0LsLIoiF2Xg8ZplfyVJrmBr1u8eeEjlvZySOTPO9EYnZFoQ117117",
+		"item_date": "2016-09-19 00:00:00",
+		"title": "San Bernardino iPhone Hack Media Agencies Sue FBI For Vendor Details",
+		"url": "http://www.darkreading.com/mobile/san-bernardino-iphone-hack-media-agencies-sue-fbi-for-vendor-details/d/d-id/1326939",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "123LiMr7uW123gVNeN0VpqFd4116W1123he99LT123diDirD8oBwTbPL93ZtEoPfKMQ116w0PE7rr9qEDqaCQJqwm0VVBRVFGg117117",
+		"item_date": "2016-09-19 00:00:00",
+		"title": "Top Colleges For Cybersecurity",
+		"url": "http://www.darkreading.com/attacks-breaches/top-colleges-for-cybersecurity/d/d-id/1326938",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "123d1230u2b39123aplhboiHWfmlJAz129h9SPCOsahaZozVixhmAmqF0Hw116FV3qzXx2N1pV2IBq2et14ew6jcP0a17A117117",
+		"item_date": "2016-09-19 00:00:00",
+		"title": "The Time Is Now To Address The Cybersecurity Talent Shortage In Unique Ways",
+		"url": "http://www.darkreading.com/partner-perspectives/intel/the-time-is-now-to-address-the-cybersecurity-talent-shortage-in-unique-ways/a/d-id/1326942",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "mdBRZiqunZ71rAGmSCGNJVjSP1VmJ3WTyWJez5qhY1160ip41164LllGXdgyG5stwkOWde8123F123G06CgUOiJWms4Qog117117",
+		"item_date": "2016-09-19 00:00:00",
+		"title": "Whats The Risk 3 Things To Know About Chatbots  Cybersecurity",
+		"url": "http://www.darkreading.com/vulnerabilities---threats/whats-the-risk-3-things-to-know-about-chatbots-and-cybersecurity/a/d-id/1326912",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "123y123wyjVh4XeUclZg116ftX9olBT9cbtQ123RfeKA1iw1McPAzDRjRvTfTloypkWmSAOEtmmXvhBY8yCM3gn89thTJQ117117",
+		"item_date": "2016-09-19 00:00:00",
+		"title": "Mobile Exploitation Analyst",
+		"url": "http://nationalcybersecurity.com/mobile-exploitation-analyst-2/",
+		"domain": "nationalcybersecurity.com",
+		"image": ""
+	},
+	{
+		"curated_id": "s6DLT6CYM4ILhMzHQhKFFZbKRTul7LTE2diE6Qaz3H5Xadyy3Bvjas5gTeigM2NUBa80MnRy3PKK27wXh116uyOg117117",
+		"item_date": "2016-09-13 11:36:44",
+		"title": "Tweet The intelligence community needs stronger congressional oversight httpstcod1oHrnWoWb opengov httpstconIZReqYZri",
+		"url": "https://twitter.com/SunFoundation/statuses/775765169578184704",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "CF8FeYNPwI9G1WPgQgt1162s2TsfzAiekyudmMYN6hasPsXy3Le123KaroTcphiRKwCfhX1mBODy0vJtgzXJhH8EgA117117",
+		"item_date": "2016-09-14 00:00:00",
+		"title": "Policy Law and Technology in the Current Crypto Wars",
+		"url": "http://cyberlaw.stanford.edu/events/policy-law-and-technology-current-crypto-wars",
+		"domain": "cyberlaw.stanford.edu",
+		"image": ""
+	},
+	{
+		"curated_id": "zfIwIRL2jO1239tz63c6fe2DkHxdSx116LaLr29O9kUxi5116R0WECuT22yBo0v5v1zJ116QhzadNU7obr41123bDNtxE4eA117117",
+		"item_date": "2016-09-15 00:00:00",
+		"title": "Sports Threat IntelligenceSharing Group Formed",
+		"url": "http://www.darkreading.com/threat-intelligence/sports-threat-intelligence-sharing-group-formed/d/d-id/1326919",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "11685XTUQxhppc69VRXOamcCy4zzfAZqm3knGqppyTn7cZ1tULbpkBtjxhbsZQ0d1GyzjHD6BEtY5lrPtw8IZXjg117117",
+		"item_date": "2016-09-15 00:00:00",
+		"title": "FBI Agent Posing as Journalist to Deliver Malware to Suspect Was Fine Says DOJ",
+		"url": "http://motherboard.vice.com/read/fbi-agent-posing-as-journalist-to-deliver-malware-was-fine-says-doj",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "5woz5XsR7Hxu3rMjVso4yVVeSRITs4uYoDRtqSC3UdLuNHEqlClPrvLgwVGTWJ79Cn62sgTp6g0Jnrd9uv8qbg117117",
+		"item_date": "2016-09-15 00:00:00",
+		"title": "Hackers probe cyber defences to bring down the internet",
+		"url": "http://www.itsecurityguru.org/2016/09/15/hackers-probe-cyber-defences-to-bring-down-the-internet/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "G123shpWH116klWAk4qhnBnTEGg0owfqJdztcBkUDBxQDHzveFJeECDbaQNxBlouxvA9S123116TtoAwT123aAL6Eaps123yNw117117",
+		"item_date": "2016-09-15 00:00:00",
+		"title": "Sixth Linux DDoS Trojan Discovered in the Last 30 Days",
+		"url": "http://www.itsecurityguru.org/2016/09/15/sixth-linux-ddos-trojan-discovered-in-the-last-30-days/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "eimO89zrM0vo9fw0JR8wrfCPKuBXdEHMDDKKhpHfJstV4Pf78GzIJvz0qC123gYQJyWyT2QAv0s123hk5FnwrcquCQ117117",
+		"item_date": "2016-09-15 00:00:00",
+		"title": "Research reveals the opportunities EU employees are presenting to cyberattackers on social media and messaging applications",
+		"url": "http://www.itsecurityguru.org/2016/09/15/research-reveals-the-opportunities-eu-employees-are-presenting-to-cyber-attackers-on-social-media-and-messaging-applications/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "rv5vzl7q123XrPyWqaVRLJY3Rmb2QaUQXTBz3AIEsMel355Xrl8xvW1KQnJb3Wfblbdv3wnrD2zqukR6CKHlvPHw117117",
+		"item_date": "2016-09-15 00:00:00",
+		"title": "Playpen The Story of the FBIs Unprecedented and Illegal Hacking Operation",
+		"url": "https://www.eff.org/deeplinks/2016/09/playpen-story-fbis-unprecedented-and-illegal-hacking-operation",
+		"domain": "www.eff.org",
+		"image": ""
+	},
+	{
+		"curated_id": "VbUkoss342SFKwae9Vk11632MqzAtOT3qUtcXshLsS8gA123yTUtDejo6ybEhRYFdqPX3IafN1r44RXyLGV921jm4Q117117",
+		"item_date": "2016-09-15 00:00:00",
+		"title": "NY to Pilot Cybersecurity Regulations for Financial Organizations",
+		"url": "https://continuum.cisco.com/2016/09/15/ny-to-pilot-cybersecurity-regulations-for-financial-organizations/",
+		"domain": "continuum.cisco.com",
+		"image": ""
+	},
+	{
+		"curated_id": "HZLnqU3fxdXjHghDTKEbXd3K5Q1DLl8yP116j6uDTHimbOGA28rgghbPk7kvUy4H4WBdyBUPsWmzZK8ZDhmbhw9g117117",
+		"item_date": "2016-09-15 00:00:00",
+		"title": "Your brand instore is under cyber attack",
+		"url": "http://disruptiveviews.com/your-brand-in-store-is-under-attack/",
+		"domain": "disruptiveviews.com",
+		"image": ""
+	},
+	{
+		"curated_id": "AGt1KjI6rUR116gTm1xW123Ps1JUnrbYjuocKDZh123jnOxDPwA2CEQvV2cCG7VEYpBW4o5tG4rFXkIMsm12389o1238YJkg117117",
+		"item_date": "2016-09-15 00:00:00",
+		"title": "The Library of Congress Was Hacked Because It Hasnt Joined the Digital Age",
+		"url": "http://motherboard.vice.com/read/the-library-of-congress-was-hacked-because-it-hasnt-joined-the-digital-age",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "f6L123Go116I1DtWQSyd4uQxzb6lYv6f9R2FQdIOpcR0gQgqB5fLL1ZHkMQXbVXjHjazb116bJsTecuD11R7WFrROAlg117117",
+		"item_date": "2016-09-15 00:00:00",
+		"title": "Cybersecurity for Building Control Systems Workshop Series",
+		"url": "https://ics-cert.us-cert.gov/Cybersecurity-Building-Control-Systems-Workshop-Series",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "yhAFE7sd5cmGfGgs116K77wOuTXcQ116yx7XEIQvAO116j123LuSLI2C116EkYX17f1oqWB4DKEHLkVCEXstCJlDBqELy9123Q117117",
+		"item_date": "2016-09-16 00:00:00",
+		"title": "Central Banks Set Up Team To Oversee Cybersecurity",
+		"url": "http://www.darkreading.com/attacks-breaches/central-banks-set-up-team-to-oversee-cybersecurity-/d/d-id/1326925",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "m6RujStLOymtPWvCy7Slzrpa411643ZndiBFSyRZc69Xq4Z3DhZb4RdBKePGYds5wN6rk75Ud4LNZXfJxspGD4HQ117117",
+		"item_date": "2016-09-16 00:00:00",
+		"title": "Chinese Companies Open Checkbooks to Acquire European Tech",
+		"url": "http://www.nytimes.com/2016/09/17/business/dealbook/china-germany-takeover-merger-technology.html",
+		"domain": "www.nytimes.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Q9Fd886owESjMRFnmXP116qqHtUljThlgtkua6E7fgHIOSC6wVr4wO0BvJSxPZLaOTHv6f4irMT116WE116YaiES6pOQ117117",
+		"item_date": "2016-09-16 00:00:00",
+		"title": "Volkswagen launches new cybersecurity firm to tackle car security",
+		"url": "http://www.itsecurityguru.org/2016/09/16/volkswagen-launches-new-cybersecurity-firm-to-tackle-car-security/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "mqQB8DGRsuXxCcXo0FWCjzC0Y3RhBhHnogUiziOmmDljb123oXeW123e3B9K7ZIxT0lnpQBmP3p1P123Su4Z9TbNzOTA117117",
+		"item_date": "2016-09-12 07:05:47",
+		"title": "Accountability for Algorithmic Autonomy in War",
+		"url": "https://www.lawfareblog.com/accountability-algorithmic-autonomy-war",
+		"domain": "www.lawfareblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "mtmzYLAPQWWuhWtOmZEdIrNRjSYiJy95dgdxac4quXqjK3pRkTzE116YUwd7t64KKnor6kR0ZAiWHtQmasV7SwSQ117117",
+		"item_date": "2016-09-15 00:00:00",
+		"title": "Data Loss Risks Rise In The Age Of Collaboration",
+		"url": "http://www.darkreading.com/vulnerabilities---threats/vulnerability-management/data-loss-risks-rise-in-the-age-of-collaboration/d/d-id/1326905",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "oQDfUY0WYxt3y0TPCCo0K123A2855GYXyIaq116w7h6xtg43UltJuMD1ZcXw6RZnTrbBoW7BB1rjkzl53IERuox2Rw117117",
+		"item_date": "2016-09-15 00:00:00",
+		"title": "FEC stalemates on how to deal with foreignowned companies spending in elections",
+		"url": "http://www.opensecrets.org/news/2016/09/fec-stalemates-on-how-to-deal-with-foreign-owned-companies-spending-in-elections/",
+		"domain": "www.opensecrets.org",
+		"image": ""
+	},
+	{
+		"curated_id": "XAvegRo8zDk116jt04CY4fELTajKIrnuYM7N9fEK2123RcMEtQa0FpRr9PvtMuCuqk116LnBy51LqSh0625dqnloIiHQ117117",
+		"item_date": "2016-09-15 00:00:00",
+		"title": "French spy boss admits France cyberattacked Iran Canada Spain Greece Norway Ivory Coast Algeria and others",
+		"url": "http://boingboing.net/2016/09/15/french-spy-boss-admits-france.html",
+		"domain": "boingboing.net",
+		"image": ""
+	},
+	{
+		"curated_id": "BCwDaBIppf2rTnWaRffDL116iNvFvrPQj9qqRc1sUQdpDACFAF4doQBDiSMzYM0J0XLzU7m2K4Pdoa5CSy6qsM0Q117117",
+		"item_date": "2016-09-15 00:00:00",
+		"title": "In a leaked weaponized information catalog Indian cyberarms dealer offers blackestever SEO",
+		"url": "http://boingboing.net/2016/09/15/in-a-leaked-weaponized-infor.html",
+		"domain": "boingboing.net",
+		"image": ""
+	},
+	{
+		"curated_id": "123y1LOPmlvO574qDNX80C1168V9EkAEQLAPIWTKDN1cmuqgOE116BJZW1LIXLS3dL1th6116bkTdw9H5um3DoMFlMxszw117117",
+		"item_date": "2016-09-12 00:00:00",
+		"title": "Government Accelerates Cyber Hiring",
+		"url": "http://www.darkreading.com/partner-perspectives/intel/government-accelerates-cyber-hiring/a/d-id/1326872",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "kn0fVZRMkazkx6ClTq7eVS13DnmDr918ihwlL9jBG116nLkd6DzhSf6pZD0D52eCUrG0DQAY3PvT0Qrh3U28dqOA117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "ICSCERT releases Recommended Practice Improving Industrial Control System Cybersecurity with DefenseinDepth Strategies",
+		"url": "https://ics-cert.us-cert.gov/ICS-CERT-releases-Recommended-Practice-Improving-Industrial-Control-System-Cybersecurity-Defense",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "VCg0UBa8uzSovbBhSBKpFOhVTKrIb5dGoCPcmAzjUiaft8ANbqMufwKAaZn7bXKd2RTOUzTeDYyB547jHDBSUQ117117",
+		"item_date": "2016-09-12 00:00:00",
+		"title": "Nuclear Watchdog Suffers DDoS Attack Ahead of North Koreas Nuclear Test",
+		"url": "http://www.itsecurityguru.org/2016/09/12/nuclear-watchdog-suffers-ddos-attack-ahead-of-north-koreas-nuclear-test/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "Oqk1PhtIoAil0i0NOSS51JeV5xyeNX4hKl123tcLFmzlf46zcsi41Uh1AF0sy116DCki4n5AqPlf0UjJbIOSjFuw0g117117",
+		"item_date": "2016-09-12 00:00:00",
+		"title": "911 is Vulnerable to DDoS Attacks Hackers Prove How Easy it is",
+		"url": "http://www.itsecurityguru.org/2016/09/12/911-is-vulnerable-to-ddos-attacks-hackers-prove-how-easy-it-is/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "JNgWNVV6dNYSlJsJpuR116aQVkr5qvY5fgtjzPTmeyJgGE5MTXtMezY1v2TojTCuppV116oHMAw8Xqhoytnt116UTsEw117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "Cybersecurity In The Obama Era",
+		"url": "http://www.darkreading.com/attacks-breaches/cybersecurity-in-the-obama-era/d/d-id/1326712",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "l4SLnxXSR8hq123GdJpN9xnKmFIvhaM9ok8DAanXK1m63CnxnjuzPd3DpOa9xuFLs8hADOLHl123ItmnhncYceYfug117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "Accenture Hires Former CIA Tech Exec To Head Its Federal Services Cybersecurity Practice",
+		"url": "http://www.crn.com/news/security/300082058/accenture-hires-former-cia-tech-exec-to-head-its-federal-services-cybersecurity-practice.htm",
+		"domain": "www.crn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "qkUYvM80acA12i0z46q9f123QklFLnS11Yx7123yQ1239j8A8URx27jq4123noaMlR116cgxIRY0IXE4116e47XqQ8uD3scPxw117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "Cyber security in mining managing risk amongst disruption",
+		"url": "https://exchange.telstra.com.au/2016/09/14/cyber-security-mining-managing-risk-amongst-disruption/",
+		"domain": "exchange.telstra.com.au",
+		"image": ""
+	},
+	{
+		"curated_id": "vGA6YfFDTAn7v6TMDIOiNA0zRUXR17tCWIhnoAcvihTrpsw0eTA1icVPXOvxc4ZUoC6Zg6ELNGoB6MLPKsKXoQ117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "Hackers smear Olympic athletes with data dump of medical files",
+		"url": "http://www.pcworld.com/article/3119715/security/hackers-smear-olympic-athletes-with-data-dump-of-medical-files.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "NxNwSxTvnaZc9H0atKU89IOH5QxBdEPUYhwmDA6yjfFold7DS123xKFMYK7ztCRcRhLY116y7LsZsE116ZsKmBd116116ABA117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "FSecure University of Helsinki For New Cyber Security Course",
+		"url": "http://www.cxotoday.com/story/f-secure-and-university-of-helsinki-team-up-for-new-cyber-security-course/",
+		"domain": "www.cxotoday.com",
+		"image": ""
+	},
+	{
+		"curated_id": "EM2DCgUwfoj123kMyarvBDgRWEoZtDqbPoWE123dO8TM9rmXupRdvoMIZiO4sXcQL116nQwwndIHjM8zhT07HCKFRvKA117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "The Cyber Threat To Credit Unions Lessons to inform a solid defense",
+		"url": "https://ctovision.com/cyber-threat-credit-unions-lessons-inform-solid-defense/",
+		"domain": "ctovision.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Moxmu1WWPRxnKCS3VJAkK63hoB2Qz1HG116LKnQ7qEyKEuDsYOqN6u116gyc123NS123n4UPbal90116NjEa1168hJAw9x3iQQ117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "New York issues nations first cyber regulations for banks insurers",
+		"url": "http://disruptiveviews.com/new-york-issues-first-cyber-regulations/",
+		"domain": "disruptiveviews.com",
+		"image": ""
+	},
+	{
+		"curated_id": "1Hz6dWvuFd116c1m79wjXvltz1jwHrCeNezyd7w7123116ufNMG3Vhm2HengNLbmt0116kfM116GcwETk2KXzUrjKmzfwHcQ117117",
+		"item_date": "2016-09-14 00:00:00",
+		"title": "Volkswagen is founding a new cybersecurity firm to prevent car hacking",
+		"url": "http://www.pcworld.com/article/3120283/volkswagen-is-founding-a-new-cybersecurity-firm-to-prevent-car-hacking.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "8PNrQuBLJfYcIMzIDf2CJFoTHeajivdu4QipRKEHPTZKpJ86MtBb9cXsLLSl4FGrfFsPgAOi3ISJ1mr41233Xo7Q117117",
+		"item_date": "2016-09-10 20:15:06",
+		"title": "Justice Dept group studying national security threats of internetlinked devices  Reuters",
+		"url": "http://www.reuters.stfi.re/article/us-usa-cyber-justice-idUSKCN11F2FP",
+		"domain": "www.reuters.stfi.re",
+		"image": ""
+	},
+	{
+		"curated_id": "0qlDklexoO0HV0m5RWh8J1EiKrNXzSdZcXu9Q9Oae116vgPDMyY2nrbpmyzIuk1wg123bgYqIXzxcYWXnSDOtswiYA117117",
+		"item_date": "2016-09-14 00:00:00",
+		"title": "A surprising number of computer hackers earn over 100000 a year",
+		"url": "http://www.businessinsider.com/how-many-hackers-earn-over-100000-a-year-2016-9",
+		"domain": "www.businessinsider.com",
+		"image": ""
+	},
+	{
+		"curated_id": "VWFnTYKOuB123LeTQv116GHUc0PG8NK4LiyaH2ByHtC0ctBlK123C11639xqMNO6O123TTNKE8f9d5ddeSObzJgevaY3wcqQ117117",
+		"item_date": "2016-09-14 00:00:00",
+		"title": "Logins for US Navy NASAs JPL among of US gov logins sold on deepweb",
+		"url": "http://www.itsecurityguru.org/2016/09/14/logins-for-us-navy-nasas-jpl-among-of-us-gov-logins-sold-on-deepweb/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "0SZugKNmypcmSVs3H5GfepAoXQu4W7m29AeeLJSyl0myZ9g2G3U1168ut3OVHXcD9OVc0RjdA123FVndPpxCIrtLig117117",
+		"item_date": "2016-09-14 00:00:00",
+		"title": "Turkish hacker group targets Austrian National Bank",
+		"url": "http://www.itsecurityguru.org/2016/09/14/turkish-hacker-group-targets-austrian-national-bank/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "zFfkjk9jqY1162YQAwujKNmu5v2C4EQi123shXv1KNRGqvnBE1NFOYBxgT1238eJ27t2TDLvdCYY5aRsHCC0TqkvfIKw117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "Hackers smear Olympic athletes with data dump of medical files",
+		"url": "http://www.pcworld.com/article/3119715/security/hackers-smear-olympic-athletes-with-data-dump-of-medical-files.html",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "gpTAq0H17O5116Xr8MyRwwO8lrSFq2vl8KkFxA1jCnaEzvl2SrYwy0xK116XdL1BBRL8lk0PD123X123tutCEmPnve82ug117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "What Really Happened in the OPM Breach",
+		"url": "https://duo.com/blog/what-really-happened-in-the-opm-breach",
+		"domain": "duo.com",
+		"image": ""
+	},
+	{
+		"curated_id": "MOeUWgztNcwSz123ftBcYEzEuJjDF123lfesg123o6q8Hq1231eKesM8umyB8Q4X9m5QyJEPyw5R1iSrI0151166K116Nky2gQ117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "Government data security slammed in new report",
+		"url": "http://www.bbc.co.uk/news/technology-37348019",
+		"domain": "www.bbc.co.uk",
+		"image": ""
+	},
+	{
+		"curated_id": "bTjQbpUhwhv8ar116TfV5vq3KFP4PGSBDp8B3aYK2XXJQ12JIqLI1HTbjVzRYOgXWsAwvAtVBzzc7nvE5lDgogDw117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "Someone Is Learning How to Take Down the Internet",
+		"url": "https://www.lawfareblog.com/someone-learning-how-take-down-internet",
+		"domain": "www.lawfareblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Qfnr123y9AUIdLg7tecynxHmghWlNYXRMa5CCQK9jMbpMnhgBU9PhKvuvSHVrw7HGRJWQ0qckGqMzJcZjcxbmKgQ117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "Hackers found 47 new vulnerabilities in 23 smart devices at DEF CON",
+		"url": "http://www.pcworld.com/article/3118763/security/hackers-found-47-new-vulnerabilities-in-23-iot-devices-at-def-con.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "hxRuCicKz35gYS05yHi58iZHsJ85oZSj8jnAQs6ESHDv116Y92k5J0fL123bjpI4tg69TtsseASXsg1G123utRYmLVyg117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "UK moves to active cyberdefence",
+		"url": "http://www.bbc.co.uk/news/technology-37353835",
+		"domain": "www.bbc.co.uk",
+		"image": ""
+	},
+	{
+		"curated_id": "4bjDCQsOx8QQfOCupew9l1ih4Gq4efOK123KfkghB6m9eYnKPpMCIrWufh1GDM5aDcGQf6B5yahgvsr4t1gayhpg117117",
+		"item_date": "2016-09-10 20:15:06",
+		"title": "Justice Dept group studying national security threats of internetlinked devices  Reuters",
+		"url": "http://www.reuters.stfi.re/article/us-usa-cyber-justice-idUSKCN11F2FP",
+		"domain": "www.reuters.stfi.re",
+		"image": ""
+	},
+	{
+		"curated_id": "GhmZiJ5WoQ7u1csqHbwWOtK2S116hh8zDaRjO5mqR04vZjIRCF123qEwHM63FXEtgkR8zVZwO1nx2QSVhIRszA2UNw117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "Yes Your Database Can Be Breached Through A Coffee Pot",
+		"url": "http://www.darkreading.com/iot/yes-your-database-can-be-breached-through-a-coffee-pot/v/d-id/1326863",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "oMuDHQQSAgcqQoVGTdtj7PPmXrgDeE3116uKVJ124VONYIS37kIFrWeJnpQImZSSIJUaD1cpylyiOq9m3jVyU3cA117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "DoJ Announces Team To Oversee Security Of Internet of Things",
+		"url": "http://www.darkreading.com/iot/doj-announces-team-to-oversee-security-of-internet-of-things/d/d-id/1326881",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "HHo2WHF123MS0StZ39JdhQswBp5U4uceAUmZdXetzZ123jJ69tTC4U9nrbBt79gOeDApvWEg123hFGSBfTsOzsR6VRyg117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "Russians hacked voter registration databases in 2 USA states",
+		"url": "http://www.itsecurityguru.org/2016/09/13/russians-hacked-voter-registration-databases-in-2-usa-states/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "LCtfUizP9l72F7sfM2LJexCS4hG4lzimzpD0fWCVUKRoSw8fs123MkMKFB4RbHtZVhpyfqk8PzwiNixIrj123ujjAA117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "Did North Korea launch a DDoS attack against a website monitoring its nuclear tests",
+		"url": "http://www.itsecurityguru.org/2016/09/13/did-north-korea-launch-a-ddos-attack-against-a-website-monitoring-its-nuclear-tests/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "dlWdYkslu9ykaKrtxdkQ8oDudEofcSTqBHBPIeWmzpj97bIM4v7iF0sdhXakbsMmEwArHpJUoa2JoGjmKqZhDg117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "e92plus target DDoS and Threat Intelligence opportunities through partnership with NSFOCUS",
+		"url": "http://www.itsecurityguru.org/2016/09/13/e92plus-target-ddos-and-threat-intelligence-opportunities-through-partnership-with-nsfocus/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "tDAOzNKJwFoGGkCDG6JKmSyZ9X4KI3qpigh1eRT116QGgG1EtpzqidnCUItvZ727Rukw8DIcIQSGuIEnG1232x123dsg117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "The Four Cybersecurity Terms Businesses Need to Know",
+		"url": "http://www.itsecurityguru.org/2016/09/13/the-four-cybersecurity-terms-businesses-need-to-know/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "vpCzogmJfyWKiQ1167EsSrfhJk1uT2UIp8O8xmeucVWv3l8KluFhskOCI5TkKq0O1vL6TNmh11668nHsMSRXa116gMig117117",
+		"item_date": "2016-09-12 00:00:00",
+		"title": "Volkswagen engineer behind defeat device pleads guilty in US court",
+		"url": "http://www.zdnet.com/article/volkswagen-engineer-behind-defeat-device-pleads-guilty-in-us-court/",
+		"domain": "www.zdnet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "m44WOKa7QdrbAcFf123rt7CkKhTBghBRJekBvRix0NolxXUgagVwFR41234CQWeG7mAkE0OGRQniXkQ6gj123j6116vO6g117117",
+		"item_date": "2016-09-10 20:15:06",
+		"title": "Justice Dept group studying national security threats of internetlinked devices  Reuters",
+		"url": "http://www.reuters.stfi.re/article/us-usa-cyber-justice-idUSKCN11F2FP",
+		"domain": "www.reuters.stfi.re",
+		"image": ""
+	},
+	{
+		"curated_id": "AyZKG116aRBGzIo116HPxFKXcfGPxKYOA0TGLTXd24hKrb4aHAsS564LBGlNUccTY6sc3123116tClDPOPq5mrvGbL1SWg117117",
+		"item_date": "2016-09-12 07:39:49",
+		"title": "Leaked catalogue reveals disinformation campaign for sale",
+		"url": "http://www.scmagazine.com/leaked-catalogue-reveals-disinformation-campaign-for-sale/article/521846/",
+		"domain": "www.scmagazine.com",
+		"image": ""
+	},
+	{
+		"curated_id": "v2pTKwiBHWkOm68aWrRXnI5HP6JlkrE123slVBD3hZ1vzMrL1Wk19WfEIyenUDsfhhyoA116UOZI4UVqgE9a116mJ91A117117",
+		"item_date": "2016-09-12 08:05:00",
+		"title": "Thousands of Seagate NAS boxes host cryptocurrency mining malware",
+		"url": "http://www.csoonline.com/article/3119167/security/thousands-of-seagate-nas-boxes-host-cryptocurrency-mining-malware.html#tk.lin_cso",
+		"domain": "www.csoonline.com",
+		"image": ""
+	},
+	{
+		"curated_id": "K3a1Kt1237FO3ZWd0AVYgMO12347TPA9bPdT1234123ea4a4mCztOLjm211169WNvc06jGrLErV5uJkj4OM7jFiGyuryOb116Q117117",
+		"item_date": "2016-09-08 13:30:02",
+		"title": "FBI Arrests Two Men for Allegedly Hacking Computers of Senior Government Officials",
+		"url": "http://abcnews.go.com/US/fbi-arrests-men-allegedly-hacking-computers-senior-government/story",
+		"domain": "abcnews.go.com",
+		"image": ""
+	},
+	{
+		"curated_id": "1d29NgR1jqgYg6R1j0LKxJSijXk1b2ArCbGsHXCiAFuaS5OTM123h3Xh0ivqPBk116eqykmohb8mltnxiLLV116YSdKA117117",
+		"item_date": "2016-09-10 20:15:06",
+		"title": "Twitter",
+		"url": "https://twitter.com/evankirstel/status/774808457727840256/photo/1",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "uRCUrinbRFZoKXOA1167Rk7rX0CZS8ls0u3vRiA116LxPbDPtSgMAfI7Ni7kNd5Cd68opvP123tgcuoW8FDnfN2dePPw117117",
+		"item_date": "2016-09-10 20:15:06",
+		"title": "Justice Dept group studying national security threats of internetlinked devices",
+		"url": "http://www.reuters.stfi.re/article/us-usa-cyber-justice-idUSKCN11F2FP",
+		"domain": "www.reuters.stfi.re",
+		"image": ""
+	},
+	{
+		"curated_id": "y6dsRsOhFBF3AZ9ZFj1fnl7qmW9Gf116Av06tN7LgJ271234r86UuoFppBlisWUgx3riBfmgwAPEgyr0jU6thz9B116w117117",
+		"item_date": "2016-09-08 13:30:02",
+		"title": "FBI Arrests Two Men for Allegedly Hacking Computers of Senior Government Officials",
+		"url": "http://abcnews.go.com/US/fbi-arrests-men-allegedly-hacking-computers-senior-government/story",
+		"domain": "abcnews.go.com",
+		"image": ""
+	},
+	{
+		"curated_id": "AwKGWPT3anU25oTXfzWKIIN4UtAjN2nQK2Sd11641VDmEjqpbnGXCHxn7Rco5Y9xKfQGYBEGmzUVcqYT6bhAa1xw117117",
+		"item_date": "2016-09-05 00:00:00",
+		"title": "Obama aims to avoid a cycle of escalation in cyberattacks by countries",
+		"url": "http://www.pcworld.com/article/3116804/obama-aims-to-avoid-a-cycle-of-escalation-in-cyberattacks-by-countries.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "NndCKtgmJEvjBIrdNLQQB5Np1oeohJCiYQfT1j6Z6kI85AB5f1232Aqza1e4NSBJQc116G35PHAxEuEonWdtE123rqVA117117",
+		"item_date": "2016-09-06 00:00:00",
+		"title": "Activists to FBI Show Us Your Warrant for Mass Hack of TorMail Users",
+		"url": "http://motherboard.vice.com/read/aclu-to-fbi-show-us-your-warrant-for-mass-hack-of-tormail-users",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "guLwfJlrlqVCGjbro123oidoWDZbqiu116ZVOz5r4p7fUCybaKqAelg71233XwhLtPqpyYsKXDjHhrBGZROUn4kl4XWA117117",
+		"item_date": "2016-09-06 00:00:00",
+		"title": "Iran Cyber Dialogue and RightsCon Brussels 2017  timely and impactful",
+		"url": "https://www.accessnow.org/iran-cyber-dialogue-rightscon-brussels-2017-timely-impactful/",
+		"domain": "www.accessnow.org",
+		"image": ""
+	},
+	{
+		"curated_id": "u1YLGvjy6JyulbzkMMoRT116TSyZEuJc123JFow0123j9NHUXTV40DtVlPS07RODamYODrDSvd8shbc1TyyoNpyZW27A117117",
+		"item_date": "2016-09-06 00:00:00",
+		"title": "Obama and Clinton weigh in on cyber warfare tactics",
+		"url": "https://techcrunch.com/2016/09/06/obama-clinton-cyber-warfare/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "3um6Lky1aL8cQ9uW6123DayFm5ts3sfha1NSUcxoJLwQ4DGexwbiEmuSTBpSJfmlkKTIExqtIWRBnglKcvBUVHLQ117117",
+		"item_date": "2016-09-06 00:00:00",
+		"title": "Russian site hit by huge data breach",
+		"url": "http://www.bbc.co.uk/news/technology-37289241",
+		"domain": "www.bbc.co.uk",
+		"image": ""
+	},
+	{
+		"curated_id": "nYmde123tsthvNfBa1XN1234WbFS9y3dbLMO2cRoMfP7YqPM3GxvVaV6OxXXcP0JB3FwQ2uZ56cJr8K116nLsM3O1oew117117",
+		"item_date": "2016-09-06 00:00:00",
+		"title": "Introducing Deep Learning Boosting Cybersecurity With An Artificial Brain",
+		"url": "http://www.darkreading.com/analytics/introducing-deep-learning-boosting-cybersecurity-with-an-artificial-brain/a/d-id/1326824",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "N0VN123V62xpT1EREhb6kuZU2hdHMhbcW1zhhUBAvtmvncu116VQPirau9N1p6I1fTSTAMp81lOfoeB7CDjEw123klLw117117",
+		"item_date": "2016-09-06 00:00:00",
+		"title": "More Signs Point To Russian Cyberspy Connection In State Election Board Hacks",
+		"url": "http://www.darkreading.com/analytics/more-signs-point-to-russian-cyberspy-connection-in-state-election-board-hacks/d/d-id/1326825",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "kVleU1160lRkOLuAFWZnsTrwOjB71j3qVyMYBopjrKGEIFC6kHmkIhLB6I1P4RbPRKBX2rnLJVw2z6Ks116lSEjxbQ117117",
+		"item_date": "2016-09-06 00:00:00",
+		"title": "Watch How Government Spyware Infects a Computer in This Leaked Demo Video",
+		"url": "http://motherboard.vice.com/read/rcs-lab-government-spyware-infects-a-computer-in-this-leaked-demo-video",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "rvkeEUm9YfCY123gYqh92FYGSeehrgrzrrVGtWp5AHjgZtiPPLL1P3eORnlkpE8ELXhzJHfOGRItkmRY5RWiFLVw117117",
+		"item_date": "2016-09-09 00:00:00",
+		"title": "Whoops Man Accused of Being Part of CIA Hacking Group Had Already Been Doxed",
+		"url": "http://motherboard.vice.com/read/man-accused-of-being-part-of-cia-hacking-group-had-already-been-doxed",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "qA6iQl349S2WiMvYEbqdrhhdarbnwcku0YGwpgT8TbuQbEOqDe9tJwXEySaKxM13Xy2htvOa7lkeQhjHEed81A117117",
+		"item_date": "2016-09-07 00:00:00",
+		"title": "OPM Breach Two Waves Of Attacks Likely Connected Congressional Probe Concludes",
+		"url": "http://www.darkreading.com/endpoint/opm-breach-two-waves-of-attacks-likely-connected-congressional-probe-concludes/d/d-id/1326834",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "d90wGRK87H9sEljuBH4tEbnfax4oIyT123oFGsaRpZ3hqgI5oDyC9IQzDs5i3EuSWnf5I6hknqmfVY63BWY2V1Aw117117",
+		"item_date": "2016-09-07 00:00:00",
+		"title": "Tipping the scales the attribution problem and the feasibility of deterrence against cyberattack",
+		"url": "http://cybersecurity.oxfordjournals.org/content/1/1/53",
+		"domain": "cybersecurity.oxfordjournals.org",
+		"image": ""
+	},
+	{
+		"curated_id": "QXPChGu3c5fRyC2wcnBUfG3spS1YUFbjQTVD3iq6FRYGThc5xR6m6hMlRsQIry4ZRfu4LCo1KdaWwnJ116L116ImtQ117117",
+		"item_date": "2016-09-08 20:21:32",
+		"title": "DHS Touhill tapped as top federal cybersecurity officer",
+		"url": "https://fcw.com/articles/2016/09/08/federal-ciso-touhill.aspx",
+		"domain": "fcw.com",
+		"image": ""
+	},
+	{
+		"curated_id": "o5tXKwby3vXzuxAft043K79p13uvBhO85rvtSBYH9cO8H7UwuiKD4MRIAkbd116lZWwjtmAhQqePIltrtel123ejaQ117117",
+		"item_date": "2016-09-07 00:00:00",
+		"title": "Government Hacking v Human Rights",
+		"url": "http://www.newamerica.org/cybersecurity-initiative/podcasts/government-hacking-v-human-rights/",
+		"domain": "www.newamerica.org",
+		"image": ""
+	},
+	{
+		"curated_id": "T1lQ0mgVyGxC123MgAYwsd0wsq79CbV9NGtBdStcBXFNuQ8IgA6vD6L9123TrnvrCKZ76BY1g23GTYFsxV116RE116i0jQ117117",
+		"item_date": "2016-09-08 00:00:00",
+		"title": "Hedge Fund and Cybersecurity Firm Team Up to ShortSell Device Maker",
+		"url": "http://www.nytimes.com/2016/09/09/business/dealbook/hedge-fund-and-cybersecurity-firm-team-up-to-short-sell-device-maker.html",
+		"domain": "www.nytimes.com",
+		"image": ""
+	},
+	{
+		"curated_id": "g5fWZA62VipMc1eKCFwPowJdcCkIZjkGZu7x116Ko123gPL8DayJmEDnTANNItdk8rHk3l2SIBPaJTTUTC3CKSX6Yg117117",
+		"item_date": "2016-09-08 00:00:00",
+		"title": "Must Watch Senator Ron Wyden Heads to the Senate Floor Today to Oppose Mass Hacking",
+		"url": "https://www.eff.org/deeplinks/2016/09/must-watch-senator-ron-wyden-heads-senate-floor-today-oppose-mass-hacking",
+		"domain": "www.eff.org",
+		"image": ""
+	},
+	{
+		"curated_id": "lOeiPFmaHe01r388EP2TOXqlUYqlhSHcQH6TtoKGtINpat01H5Uq116y905IVYoym5LnfibMjW0wLerjgH123r116dNg117117",
+		"item_date": "2016-09-08 00:00:00",
+		"title": "Obama Calls For Norms To Prevent Cyber Wild Wild West",
+		"url": "http://www.darkreading.com/attacks-breaches/obama-calls-for-norms-to-prevent-cyber-wild-wild-west/d/d-id/1326843",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "NvPW7t86xVekBsYFiEx2LmtZq8Uq8ffdpSa4kjIev116DdP78tLK8M740pl8PJVD5a05YEsLor116RPS73XZiGNfdQ117117",
+		"item_date": "2016-09-08 00:00:00",
+		"title": "CrimewareasaService Hack Turns Potential Hackers Into Victims",
+		"url": "http://www.darkreading.com/attacks-breaches/crimeware-as-a-service-hack-turns-potential-hackers-into-victims/d/d-id/1326849",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "MvYnsvSqmYnjdwjdxxQL4Um123EhPS3CXLkbtZebgx95VOeka3m6123sDntcDFMGhYimyF2Ghg8uh1keu116Nm123oNYEw117117",
+		"item_date": "2016-09-08 00:00:00",
+		"title": "Avoiding The Blame Game For A Cyberattack",
+		"url": "http://www.darkreading.com/attacks-breaches/avoiding-the-blame-game-for-a-cyberattack-/a/d-id/1326850",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "jaXp13x1169t0iisNBSQkNXHEVPcrLkp5Ihgr123BupPlx6m1FEe93enBGsGKia6U1168Ycxtfs8E123nG0q73r4N1231pzQ117117",
+		"item_date": "2016-09-09 00:00:00",
+		"title": "New Linux Trojan Discovered Coded in Mozillas Rust Language",
+		"url": "http://www.itsecurityguru.org/2016/09/09/new-linux-trojan-discovered-coded-in-mozillas-rust-language/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "Phr0sSYWIjFp8n8BceRSJj5aaHIyKzyc3bU6123123AbN3aADWLeNQnQbR26ruyg46mw8iGYIx0ytneErJqWVLJpmg117117",
+		"item_date": "2016-09-09 00:00:00",
+		"title": "United States names its first Chief Information Security Officer",
+		"url": "http://www.itsecurityguru.org/2016/09/09/united-states-names-its-first-chief-information-security-officer/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "VSNbst116xd2HMtyy5URqr4SakFqkp4w4z6YJxUpRHCJ4AyXBPrt1237nNKSxqj3Ls2Jv2rOclUGteiTFh52116sU1Ww117117",
+		"item_date": "2016-09-09 00:00:00",
+		"title": "Arrests over hacks of CIA and FBI staff",
+		"url": "http://www.bbc.co.uk/news/technology-37316615",
+		"domain": "www.bbc.co.uk",
+		"image": ""
+	},
+	{
+		"curated_id": "LCF8zVF116qhSMYH6yT2vfv116jEbt10CNlb9irvj1KAlEbYDH8kM116VOa8OeYPy7wMDouXFoxWTvT3Fv1116bwUGn8Xg117117",
+		"item_date": "2016-09-09 00:00:00",
+		"title": "Cyber Security Controls That Actually Make You More Efficient",
+		"url": "http://www.huffingtonpost.com/toby-nwazor/cyber-security-controls-t_b_11914916.html",
+		"domain": "www.huffingtonpost.com",
+		"image": ""
+	},
+	{
+		"curated_id": "rn2jqw6d116xy6Y8jm6EK123q123VZ253ThjaCNpFsNjmlGZrEPTNuESt0dNiikp116WQXAPUDEZ98Nsh3BWFYczViN3vw117117",
+		"item_date": "2016-09-08 00:00:00",
+		"title": "White House appoints first Federal Chief Information Security Officer",
+		"url": "http://www.zdnet.com/article/white-house-appoints-first-federal-chief-information-security-officer/",
+		"domain": "www.zdnet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "l123Dy123sKzF8Qrmwkfs6CWNpZqZow28WPMQm86IKlZI0kBYRgpmK13AAca123gl0h35xGsghtntKYFOGs8iuLp1K9g117117",
+		"item_date": "2016-09-08 00:00:00",
+		"title": "FBI arrests hackers who allegedly leaked info on government agents",
+		"url": "http://www.pcworld.com/article/3118229/security/fbi-arrests-hackers-who-allegedly-dumped-details-on-government-agents.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "590iSOwbErCCNAsnX8h2HScaHsMxjZlwv22Wd8xVa6iaFfLxKOgVpJp996gkhLhFMDYDt5WAexunRHq51U37FA117117",
+		"item_date": "2016-09-08 00:00:00",
+		"title": "Data hoarders are shining a spotlight on past breaches",
+		"url": "http://www.pcworld.com/article/3118357/security/data-hoarders-are-shining-a-spotlight-on-past-breaches.html",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "SROyL116Fi1cAmDcplfbzkPUUReUNcZQ68MNjxP83WFtYa6hQadVKtik0lm3uQoPPDUh986kgwZFCEF5OLMepo2A117117",
+		"item_date": "2016-09-08 00:00:00",
+		"title": "Securing the Skies Cybersecurity in Aviation",
+		"url": "http://www.csoonline.com/article/3111448/internet-of-things/securing-the-skies-cybersecurity-in-aviation.html",
+		"domain": "www.csoonline.com",
+		"image": ""
+	},
+	{
+		"curated_id": "4YsF4B9GSBXxM7We5djqLMhPVp123WlqiO116Fz0M0daZb3bnKRk3sz5KrHg3w6lUkA77oga8or6qlDQDmVQWfFKqQ117117",
+		"item_date": "2016-09-08 00:00:00",
+		"title": "Cybercrime Roundup The CFAA Dog Sniffs and Broken Hearts",
+		"url": "https://www.lawfareblog.com/cybercrime-roundup-cfaa-dog-sniffs-and-broken-hearts",
+		"domain": "www.lawfareblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "3Z8116JK3RgaR8loP11690uKCymKph0Lyc123VkWglK3VqsBZ116GHBQRaZcU5gpZ7xqOJROQTVEaxyKvDd116VEKH116OfF8w117117",
+		"item_date": "2016-09-08 00:00:00",
+		"title": "Vienna Airport Targeted by Turkish Hackers",
+		"url": "http://www.itsecurityguru.org/2016/09/08/vienna-airport-targeted-by-turkish-hackers/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "9Dj3GnDNKfRNi3116OfXWqYB116GW12311R8h7QykdJlwhpflOyVQjmUa75zBEnZeFAkAPe5oAn08cqxgiZbraAhFyTg117117",
+		"item_date": "2016-09-08 00:00:00",
+		"title": "House GOP Panel Blasts OPM Over Breach",
+		"url": "http://www.pcmag.com/news/347683/house-gop-panel-blasts-opm-over-breach",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "T7MZczKec3veJeY4F8r73mT3Hmc9HN5pDmQL123dR0NOyiSbr4pzpUznPtOBCyODRyA116DShQuXDhQWtjVKCXdufw117117",
+		"item_date": "2016-09-08 00:00:00",
+		"title": "Why College Freshmen Are Chum For The Cyber Sharks",
+		"url": "http://www.huffingtonpost.com/adam-levin/why-college-freshmen-are_b_11901798.html",
+		"domain": "www.huffingtonpost.com",
+		"image": ""
+	},
+	{
+		"curated_id": "rYxB1235k116xPDqeTi3iz7GnnSxNwXmF2wvU8DAIhTf116116otNwWxHSUwNWgnQkdZJx2hLAiuCx24hrDx5SIFbf22ng117117",
+		"item_date": "2016-09-07 00:00:00",
+		"title": "OPM Hackers Used Marvel Superhero Nicknames to Hide Their Tracks",
+		"url": "http://motherboard.vice.com/read/opm-hackers-used-marvel-superhero-nicknames-to-hide-their-tracks",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "A6dzxdT8ESTEhhNgdGjSW0QoYb8qY2I1j98XteIyFz1161161167ApRdlmHnPYVOSZK0pam5GoDx0MEULYNUO8Wt7oyg117117",
+		"item_date": "2016-09-07 00:00:00",
+		"title": "Defining The Common Core of Cybersecurity Certifications  Practical Experience",
+		"url": "http://www.darkreading.com/cloud/defining-the-common-core-of-cybersecurity-certifications-+-practical-experience/a/d-id/1326832",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "BY116ZOf3123cvbeBi3kHBk6nVH3zQipeHIFGQuvdKBEMgZMjl7N9Nr2116FAH6ZpnVsNV90v3Ybp9SLaf7h116626D4Qw117117",
+		"item_date": "2016-09-07 00:00:00",
+		"title": "Data Breaches At US Office Of Personnel Management Was Preventable Investigation Finds",
+		"url": "http://www.huffingtonpost.com/entry/opm-data-breach-investigation_us_57cfcf69e4b06a74c9f1903b",
+		"domain": "www.huffingtonpost.com",
+		"image": ""
+	},
+	{
+		"curated_id": "waj69XcHRS87pXRT116tm5lDkax123r5ovhnAZ2kDq6wyqaaDsWLk2SNzZ4U8V123HoAaBdbr123bwqjJu0cKmCgGy5alQ117117",
+		"item_date": "2016-09-05 00:00:00",
+		"title": "Huawei accredited to the Open Trusted Technology Provider Standard",
+		"url": "http://www.itsecurityguru.org/2016/09/05/huawei-accredited-to-the-open-trusted-technology-provider-standard/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "HZ7OyCD02WOOAj2kok6XeCCgth6byl2nfFfvnHzf116VmFJ1aMmHe123YUSkgOnwI4qd2yNEEQQnsrUPC4KTvoyiCQ117117",
+		"item_date": "2016-09-05 00:00:00",
+		"title": "ProUkraine Hackers Leak Personal Details of Ukrainian and Foreign Journalists",
+		"url": "http://www.itsecurityguru.org/2016/09/05/pro-ukraine-hackers-leak-personal-details-of-ukrainian-and-foreign-journalists/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "V123VORWEd0H123p123UsiEKS123RbuOZLfxz116izzPtUtl00IlETwbx8FcEmKRfhZkNayJaWhx9QyOa06DQ8NidFth3QAA117117",
+		"item_date": "2016-09-03 00:00:00",
+		"title": "43M Lastfm Passwords Hacked in 2012 Breach",
+		"url": "http://www.pcmag.com/news/347579/43m-last-fm-passwords-hacked-in-2012-breach",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "chaHKSC5ZrcZFEeUA3nLX6rSBNSKkx61nH123YOx315gTIP8jzvppPd5m4XqLnX2CxcGA034rvTn8CW39fYa8K116g117117",
+		"item_date": "2016-09-02 00:00:00",
+		"title": "Hackers found a way to resurrect suspended and inactive Twitter accounts TWTR",
+		"url": "http://www.businessinsider.com/hackers-hijack-inactive-suspended-twitter-accounts-2016-9",
+		"domain": "www.businessinsider.com",
+		"image": ""
+	},
+	{
+		"curated_id": "jDk0gxTfceMG123BWkTt2S9MAEo5123XlHJ9sGyD4J7iSZRYzDyJHaxB5C4ygyJZXp1163d4jc1230lBN15DbpepmopRgA117117",
+		"item_date": "2016-08-29 00:00:00",
+		"title": "ICSCERT Cyber Security Evaluation Tool Version 80 New User Webinar",
+		"url": "https://ics-cert.us-cert.gov/ICS-CERT-Cyber-Security-Evaluation-Tool-Version-80-New-User-Webinar",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "fvCxSZs6bT9NtM7wySG7ezNgaNPjbNsgbp61WleklkrqmWPrqpEnMDyhf123xjQzSea123yhvPihiQ6D1116phLBjQHw117117",
+		"item_date": "2016-08-30 00:00:00",
+		"title": "White House orders Russia hack investigation Congress wants to know if Trump is involved",
+		"url": "http://boingboing.net/2016/08/30/white-house-orders-russia-hack.html",
+		"domain": "boingboing.net",
+		"image": ""
+	},
+	{
+		"curated_id": "CqB5ZegChaLyBs8116zd116yNtXSjR2pu8NDlPhCRDRU1237xG72neapYiT9mF7owVer123W4tipb92123YrJjKZrZAqBW4Q117117",
+		"item_date": "2016-09-02 00:00:00",
+		"title": "40 Homemade Arduino radio device can Intercept Vehicle Key Fobs  More Than 100 Million Cars are Vulnerable",
+		"url": "https://blog.adafruit.com/2016/09/02/40-homemade-arduino-radio-device-can-intercept-vehicle-key-fobs-more-than-100-million-cars-vulnerable/",
+		"domain": "blog.adafruit.com",
+		"image": ""
+	},
+	{
+		"curated_id": "7AJyGjUTZxMRTzYrf4b50DXD2h5oqeLFHdIGwQHIzR123MSTVlDKL6XgzE1oUelDF7rgkQu5C6KRT1234agB6qP9123A117117",
+		"item_date": "2016-08-30 00:00:00",
+		"title": "More Than 1 Million IoT Devices Compromised by Single Malware Family",
+		"url": "https://continuum.cisco.com/2016/08/30/more-than-1-million-iot-devices-compromised-by-single-malware-family/",
+		"domain": "continuum.cisco.com",
+		"image": ""
+	},
+	{
+		"curated_id": "KaWNfJPmDDNnGMXJ3sGJNavvB116V5EHTB4NVH2nhzlUaKYzRNvwIQTIbSv0uqxGLYrAJCrW8ilnfEBijR2VFOYg117117",
+		"item_date": "2016-08-30 00:00:00",
+		"title": "Study finds flaws in criticism of St Jude cyber security",
+		"url": "http://www.reuters.com/article/us-st-jude-medical-cyber-university-idUSKCN1152I0",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "GJHuLg1WzkwaDDZIK5av6IBgu37T6WjzHIiAhyssD3XLBuv1161IvZyniDSGWmBH3UV116CGs6k494hNd0EMjLLohA117117",
+		"item_date": "2016-08-31 00:00:00",
+		"title": "Trying to Smoke Out the Players in the Hacking of the DNC",
+		"url": "http://www.nytimes.com/2016/09/01/us/politics/dnc-hack-russia.html",
+		"domain": "www.nytimes.com",
+		"image": ""
+	},
+	{
+		"curated_id": "rla4dQA30116ZZPnaA4116123dujl9OHPFwMPW9Gs6jggR65jgvLFg7aK6sYzSb7e4BdcaCuZ7CzhAoeAy6iCgpX6KKg117117",
+		"item_date": "2016-08-31 00:00:00",
+		"title": "Senators Urge President Obama to Make Cybercrime a Top Priority at G20 Summit",
+		"url": "https://continuum.cisco.com/2016/08/31/senators-urge-president-obama-to-make-cybercrime-a-top-priority-at-g20-summit/",
+		"domain": "continuum.cisco.com",
+		"image": ""
+	},
+	{
+		"curated_id": "RZFpwxAD8KdylX6TiJf5RfqXW8WDPu0S2R0y123e2I60rvv6OPMeCXrH0ILXxcG5OX8A7dWntPrEj6HN116Yq0nQLQ117117",
+		"item_date": "2016-09-02 00:00:00",
+		"title": "How Spy Tech Firms Let Governments See Everything on a Smartphone",
+		"url": "http://www.nytimes.com/2016/09/03/technology/nso-group-how-spy-tech-firms-let-governments-see-everything-on-a-smartphone.html",
+		"domain": "www.nytimes.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Aw4VQrz2jBMqGmjLgjPVhqWivOqxlF8TRgLy4dCYUhLNcL1TBN8Ln2s3nnwu9W116hOpr7IVwEl123HalMgYwFZZ5Q117117",
+		"item_date": "2016-09-01 00:00:00",
+		"title": "Reported UK Data Breaches Soar 88 in a Year",
+		"url": "http://www.itsecurityguru.org/2016/09/01/reported-uk-data-breaches-soar-88-in-a-year/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "fbF4AsvGNlsMC3UA9wB3WQzgrSrSA0mrtVRWKExoJK8noUzrOv64LNi7kaU1166lX7mcoioN39Txpv116ThRoXIW0A117117",
+		"item_date": "2016-09-01 00:00:00",
+		"title": "Lastfm breach from 2012 affected 43 million users",
+		"url": "http://www.pcworld.com/article/3115165/security/lastfm-breach-from-2012-affected-43-million-users.html",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "k8aqXZo3CvZphEzl1mTszonKX0YZoN123L0OqtqYNK213tLxHyVFV4d38XMywWvyzWLx5PHBTRMlyy8KdeuAdTng117117",
+		"item_date": "2016-09-02 00:00:00",
+		"title": "Suspect arrested in 5yearold kernelorg breach",
+		"url": "http://www.pcworld.com/article/3116022/suspect-arrested-in-5-year-old-kernelorg-breach.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YLLvSjHs3BEbk9YXIT116sxttSQ5HWzvEtSzDo78QiLHpO2lG6QolVzNouwEg9t116f7P3116AKcZpnGUxYUHD04fABw117117",
+		"item_date": "2016-09-01 00:00:00",
+		"title": "Kimpton Hotels Hit By PointOfSale Breach",
+		"url": "http://www.darkreading.com/attacks-breaches/kimpton-hotels-hit-by-point-of-sale-breach/d/d-id/1326800",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "msWeSPupmM1B0JpJze7uBsUJnMlPZyXuGxQ8NKH1LTOr1ajfl123SqOJoaQtgDM9LnZbKDbvz2NCEsAnWDdKBnMA117117",
+		"item_date": "2016-09-01 00:00:00",
+		"title": "Improvements In Cybersecurity Require More Than Sharing ThreatIntelligence Information",
+		"url": "http://www.darkreading.com/partner-perspectives/intel/improvements-in-cybersecurity-require-more-than-sharing-threat-intelligence-information/a/d-id/1326801",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "9HbaRNTiXl4sxEzC3cMOK7Uw8uH3er6ErjDGYi1116oJvruAn2iTzVETR5dly3I3VM2OlhP3cPaI123U8gqKPRZTbQ117117",
+		"item_date": "2016-09-01 00:00:00",
+		"title": "Improvements In Cybersecurity Require More Than Sharing",
+		"url": "http://www.darkreading.com/partner-perspectives/intel/improvements-in-cybersecurity-require-more-than-sharing-threat-intelligence-information/a/d-id/1326801",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Z116xKLL8116Z2qyF3wF9eH0YBc29VJQTftiu0bHbc1DxfLDK41YsA116Eumbr17cD9RGtUWwJwxu3JsuKnqj6BoCPHQ117117",
+		"item_date": "2016-08-31 00:00:00",
+		"title": "2016 DDoS Attack Trends By The Numbers",
+		"url": "http://www.darkreading.com/vulnerabilities-and-threats/2016-ddos-attack-trends-by-the-numbers/d/d-id/1326754",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "X7307Nkd4116QmIPLOwOsQiNAfAuGc8b5lLPGJJIObfxgKUA5XdVjwylcNJEALBOYD4ervMiVWjjslS30116BJH5NA117117",
+		"item_date": "2016-08-31 00:00:00",
+		"title": "Some of the people investing the CIAs money in startups are under scrutiny",
+		"url": "http://www.businessinsider.com/cia-vc-firm-conflict-of-interest-2016-8",
+		"domain": "www.businessinsider.com",
+		"image": ""
+	},
+	{
+		"curated_id": "46bfdtQGXz8OjOlyhM5pGh116KyameFcdjCKHVg7AWyrx6LrYDdfH123foOL116E9soWh2vQZ4qJfzHEMRWcNNSfvHuA117117",
+		"item_date": "2016-09-01 00:00:00",
+		"title": "Cybercrime as a Tax on the Internet Economy",
+		"url": "https://www.schneier.com/blog/archives/2016/09/cybercrime_as_a_1.html",
+		"domain": "www.schneier.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Sz116JPPl84lzxhLcAt77VYG6X9Lh7KDTxdyfF4LGHrAv6RgxVcrNNTVUgUAccu5n7dWbdFcaRqxhcL1bZKdVKTQ117117",
+		"item_date": "2016-09-01 00:00:00",
+		"title": "California May Soon Treat Ransomware As Extortion",
+		"url": "http://www.darkreading.com/vulnerabilities---threats/california-may-soon-treat-ransomware-as-extortion-/d/d-id/1326796",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "5sGkPMB116uidLJSB36McxaHU3UFeuqwiJMoJkltiIoE55lg392ikSBs8uQUz7FOcVJ5oe7youJk805Kg123GVgGrg117117",
+		"item_date": "2016-08-31 00:00:00",
+		"title": "Cyber Computer Scientist II in USOHColumbus",
+		"url": "http://jobs.militarytimes.com/jobs/Cyber-Computer-Scientist-II/J3J2PL717Z5R8TS0JMJ",
+		"domain": "jobs.militarytimes.com",
+		"image": ""
+	},
+	{
+		"curated_id": "0w00hIFldsXXV92WSfu2116KvnkWC116SaS116VPBq124RpiejX0mTu32gg2CJGjDGa1rTmbbAiaCZt8offMZDOE5Z3A117117",
+		"item_date": "2016-08-31 09:10:27",
+		"title": "How to change your Dropbox password after a Dropbox hack caused 68 million accounts to leaked online  WIRED UK",
+		"url": "http://www.wired.co.uk/article/dropbox-hack-passwords-change",
+		"domain": "www.wired.co.uk",
+		"image": ""
+	},
+	{
+		"curated_id": "CNfDs17aS5rrYsXL0Kepf68BxymEgeMwAILoiq9TqXp3D9ymh1KX9M1XUYZHVKNhQIgy3DMEDQRjcvOs44AdWQ117117",
+		"item_date": "2016-08-31 00:00:00",
+		"title": "Exclusive SWIFT discloses more cyber thefts pressures banks on security",
+		"url": "http://www.itsecurityguru.org/2016/08/31/exclusive-swift-discloses-more-cyber-thefts-pressures-banks-on-security/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "BVNm3KiS2eZL0zj2nxgXZTFSJJua116ZJMJIg8WUvtmlbmNrstq8oF5NaSOoQMSH4gosg4ToHIb0pexWJj8AhjtQ117117",
+		"item_date": "2016-08-31 00:00:00",
+		"title": "Cybersecurity SelfEsteem 4 Things Confident Teams Are Doing",
+		"url": "http://www.darkreading.com/partner-perspectives/carbon-black/cybersecurity-self-esteem-4-things-confident-teams-are-doing-/a/d-id/1326782",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Lft6FumKYhK2AFTrLzE123uiHqwdmTO123tWD58Yksgv3G9V7IGPsFb8A8rqRRBS3jKgJCYK57vlyXCmuxOYA0dALA117117",
+		"item_date": "2016-08-29 00:00:00",
+		"title": "How The Cybersecurity Landscape Has Changed",
+		"url": "https://dzone.com/articles/how-the-cybersecurity-landscape-has-changed",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "RRciQxyI116H76DiMeyTyMGSYAzmOF7HnTc123lRJkL5116t0PRvtKR7VT8116t8EUs4L10s118AQLndKaHDKVJo1gYuMw117117",
+		"item_date": "2016-08-30 00:00:00",
+		"title": "Exclusive Six US senators urge Obama to prioritize cyber crime at G20 summit",
+		"url": "http://www.reuters.com/article/us-cyber-heist-g20-exclusive-idUSKCN1142A0",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "63NBXMBU16Ie55M51u43bNK9ypCm6JzTEc123mUJfx5ra0116b1iKZpU9123Szcvd930vQZ7123KJlBbjUJRQRhzv80116eA117117",
+		"item_date": "2016-08-30 00:00:00",
+		"title": "Ransomware Targets UK Hospitals But NHS Wont Pay Up",
+		"url": "http://motherboard.vice.com/read/ransomware-targets-uk-hospitals-but-nhs-wont-pay-up",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "9ihFAkVcL8n6FUsxw711653FH1234S4I2sltMBi2OgKJmXhMtqI116jdKQFQ1uo7M1tz3fzE85rB5OX8TlcNaO5KrqQQ117117",
+		"item_date": "2016-08-30 00:00:00",
+		"title": "FBI says foreign hackers penetrated state election systems",
+		"url": "http://www.itsecurityguru.org/2016/08/30/fbi-says-foreign-hackers-penetrated-state-election-systems/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "wI1cNM47bgu5sc0c8lwrYKwOcA4UB123xXqzF5C6Rrnqck2JuJIHXMMkkYUlUyb9dhLN5PGapMOUIYHWRhoLtf5g117117",
+		"item_date": "2016-08-30 00:00:00",
+		"title": "Ripper Boffins find malware thought behind 347k Thai ATM raids",
+		"url": "http://www.itsecurityguru.org/2016/08/30/ripper-boffins-find-malware-thought-behind-347k-thai-atm-raids/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "FO2h0L3Yv1gPn0BgRlC9RN5jrzXVNaqrBRCPeQ116GdPbqM7plJGKPI9VvUT123X4dlwUKBbfxZPhfL7PWNaOchlrg117117",
+		"item_date": "2016-08-30 00:00:00",
+		"title": "Whats next for threat intelligence",
+		"url": "http://www.itsecurityguru.org/2016/08/30/whats-next-for-threat-intelligence/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "6keccPoIwksoWJcHhcoCK6UVuc7NS0hHEbyoWspnonVEA1sjoPpYmB7iNC85j116XlzmBJ3YVKohLD6gqOZZAWtA117117",
+		"item_date": "2016-08-30 00:00:00",
+		"title": "Cyber security firm LogRhythm raises 50 mln after changing IPO plans",
+		"url": "http://www.reuters.com/article/us-logrhythm-funding-idUSKCN1151D5",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "km0YV7Pf83gul4eW9OBYWJXT116tzsbkEQhzXs116SQj2AjrBcu2zKQA8uK8VZ9hwd57DeCFuSU7XJYlaGu6qPc23g117117",
+		"item_date": "2016-08-30 00:00:00",
+		"title": "Will cyber crime be top of the agenda at G20",
+		"url": "http://disruptiveviews.com/cyber-crime-g20/",
+		"domain": "disruptiveviews.com",
+		"image": ""
+	},
+	{
+		"curated_id": "8QrvDJPb5fMpUne9123cmUGA4yFpTFbsLD7664u68w116ceWUVHur4uE1wXHP0A116DiI0GJM2AwvEwwmX09rpfz3sqg117117",
+		"item_date": "2016-08-30 00:00:00",
+		"title": "US Think Tanks Involved in Russia Research Allegedly Hacked",
+		"url": "http://www.darkreading.com/attacks-breaches/us-think-tanks-involved-in-russia-research-allegedly-hacked/d/d-id/1326767",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "BDEeccdoh116gkoCUVxteBXIFXsSas8K5E6VlqWrk0ZT7bcQ11605uxMMCuR0NV2f9zp6shMl2F469LGkquPYQP8Bw117117",
+		"item_date": "2016-08-30 00:00:00",
+		"title": "6 Ways To Hack An Election",
+		"url": "http://www.darkreading.com/endpoint/6-ways-to-hack-an-election/a/d-id/1326762",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "gwc5cT6I5tCkUP57VK6xosFiXWjPD6t71239dy0tx2F4Wo34obxCPz0sEqHfYJWbcs7U123Y7116KNeCYehTfwANMDsw117117",
+		"item_date": "2016-08-30 00:00:00",
+		"title": "Meet Some Of The Emerging Israeli Cybersecurity Firms",
+		"url": "http://www.darkreading.com/analytics/meet-some-of-the-emerging-israeli-cybersecurity-firms/d/d-id/1326702",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ygBPuvLdOV1bTmB3HZgYZGU1232biJv4123haU2RwC9VkAeo3FP2eJnY2N0CbnNbqp9bg7YjGO2otxTGSY7mCFsMqw117117",
+		"item_date": "2016-08-30 00:00:00",
+		"title": "Ransomware Attacks in the UK Netherlands and Belgium",
+		"url": "https://duo.com/blog/ransomware-attacks-in-the-u-k-netherlands-and-belgium",
+		"domain": "duo.com",
+		"image": ""
+	},
+	{
+		"curated_id": "LjVnIoOMgecooNYKHW6ifbkb123ox0tEcM50rruxXL6oDOKhLAxNGuU34FnnAMwhK41N209t3rq2VZbbBkE4x4Ew117117",
+		"item_date": "2016-08-30 00:00:00",
+		"title": "Malware Markets Exposing The Hype  Filtering The Noise",
+		"url": "http://www.darkreading.com/endpoint/malware-markets-exposing-the-hype-and-filtering-the-noise/a/d-id/1326764",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "i98d8fCAncjNQZH7z123aLHVSK9kbAKaJL3VNpGb9zOURhmFvwozElHD2wA3hUWNbTOPFCMnJgkzwgZg4EvLz7dA117117",
+		"item_date": "2016-08-29 00:00:00",
+		"title": "Harry Reid Cites Evidence of Russian Tampering in US Vote and Seeks FBI Inquiry",
+		"url": "http://www.nytimes.com/2016/08/30/us/politics/harry-reid-russia-tampering-election-fbi.html",
+		"domain": "www.nytimes.com",
+		"image": ""
+	},
+	{
+		"curated_id": "gJ2aF5ThRGRE15h7DLPGvQYMv96kWgg9mXXkN6GYT4o5kojTRPJcpbOqtq2psBi9123t2sXyURW1hMmExK8V2Jfg117117",
+		"item_date": "2016-08-29 00:00:00",
+		"title": "FBI State Election Systems Were Hacked",
+		"url": "http://www.pcmag.com/news/347423/fbi-state-election-systems-were-hacked",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Am3VnoNwkxkyJrN3k9ZlH5eRKc543my4f0S4CTZ95ZLh6PkeAUJZFbVz123dvIz3eHQ116123SSkWbYEdJ610aXogkkQ117117",
+		"item_date": "2016-08-29 00:00:00",
+		"title": "Russian Hacker Convicted of Massive Cyber Fraud Scheme",
+		"url": "http://www.pcmag.com/news/347408/russian-hacker-convicted-of-massive-cyber-fraud-scheme",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "fp6hmKj2ZXqEhJrgLgIHVjBFi3efrcFAAuIfFMtqp3dCM1IXgdtWxE116qQ2z9ShiRgiQWpXDXGAuFUxCDk12319aw117117",
+		"item_date": "2016-08-29 00:00:00",
+		"title": "iPhone ZeroDay Used by UAE Government",
+		"url": "https://www.schneier.com/blog/archives/2016/08/iphone_zero-day.html",
+		"domain": "www.schneier.com",
+		"image": ""
+	},
+	{
+		"curated_id": "wzY123GJpPLM5C2gU1bH3VSkpb0ccR6LmKNSXruUOqzTzLdRXwsFvC123HAichb116l6d1XGMlvlIURk6pmK2IG6uByA117117",
+		"item_date": "2016-08-29 00:00:00",
+		"title": "Russian Hacker Convicted of 38 Counts Related To PoS Hack Scheme",
+		"url": "http://www.darkreading.com/endpoint/russian-hacker-convicted-of-38-counts-related-to-pos-hack-scheme/d/d-id/1326758",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "BHAUmfQPnO2A123OgrdePIksHQtvTzxsI116CN6xFtiCym5ehzJcZVm8cJKnNrBp8MInE4d4K123k123jhQjFht116Dgu9yg117117",
+		"item_date": "2016-08-29 00:00:00",
+		"title": "Report Hackers Breach Two State Election Databases FBI Warns",
+		"url": "http://www.darkreading.com/attacks-breaches/report-hackers-breach-two-state-election-databases-fbi-warns/d/d-id/1326760",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "D33l6z9jeOefdnxH0x69XfccdVSPV6frBChYZLIUP5s16QS6m77O1VJswnCUvx8116A9Rd3JF8jbEtdTKqCnTBTQ117117",
+		"item_date": "2016-08-29 08:28:19",
+		"title": "FBI says hackers penetrated state election systems",
+		"url": "http://www.nydailynews.com/news/national/fbi-hackers-penetrated-state-election-systems-article-1.2769951",
+		"domain": "www.nydailynews.com",
+		"image": ""
+	},
+	{
+		"curated_id": "RCnzFDwkDAotmzaahJP123mQjBa1sZrsypxfFOugIrRCXadEnotLP8Msk116acAeNPxDCRUcNkkufvq5xMiyl123EmiA117117",
+		"item_date": "2016-08-29 00:00:00",
+		"title": "Sophisticated malware possibly tied to recent ATM heists in Thailand",
+		"url": "http://www.pcworld.com/article/3113152/sophisticated-malware-possibly-tied-to-recent-atm-heists-in-thailand.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "kpryM9aGf455TVI6gn4Lj8OtSzFCZZQSysTAAz116aoKJBbEsR8F1AnCc8l2onNNEIxdl7EQi4Pgc2aiwxNf116ToA117117",
+		"item_date": "2016-08-29 00:00:00",
+		"title": "FBI warns that hackers are targeting state election systems",
+		"url": "http://www.pcworld.com/article/3113456/security/fbi-warns-that-hackers-are-targeting-state-election-systems.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YUZhzD483IKeFanxezKjf8sMt61FDZC2juicLpeXzmOXIchvM6x2vb1SURIyJ3a116UvXtd0a116BIisbEoDMiMKHA117117",
+		"item_date": "2016-08-29 00:00:00",
+		"title": "Hackers Stole Voter Registration Data in at Least Two States",
+		"url": "http://www.motherjones.com/politics/2016/08/fbi-hackers-target-us-election-records",
+		"domain": "www.motherjones.com",
+		"image": ""
+	},
+	{
+		"curated_id": "0dTn123B9uR9C41234hhJo3CmFy26xEm12ysbId5fFPJxJyzUWcYzs6quevE56dZ1GpbZ116AXultSmx123LPCOYkAwXTg117117",
+		"item_date": "2016-08-27 00:00:00",
+		"title": "After DNC Hack Staffers Told to Use SnowdenApproved App Signal",
+		"url": "http://motherboard.vice.com/read/after-dnc-hack-staffers-told-to-use-snowden-approved-app-signal",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "9KJuQGZ1168T1lPMYhSYxcL0hfAHvUrwOTkFgdRuCV4TbQSeWqyylC116SB94ZeyC2CdQbfouWcDr116SnMw29dkwwpA117117",
+		"item_date": "2016-08-26 09:55:23",
+		"title": "NYU scientists develop tool to check for chip sabotage",
+		"url": "http://www.scmagazine.com/nyu-scientists-develop-asic-to-spot-hidden-vulnerabilities/article/518085/",
+		"domain": "www.scmagazine.com",
+		"image": ""
+	},
+	{
+		"curated_id": "KPaGpY3eFcbDghc9hIYDfxtuIVAdmt8h5FdQ6aaRAjqDvoLyRHJYJ0K116qgSTkiczkLcag4GcSbHLlMFnB39hRg117117",
+		"item_date": "2016-08-27 00:00:00",
+		"title": "Iran detects malware in petrochemical plants says not linked to recent fires",
+		"url": "http://www.reuters.com/article/us-iran-security-cyber-idUSKCN1120E9",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "HHXoECBlM79sS25F2j9Tv0wirtEiL7BA116tMRJ4t8UGnd5oiQ5fcS1235MwEPn23wPkgp7PkpnUAburvm123ETfOicA117117",
+		"item_date": "2016-08-26 00:00:00",
+		"title": "Details of Indias Stealth Submarines Leaked Online",
+		"url": "http://www.pcmag.com/news/347284/details-of-indias-stealth-submarines-leaked-online",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ST2IGP7BiyYPLuJukoewjGLwmGguTo3b4vZG75123ZVdYQCE2EW116wmqmMeSNdy4w16DbPSMjtFKavvMag1164GAvoQ117117",
+		"item_date": "2016-08-25 22:46:43",
+		"title": "Government Hackers Caught Using Unprecedented iPhone Spy Tool",
+		"url": "https://motherboard.vice.com/read/government-hackers-iphone-hacking-jailbreak-nso-group",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "I116lTGnC70bCYxDIlCnhV8qIGn116SUT36xzKNfSNBYhOwnHK4i3ZYLO5QjuXYQfSvtF12Ma9qlwfol123Ub9RsP2Hg117117",
+		"item_date": "2016-08-26 15:54:28",
+		"title": "St Jude Denies Report Its Heart Devices Are Vulnerable to Cyberattacks",
+		"url": "http://www.wsj.com/articles/st-jude-denies-report-its-heart-devices-are-vulnerable-to-cyber-attacks-1472245424",
+		"domain": "www.wsj.com",
+		"image": ""
+	},
+	{
+		"curated_id": "W1eh123EDi123ZkpveI7Y116116ziwpEjXwSdS6p7WA1161pJl3nkfe5yWOUNDeTweF72mPskWYolGqKqy2CAuZUdDhkQg8Q117117",
+		"item_date": "2016-08-26 00:00:00",
+		"title": "The NSA Is Hoarding Vulnerabilities",
+		"url": "https://www.schneier.com/blog/archives/2016/08/the_nsa_is_hoar.html",
+		"domain": "www.schneier.com",
+		"image": ""
+	},
+	{
+		"curated_id": "JUmUJWGnyfcU6yEmvOnyQkg0tq5OeF834ExhHxwWti8XCV8GIPwqHEg6NAjqnsO85yoyw123d9T123HqTMWrQppm0A117117",
+		"item_date": "2016-08-26 00:00:00",
+		"title": "Collision Attacks Against 64Bit Block Ciphers",
+		"url": "https://www.schneier.com/blog/archives/2016/08/collision_attac.html",
+		"domain": "www.schneier.com",
+		"image": ""
+	},
+	{
 		"curated_id": "63ACOdzeAVrYQz8eIEa7b123iGewlkn1IJIlIGeSsGdxvwXxxv116RPxLySE5sUfC0hq5VuC8iBIeZpPQu1uDNfZfw117117",
 		"item_date": "2016-08-26 00:00:00",
 		"title": "iOS Update Prevents Snooping Via Remote Jailbreaks",
@@ -27,7 +1683,7 @@
 		"curated_id": "yelvVFXcmefQjGQGM9qPqNNgN48MeXjhNLgK0pzObM8q4BJfDAzhspsSWXQZBYUkDXkqS5qYOWb0s8viEvtrgg117117",
 		"item_date": "2016-08-25 00:00:00",
 		"title": "The Secret Behind the NSA Breach Network Infrastructure Is the Next Target",
-		"url": "http://www.darkreading.com/perimeter/the-secret-behind-the-nsa-breach-network-infrastructure-is-the-next-target/a/d-id/1326729?_mc=RSS_DR_EDT",
+		"url": "http://www.darkreading.com/perimeter/the-secret-behind-the-nsa-breach-network-infrastructure-is-the-next-target/a/d-id/1326729",
 		"domain": "www.darkreading.com",
 		"image": ""
 	},
@@ -35,8 +1691,8 @@
 		"curated_id": "X123dfOIH6shWijPO116uENOnj7rXoywYLIj8k1uNeKeBnz2hY2123uc123gy469fTpKw5Onv3CJf1161165Xccy27aq8t95hg117117",
 		"item_date": "2016-08-26 00:00:00",
 		"title": "Australia warns shipbuilder DCNS after massive security leak",
-		"url": "http://feeds.reuters.com/~r/reuters/technologyNews/~3/OIbXyRaeuN0/us-india-submarines-france-australia-idUSKCN1110DG",
-		"domain": "feeds.reuters.com",
+		"url": "http://www.reuters.com/article/us-india-submarines-france-australia-idUSKCN1110DG",
+		"domain": "www.reuters.com",
 		"image": ""
 	},
 	{
@@ -107,7 +1763,7 @@
 		"curated_id": "MuZL3n116uJAnyBN4zx93UozpqZ1WlkAtSeTvxwl4YcfIPE8NQWJSTTZVftKrS1R7AHDxFsS3f3HStuxXjKqK27g117117",
 		"item_date": "2016-08-23 00:00:00",
 		"title": "Reporters At New York Times Targeted By Russian Hackers",
-		"url": "http://www.darkreading.com/analytics/reporters-at-new-york-times-targeted-by-russian-hackers/d/d-id/1326705?_mc=RSS_DR_EDT",
+		"url": "http://www.darkreading.com/analytics/reporters-at-new-york-times-targeted-by-russian-hackers/d/d-id/1326705",
 		"domain": "www.darkreading.com",
 		"image": ""
 	},
@@ -123,8 +1779,8 @@
 		"curated_id": "LVO8GSFiv5YvPpn9UuQjB2LTPZhboCJcktY123w116dRzeyTMUW5eE9gAksqUXVIxtchHqz4Nm0hm9wKTuGLeizdhw117117",
 		"item_date": "2016-08-24 00:00:00",
 		"title": "CrowdStrike other cybersecurity firms integrating industry cooperative",
-		"url": "http://feeds.reuters.com/~r/reuters/technologyNews/~3/yG_Xr-29rCA/us-cybersecurity-rift-idUSKCN1100DX",
-		"domain": "feeds.reuters.com",
+		"url": "http://www.reuters.com/article/us-cybersecurity-rift-idUSKCN1100DX",
+		"domain": "www.reuters.com",
 		"image": ""
 	},
 	{
@@ -155,8 +1811,8 @@
 		"curated_id": "plX6YzR9116KaK0v0lsRtyuIC116h4u5EadQURxzi7XstPssWXYr0wg7VyKQngTmPFqdiGAdKVnqjg116eI3cgPiQ4Mg117117",
 		"item_date": "2016-08-25 00:00:00",
 		"title": "Singapores airgapping policy cutting off internet access being questioned",
-		"url": "http://feedproxy.google.com/~r/BillingViews/~3/v6bOMKqlHtM/",
-		"domain": "feedproxy.google.com",
+		"url": "http://disruptiveviews.com/singapores-air-gapping-policy-questioned/",
+		"domain": "disruptiveviews.com",
 		"image": ""
 	},
 	{
