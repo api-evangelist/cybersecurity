@@ -1,10 +1,362 @@
 [
 	{
+		"curated_id": "123EQbW116cplIkXHc8csv82M25BiGoTKS9123X116NrWY9fgh2wc80P3116mTRUVfF8cSvET123I0pQ116ZAyyb116t29kCuQLHIg117117",
+		"item_date": "2016-10-14 20:51:01",
+		"title": "Instegogram Leveraging Instagram for C2 via Image Steganography",
+		"url": "https://www.endgame.com/blog/instegogram-leveraging-instagram-c2-image-steganography",
+		"domain": "www.endgame.com",
+		"image": ""
+	},
+	{
+		"curated_id": "wsOUeQas116qsGd4C7gl1239DRNuXTcSkZVcwGk1rZzIY0NPCX116Zk116vdjZ9U123gWbdEicNra123G3hRBjte9sNNC4Auqg117117",
+		"item_date": "2016-10-14 00:00:00",
+		"title": "Top Dems call on FBI to investigate Trump ally over leaked emails",
+		"url": "http://thehill.com/policy/cybersecurity/301111-dem-reps-accuse-trump-advisor-of-inside-wikileaks-information-call-onn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "BrOeuj3NmQ1GJDb2dD6lPwGEsxzdq7oztgC04h0eJzbJw4F2BR2ww7VtngSzIWaJc4s123XzUGuOtumBKvp7PE3Q117117",
+		"item_date": "2016-10-14 00:00:00",
+		"title": "Biden vows US will retaliate against Russia for hacks",
+		"url": "http://thehill.com/homenews/administration/301115-biden-vows-us-will-retaliate-against-russia-for-hacksn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "TUdqSTVm2B6pKFJGzVsnHG3LNffTrJGxmSt116lbjMVD3cWdZBI3J8F3iQB8djkLJSeLKA4odp3vWk9k61123zV3KQ117117",
+		"item_date": "2016-10-12 00:00:00",
+		"title": "Russia Russia Russia What Clinton Or Trump Can Do About NationState Hacking Gone Wild",
+		"url": "http://www.darkreading.com/threat-intelligence/russia-russia-russia-what-clinton-or-trump-can-do-about-nation-state-hacking-gone-wild/d/d-id/1327162?_mc=RSS_DR_EDT",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "WfMaeg9sjODev2DoJ116txCLQQnmlvqGJyka3iCGI4FLiitOF7MEvMjxtYjR123sIUEMC8J7zOhV123TjEPR0M123n4DzQ117117",
+		"item_date": "2016-10-12 00:00:00",
+		"title": "Take1 Insurance Offers LiveEvent Policy Covering Malicious Acts Including Terrorism",
+		"url": "http://www.avnetwork.com/avnetwork/take1-insurance-offers-live-event-policy-covering-malicious-acts-including-terrorism/125140",
+		"domain": "www.avnetwork.com",
+		"image": ""
+	},
+	{
+		"curated_id": "xAX0kwn5wOdGwj0CfH1hOcWTZBtnrV5Cq9yWD7bOXkNajrCGN02MxNlK6BoWKQZyeX51zixVumcMEf86dtq18A117117",
+		"item_date": "2016-10-12 00:00:00",
+		"title": "RiskIQ Web Crawl Discovers PCI Policy Portal Leads to Malware",
+		"url": "https://www.riskiq.com/blog/labs/web-crawl-finds-policy-portal-leading-to-malware/",
+		"domain": "www.riskiq.com",
+		"image": ""
+	},
+	{
+		"curated_id": "WuFYqZOwuJJcKfSGBP3HqFx123DiCxLFqQ2VitnNudkbARx2r123zAASRdSose8bJZiuNbkm123CFzhb6aQ116123JPV9TUg117117",
+		"item_date": "2016-10-13 00:00:00",
+		"title": "Information Security Spending Will Top 101 Billion By 2020",
+		"url": "http://www.darkreading.com/operations/information-security-spending-will-top-$101-billion-by-2020/d/d-id/1327178",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "WeLXNOiBdvLO116K9yNIENGJFErTaZ6DnIIykQYJOZ0XpMJoc7AnNzXq27DA2219pkwYq7r0ELQVP6qHBqKWveWA117117",
+		"item_date": "2016-10-14 00:00:00",
+		"title": "Security News This Week Hackers Hit a Nuclear Plant",
+		"url": "https://www.wired.com/2016/10/security-news-week-hackers-hit-nuclear-plant/",
+		"domain": "www.wired.com",
+		"image": ""
+	},
+	{
 		"curated_id": "np21GzYY1231tj6eCT4pvFP123116K0qjN7EyUClVG2anSVSdbnkB8luERFuOOVht6BuITdKxKnJSoWerqThKvTQRrdQ117117",
 		"item_date": "2016-10-13 15:35:33",
-		"title": "12yearold SSH vulnerability in IoT devices being abused  ITProPortal",
+		"title": "12yearold SSH vulnerability in IoT devices being abused",
 		"url": "http://www.itproportal.com/news/12-year-old-ssh-vulnerability-in-iot-devices-being-abused/",
 		"domain": "www.itproportal.com",
+		"image": ""
+	},
+	{
+		"curated_id": "dDH8uJj27tpCxSNr1X5NmHV1CsGksSMWi2te7sWlxF116hhgCLxPhPd517twH9Vuzngb79676116McbyC7fvHYDBgQ117117",
+		"item_date": "2016-10-14 10:48:50",
+		"title": "The Evidence Guccifer 20 is Russian Intel  Medium",
+		"url": "https://medium.com/@thegrugq/evidence-guccifer-2-0-is-russian-intel-55f9f8b3f135#.x37bl5oeg",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "7JHpuGxbRD3hld116116mcePhyPHHNCuc0vGoklH8jwxPM8QdETX2epLr0xjlul97bXPiTAWwFf116UrKF6WCYrf5b8g117117",
+		"item_date": "2016-10-13 00:00:00",
+		"title": "Senator Proposes Voting By Mail to Guard Against Cyberattacks",
+		"url": "http://www.pcmag.com/news/348683/senator-proposes-voting-by-mail-to-guard-against-cyberattack",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Q123L9Ro8rT6YMHd3FQJ0u81lmyDzUB0HWslYtWRepOfO84rNrpktASfwtq3xfVtJ123t4Xi1HiKhjKgK3U7ZPtXcA117117",
+		"item_date": "2016-10-14 00:00:00",
+		"title": "Lawmakers want answers about Yahoo scanning emails for US government",
+		"url": "http://www.siliconbeat.com/2016/10/14/lawmakers-want-answers-yahoo-scanning-emails-u-s-government/",
+		"domain": "www.siliconbeat.com",
+		"image": ""
+	},
+	{
+		"curated_id": "prfDJX2M2YEUgoVc1N8eGukILYPPHbO5t81I116RR9SyWqPJfCWKU8bK0NQkL2KI16pCkdQ8cqQ123UONydtS5DQhA117117",
+		"item_date": "2016-10-14 00:00:00",
+		"title": "Trump underestimates the Russian cyber threat",
+		"url": "http://thehill.com/blogs/pundits-blog/international/301002-how-trump-underestimates-russias-cyber-threatn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "G9RoUUIn5O4fhsUQXIrXG4rik5xA7uYsj1hGDbw6yIKFiK26DSeTTbTUOxNkzviBRaKA4C5AEW3kYzS30vVtAA117117",
+		"item_date": "2016-10-14 00:00:00",
+		"title": "Lawmakers press Lynch for briefing on Yahoo secret email scanning reports",
+		"url": "http://thehill.com/policy/technology/301016-lawmakers-press-lynch-for-briefing-on-yahoo-secret-email-scanning-reportsn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "HOIMb8hwi7ossAKPQ03cLwixEklqEOJQDXiGJcJYokhogkBNUbdGBpfpGt6TugdK6bO8db4w116KAPOY116u5LHQPw117117",
+		"item_date": "2016-10-14 00:00:00",
+		"title": "Yahoo Breach May Trigger Material Adverse Change Clause",
+		"url": "http://www.darkreading.com/attacks-breaches/yahoo-breach-may-trigger-material-adverse-change-clause/d/d-id/1327190",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "4mwoXtLTDQ7CLGQUXph5kt123vH43KuFyzUp7gZ48HtThHtAs9tIThEhHzKOq74uXdvDNePOC3HPZU1237dKHH123nBg117117",
+		"item_date": "2016-10-14 00:00:00",
+		"title": "Cyberattacks against nuclear plants a disconcerting threat",
+		"url": "http://resources.infosecinstitute.com/cyber-attacks-against-nuclear-plants-a-disconcerting-threat/",
+		"domain": "resources.infosecinstitute.com",
+		"image": ""
+	},
+	{
+		"curated_id": "x116GSSCVv3UoumaT7lFYbyuZwRYvmIDYAmPaWXamvau8ZtmJx116Eezh2rtj1F2cUpoLdEvFMgbRojF0bpYGeuHTA117117",
+		"item_date": "2016-10-14 00:00:00",
+		"title": "Dozens of US lawmakers request briefing on Yahoo email scanning",
+		"url": "http://www.reuters.com/article/us-yahoo-nsa-congress-idUSKBN12E1LI",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "N8nF4Ux5ICfCXfIg8cLBkEl6XsQYPkljVmhr123o9bbIOrUA8M2yUiWNcWq0FdI2k5kAUVLNlLheMfFn9x8tMZtw117117",
+		"item_date": "2016-10-14 00:00:00",
+		"title": "British banks keep cyber attacks under wraps to protect image",
+		"url": "http://www.reuters.com/article/us-britain-banks-cyber-idUSKBN12E0NQ",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "jpbOXe4gIs7oJop7ZhSzd6gjft3FMy5WvU2XGEs3MC116S2EE2yvFt9TGwEOSsgv116fBvojv10b6WqA28qaugEyoA117117",
+		"item_date": "2016-10-14 00:00:00",
+		"title": "Free Online Cybersecurity Economics Course",
+		"url": "https://www.schneier.com/blog/archives/2016/10/free_online_cyb.html",
+		"domain": "www.schneier.com",
+		"image": ""
+	},
+	{
+		"curated_id": "fs2hhAhWe116Sp116Oab9esGwCFVDSWZXiYN2c0LkbCNSJDbKOKk8XttPjzn116eXfzDNeS116Es3kIb1165IDwCI0Ym116sXA117117",
+		"item_date": "2016-10-13 00:00:00",
+		"title": "Verizon signals Yahoo data breach may affect acqusition",
+		"url": "http://www.pcworld.com/article/3131204/verizon-signals-yahoo-data-breach-may-affect-acqusition.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "najoNQBjZjg0XYmc98ZyJZ20cnWYUIIFG9LGZs7zt7RDvIhnAJIMks2M5CYXZ2BcWOo4116bZ8aQEADWdYoKxPvw117117",
+		"item_date": "2016-10-13 00:00:00",
+		"title": "Verizon says Yahoo privacy breach had material impact",
+		"url": "https://techcrunch.com/2016/10/13/verizon-yahoo-privacy-impact-material/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "N3UF4Xh5vnnRbj4iCTgJsJeQO7yFtR123otBLcGeUqbb1Xj4116oxSVYZIVjGAe8rYboqtPNm6123r7cS80DevYFvB116Q117117",
+		"item_date": "2016-10-13 00:00:00",
+		"title": "Talos Releases Analysis Tool for Locky Ransomware",
+		"url": "https://continuum.cisco.com/2016/10/13/talos-releases-analysis-tool-for-locky-ransomware/",
+		"domain": "continuum.cisco.com",
+		"image": ""
+	},
+	{
+		"curated_id": "NtMu5Jvgx3IkYLE0eatXSdBADQX116HPY8trXuaDqEfBceidahsL44YN123GxQh123jLPux5gwktfub5JbH46iQGuoEQ117117",
+		"item_date": "2016-10-13 00:00:00",
+		"title": "Tor Project and Mozilla Making It Harder for Malware to Unmask Users",
+		"url": "http://motherboard.vice.com/read/tor-project-and-mozilla-making-it-harder-for-malware-to-unmask-users",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "OX458kKsKBSiNom116wWwDdgdkGBrNIJ7DjWjmshAHx8BfTyvHkRqGJD3KxMGxBrVeM116sRXqFSye4NHvXBEgFSkg117117",
+		"item_date": "2016-10-13 00:00:00",
+		"title": "Lawful Hacking and the Case for a Strategic Approach to Going Dark",
+		"url": "https://www.lawfareblog.com/lawful-hacking-and-case-strategic-approach-going-dark",
+		"domain": "www.lawfareblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "kZUI116Efm3h5DqefERpnsXut98U0VWfe9FPjF37f6hBb5Fvjc1H6w2ye7Va123KC8xdA84NOYHPWkPA116IL4hcjZUw117117",
+		"item_date": "2016-10-12 00:00:00",
+		"title": "Research shows Russian hackers could be behind the Mirai botnet",
+		"url": "http://www.itsecurityguru.org/2016/10/12/research-shows-russian-hackers-could-be-behind-the-mirai-botnet/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "Bj4xoRamxNCJBMChYOe8NmPxm84MiaXPmgdI6zMdexwta0wX5123VvgB06HlDCHSKVVd3iBLAb5WGxN1233K116grdxw117117",
+		"item_date": "2016-10-13 00:00:00",
+		"title": "SSHowDowN Proxy attacks using IoT devices",
+		"url": "http://www.itsecurityguru.org/2016/10/13/sshowdown-proxy-attacks-using-iot-devices/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "TXtxxHuVROKzC3Wn9gfiiuVhQXp6LoBoKjg6z123V91BDpXxxst1M4lJeRH2HUIstumnrnc1cOj6RI3lRWKBU9pg117117",
+		"item_date": "2016-10-13 00:00:00",
+		"title": "Majority of businesses have not inspected cloud services for malware",
+		"url": "http://www.itsecurityguru.org/2016/10/13/majority-of-businesses-have-not-inspected-cloud-services-for-malware/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "EaZhQ0yDSQf4vZODAqmEKdY37IilqQ2mR0Xy2u1e116njuHeZRAKZ95omvhDldFWMNvmgM0J6116M32n0DZslOUZdg117117",
+		"item_date": "2016-10-13 00:00:00",
+		"title": "Private Information Stored in Document Files Provides Most Popular Breach Target for Cyber Attackers",
+		"url": "http://www.itsecurityguru.org/2016/10/13/private-information-stored-in-document-files-provides-most-popular-breach-target-for-cyber-attackers/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "ybcIL1169Y13i1IFaiTwA0Hwku10RUqNMOXerv9v123zV2jtsxWnZmwlfnDHUpMGm116ewK62vyEU4iYYU123YobSxUeeQ117117",
+		"item_date": "2016-10-13 00:00:00",
+		"title": "Attack Uses Image Steganography For Stealthy Malware Ops On Instagram",
+		"url": "http://www.itsecurityguru.org/2016/10/13/attack-uses-image-steganography-for-stealthy-malware-ops-on-instagram/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "ptwcKhykZobClwJFa8EPBIlpgcoj3WyLVcns5cF5zsig1239iVziu7ohqmG4EiROKAJj5A123LuxOSumZM0PmX6YdQ117117",
+		"item_date": "2016-10-13 00:00:00",
+		"title": "Managed Security Services Provider Netsurion Acquires SIEM Vendor EventTracker",
+		"url": "http://www.crn.com/news/security/300082415/managed-security-services-provider-netsurion-acquires-siem-vendor-eventtracker.htm",
+		"domain": "www.crn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "gMzHMzAUc7KmM4aXorVTSaIc5LK6c6116b3nxQT6ESVuGyVPp2y6Qts0eenn7RuAB35rrIvSHl8116vd1vlwzk4VPw117117",
+		"item_date": "2016-10-11 15:14:45",
+		"title": "Nuclear Power Plant Disrupted by Cyber Attack",
+		"url": "https://threatpost.com/nuclear-power-plant-disrupted-by-cyber-attack/121216/",
+		"domain": "threatpost.com",
+		"image": ""
+	},
+	{
+		"curated_id": "V5ZZqTgySz1169FnqL3TQv9HZVMUTVoKuKdE8Fh123swOPYA1234T03BVI1l3szXV7ns9mxLNgD6Tln1dQwTj36kDhCg117117",
+		"item_date": "2016-10-12 00:00:00",
+		"title": "How Hackers Plant False Flags to Hide Their Real Identities",
+		"url": "http://motherboard.vice.com/read/how-hackers-plant-false-flags-to-hide-their-real-identities",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "HGzdScdzt0QFLY123LTZiFGLtAGHfTO8K107j4sZifBPHCWfAB0LoMVA7WawSPlpmQipcYxBskRiZaCjEn7qTIuA117117",
+		"item_date": "2016-10-12 00:00:00",
+		"title": "Russia shrugs off promise of retaliation from US",
+		"url": "http://thehill.com/policy/national-security/300557-russia-shrugs-off-promise-of-retaliation-from-usn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "QgumIOq3hK3uqn9S7S5TPgmnQNLK5qH4RzltoqYYWePFhFU1ny99uX123q9EqJQIQ4ThX86w0mBryCNajEI7bMJA117117",
+		"item_date": "2016-10-12 00:00:00",
+		"title": "Sierra Wireless Mitigations Against Mirai Malware",
+		"url": "https://ics-cert.us-cert.gov/alerts/ICS-ALERT-16-286-01",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "XjAQbqx6fd68Q116uQzZq28tBKqfb8czyDkif123IcgcZmArt00nEUPCBg9BlMnpI3aPRL1QvoEuQ6yU2OR123123f1166xA117117",
+		"item_date": "2016-10-12 00:00:00",
+		"title": "Effective Cyber Security Requires Team Collaboration",
+		"url": "https://nulab-inc.com/blog/nulab/effective-cyber-security-requires-team-collaboration/",
+		"domain": "nulab-inc.com",
+		"image": ""
+	},
+	{
+		"curated_id": "XQH1opIX5UoU7Moc91FZDueWPcecno4u0lLg116LMGI6Sb1A9sCJURGbyRb2YcHxixvhVrP0pSBOjF2N8y07xCGA117117",
+		"item_date": "2016-10-12 00:00:00",
+		"title": "Security spending to top 100 billion by 2020 Are we any cyber safer",
+		"url": "http://www.zdnet.com/article/security-spending-to-top-100-billion-by-2020-are-we-any-cyber-safer/",
+		"domain": "www.zdnet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "e6iZW0tdeXA7iow123ZkJ3kS6EzMvI0VZBP4Dd1ri123OFxOyiRvPLTDb123eC0wkDXP5k3ZmRaHa28XJqHG0OmsUnnw117117",
+		"item_date": "2016-10-12 00:00:00",
+		"title": "Yahoo Temporarily Disables Auto Email Forwarding",
+		"url": "http://www.pcmag.com/news/348604/yahoo-temporarily-disables-auto-email-forwarding",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "3l885ps7p1uEhh3lVwpOxPtH3116xkk7GnXxw12399760mSBtgUm89fCLsMaLCDvoqc10fD6cbxv123LtRFQhqNjXhtQ117117",
+		"item_date": "2016-10-12 00:00:00",
+		"title": "Feds Yep Russia Hacked the DNC",
+		"url": "http://www.pcmag.com/news/348553/feds-yep-russia-hacked-the-dnc",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ZHAIfkfiG2Hq5DzUBkIFeQXMiCH9LUd2jhFUUIoaaodcVDEEQQejBE1164iTAgVk123WrruEIGJ18NvJBo116G9Z26AA117117",
+		"item_date": "2016-10-12 00:00:00",
+		"title": "Australia Says Foreign Spies Hacked Into Its Weather Bureau Last Year",
+		"url": "http://www.nytimes.com/2016/10/13/world/australia/hacking-weather-bureau.html",
+		"domain": "www.nytimes.com",
+		"image": ""
+	},
+	{
+		"curated_id": "17aQqlUXveZn1236wZd4TYzW8B123se123YobpDZjwPGX60cCKRjTxVk4DoR7116ycwUd0XKEfjuUjvbiRu6mzfUqwKfUA117117",
+		"item_date": "2016-10-12 00:00:00",
+		"title": "Feds George warns on cybersecurity no comment on economy",
+		"url": "http://www.reuters.com/article/us-usa-fed-george-idUSKCN12C1OM",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "qTE1eUZ1PCL4B7gDRq0uw116EABUl6txvvJq27tIaF72xUCfzJJ3CaDeObgNGy116oUaPJ6eWjKV45P9lU8hICt9pw117117",
+		"item_date": "2016-10-12 00:00:00",
+		"title": "Political Positions On Cybersecurity Matter To Millennials",
+		"url": "http://www.darkreading.com/attacks-breaches/political-positions-on-cybersecurity-matter-to-millennials----/d/d-id/1327149",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "8mxbcwJ6FBLsyKTjwlO0ie0Lv5NidrSwdg3QpK1nyraAY3o6HYqSLJqgFGar8123mSM76RP7fa0T1166xslzKWX3dw117117",
+		"item_date": "2016-10-12 00:00:00",
+		"title": "Executable Files Old Exploit Kits Top Most Effective Attack Methods",
+		"url": "http://www.darkreading.com/vulnerabilities---threats/executable-files-old-exploit-kits-top-most-effective-attack-methods/d/d-id/1327156",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "0tFxhxvI4m116sBc123Z8Z123Ozi123XwdTO6uLHgtUevCR0123focCgPc88HzSGDwo3SSHsqMvXcohwqNjsquR33PpFZz9A117117",
+		"item_date": "2016-10-12 00:00:00",
+		"title": "The Psychological Impact of Doing Classified Intelligence Work",
+		"url": "https://www.schneier.com/blog/archives/2016/10/the_psychologic_1.html",
+		"domain": "www.schneier.com",
+		"image": ""
+	},
+	{
+		"curated_id": "116s116zARF116qg116qTJzKprgUVP8TO4alubiZ1yweWDZv123HvFocoh2o70iRXNDZZQB0ZeDy4pVkolvW60m04rZjtfAQ117117",
+		"item_date": "2016-10-12 00:00:00",
+		"title": "Thoughts on White House Pledge to Respond to DNC Hack",
+		"url": "https://www.lawfareblog.com/thoughts-white-house-pledge-respond-dnc-hack",
+		"domain": "www.lawfareblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "nSzKInmRWiV5Yj116dMqcCjxGf0ycV8GoKMMnhmbzinrRlrdjTMaiEqJ5pXAx116dfwttUfwe4BsxrkojyQYSbaOkg117117",
+		"item_date": "2016-10-12 00:00:00",
+		"title": "Two State Elections Databases Have Been Hacked The Russians Arent the Only Suspects",
+		"url": "http://www.motherjones.com/politics/2016/10/state-election-hacks-undermine-voters-confidence",
+		"domain": "www.motherjones.com",
 		"image": ""
 	},
 	{
