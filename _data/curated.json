@@ -1,5 +1,789 @@
 [
 	{
+		"curated_id": "5Gg123RJX6hfz7niDUVgJrZY5KESbok2gIHZenjhR62rfYi9NWAOgXaZMyLx47nmA8oky4DxWHEdnzw4g9iH2ehg117117",
+		"item_date": "2016-10-22 11:01:00",
+		"title": "Anonymous Hacker Officially Charged for Boston Hospital DDoS Attacks",
+		"url": "http://news.softpedia.com/news/anonymous-hacker-officially-charged-for-boston-hospital-ddos-attacks-509505.shtml",
+		"domain": "news.softpedia.com",
+		"image": ""
+	},
+	{
+		"curated_id": "EElvp8TMEkDd116ZzNxligWmOk7vUD7Up123DwMi1166GIH4cbMB6iMgvtKXYTvDtNfK37fJkPXRLLiGiphCy123CwMUWw117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "Homeland Security Is Investigating All Potential Causes of Internet Disruptions",
+		"url": "http://time.com/4540921/internet-dyn-outage-homeland-security/",
+		"domain": "time.com",
+		"image": ""
+	},
+	{
+		"curated_id": "AjeyfTwAvwIJrGke7A0HRkU2WRmE1169ezs5P0dv116LgIMhnWcst2kBoqHi2mzRbhOBgUrI8SzyK8oXPaWpHNNAng117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "Some notes on todays DNS DDoS",
+		"url": "http://blog.erratasec.com/2016/10/some-notes-on-todays-dns-ddos.html",
+		"domain": "blog.erratasec.com",
+		"image": ""
+	},
+	{
+		"curated_id": "4RiIfx07AnsusHgtlc6rO116b5NPf3OqeIVV116opKfx1231FLjCl6AWxcD6fiNCTabtK4wSYm22T116HVNEtDRPa9Bxxw117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "Reports Cyberattack Spurs Widespread Internet Outage On East Coast",
+		"url": "http://www.crn.com/news/security/300082511/reports-cyberattack-spurs-widespread-internet-outage-on-east-coast.htm",
+		"domain": "www.crn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "t116x2aSMQ116gAPdY8ERt5DkpVqz6ljMmdlWcwPk5aGGrWAb1161sZbbkL9ybmfSEKSHZFFH116kWcIS9kdA1x2qmWUMw117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "The Feds are investigating todays massive DDoS attacks",
+		"url": "http://www.theverge.com/2016/10/21/13361952/dyn-dns-ddos-attack-outage-status-us-investigation",
+		"domain": "www.theverge.com",
+		"image": ""
+	},
+	{
+		"curated_id": "TYARs2w8Ex7GQ8jeMZlQkVWluDsdRns7HerTb5r4jj116EFM6VwAFWhiKU7CWydKPRhr1OpzWRA1Z0LeHTo2aGWA117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "Russian indicted in US on charges of hacking LinkedIn",
+		"url": "http://www.reuters.com/article/usa-cybercrime-russian-idUSEMN3IB49F",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "tyavEXEa1HrjcdUFEan116pkQ123YhFb8blnRAXXe2ep31o51e8K713DNsRz17UnU2h4jHNWIKbgd3ihRD65nq116Mhg117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "What We Know About Fridays Massive East Coast Internet Outage",
+		"url": "https://www.wired.com/2016/10/internet-outage-ddos-dns-dyn/",
+		"domain": "www.wired.com",
+		"image": ""
+	},
+	{
+		"curated_id": "jpY4QVCClhI123Q0PurRbrcitmW123Ltwkl9a0nSGBcnHkEKdAFSmhUPHBywsoQmHhRePM4oQlB91YIN8hxcw631YA117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "SPECIAL ALERT DDoS Attack Shuts Down Key Fintech Sites",
+		"url": "http://bankinnovation.net/2016/10/special-alert-ddos-attack-shuts-down-key-fintech-sites/",
+		"domain": "bankinnovation.net",
+		"image": ""
+	},
+	{
+		"curated_id": "QX123iyLAh0xDuF80ocMhTXxZZFfLwHt2HVZ3H123hRmV116tGeA0vwEaERsBIjlWvXN61CsHl3AUJT3GDQX57xPz8Lw117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "RPTUPDATE 1Russian indicted in US on charges of hacking LinkedIn",
+		"url": "http://www.reuters.com/article/usa-cybercrime-russian-idUSL1N1CR22A",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "7yV8O7d9XJROnbqshWdGH123Ei9VIC56ilXiZwRPdE0UZiVKdOE6OD4aFXYFfBRPYNEX63SBkZSn3g3AfCmoTdWQ117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "US indicts Russian for hacking LinkedIn Dropbox Formspring",
+		"url": "http://www.pcworld.com/article/3134091/us-indicts-russian-for-hacking-linkedin-dropbox-formspring.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Xwsmi3n123rkqNNyuR0FjT1161mB0hIOYO1162MD123116adxgKuPTzqxCaFHbn9KOHH4hYXh0lImJ5ez5ZUhUfCsOsWKb4g117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "Hackers Used New Weapons to Disrupt Major Websites Across US",
+		"url": "http://www.nytimes.com/2016/10/22/business/internet-problems-attack.html",
+		"domain": "www.nytimes.com",
+		"image": ""
+	},
+	{
+		"curated_id": "oNfNP0eWCnJ14jS123mLuu116Q1lx81nIVoaClPQH2P116ani9FhGfHdwoAADwK1YwaS1caH2JUgGAEE123RU9VuaHPBIw117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "What is a Distributed DenialofService Attack and How Did it Break Twitter",
+		"url": "http://feedproxy.google.com/~r/IeeeSpectrumFullText/~3/gejm0rmgNVM/what-is-a-distributed-denialofservice-attack-and-how-did-it-break-twitter",
+		"domain": "feedproxy.google.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Bk1HlAkOHpp12SvK123I1NhKJ3u35dJcAf5x2yUhVnDijh123PLwxctP1EtNbRP116my1166DmL4juqq2yA4zWvKyImRWg117117",
+		"item_date": "2016-10-22 00:00:00",
+		"title": "Cybersecurity Unscrupulous Diners and Internet Stewardship",
+		"url": "http://cyberlaw.stanford.edu/blog/2016/10/cybersecurity-unscrupulous-diners-and-internet-stewardship",
+		"domain": "cyberlaw.stanford.edu",
+		"image": ""
+	},
+	{
+		"curated_id": "ybutuObgb7uiZms9116BDteMw0PB123GJYN2A6YfLeR2z6uIW123OM5rW123c123EEUnqZDUy7V1pK4pcgkGrexcR631KhCw117117",
+		"item_date": "2016-10-22 00:00:00",
+		"title": "Smart home devices used as weapons in website attack",
+		"url": "http://www.bbc.co.uk/news/technology-37738823",
+		"domain": "www.bbc.co.uk",
+		"image": ""
+	},
+	{
+		"curated_id": "wnKJ9VzyBVopgNqHZ1iHs3QJqoj3enOdRDdUvS2Z6Fmjz42XUFxrOp5yz1232BLrTqfRE1239vStEgbHro9EIDcHHw117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "UPDATE 8Cyber attacks disrupt PayPal Twitter other sites",
+		"url": "http://www.reuters.com/article/us-usa-cyber-idUSKCN12L1ME",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "XhFTx123sQtb2123123v1TkJXIZCNGLwk4M3zqa35UV9HoSSD1Wa0TB1eRWVgX8K4BE116UWu8faeXpHaMDKuvYaAKOKDQ117117",
+		"item_date": "2016-10-20 15:35:15",
+		"title": "Czech police nab Russian suspected of hacking US targets",
+		"url": "http://www.scmagazine.com/czech-police-nab-russian-suspected-of-hacking-us-targets/article/566739/",
+		"domain": "www.scmagazine.com",
+		"image": ""
+	},
+	{
+		"curated_id": "AcGKiVjJIAZPSB96KytHCFUdMnUH4cwxQvFwyK0CWEDST00flHJOhUZlyMlCuyzcfyyIExYu8nn5teRO98RXJA117117",
+		"item_date": "2016-10-20 17:25:09",
+		"title": "Russia Hackers to Blame for Wikileaks Emails  Proof Vladmir Putin Was Behind the Clinton Email Hack",
+		"url": "http://www.esquire.com/news-politics/a49791/russian-dnc-emails-hacked/",
+		"domain": "www.esquire.com",
+		"image": ""
+	},
+	{
+		"curated_id": "PZm123khx388wAzt08mhxLd5Pnvz8zSTcd3LZExcHmZgV9pkEZuoGqf2RsfhGQqzCA91yjBwyTWxLsb1k9Mf4BYg117117",
+		"item_date": "2016-10-21 16:24:06",
+		"title": "Internet Attack Spreads Disrupting Major Websites",
+		"url": "http://www.nytimes.com/2016/10/22/business/internet-problems-attack.html?_r=0",
+		"domain": "www.nytimes.com",
+		"image": ""
+	},
+	{
+		"curated_id": "116lhQwFl123dTFXJrEc3O2pc5OMWOH123iEP116h8JzlpsFjQijp5gt5RZa3KpdcjeJtNJKqjIEq6Sup1ZmagQKtdNXcw117117",
+		"item_date": "2016-10-18 00:00:00",
+		"title": "WikiLeaks blames US for cutting Assanges internet connection",
+		"url": "http://www.pcworld.com/article/3132219/security/wikileaks-blames-us-for-cutting-assanges-internet-connection.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "V7um2CQlrWHzE3vOBG8LfsOySGwqICF1L2ZPXGRBmmDM5wts8kvlkyqmaRTVm4YGdX7Sn116D3O1en5DOhwrHAug117117",
+		"item_date": "2016-10-18 00:00:00",
+		"title": "Hackers create more IoT botnets with Mirai source code",
+		"url": "http://www.pcworld.com/article/3132571/hackers-create-more-iot-botnets-with-mirai-source-code.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "6PbDqOCxUo2HmK0wPPgqQrDbbGyyoK123Q13n707OTdRV3v116Tw116uGcmOUnP5ROCEAl1NV95YTvAHBZnI9de1QC8w117117",
+		"item_date": "2016-10-18 00:00:00",
+		"title": "The Internet of Things is being used to launch massive cyberattacks",
+		"url": "http://www.businessinsider.com/internet-of-things-cyberattacks-2016-10",
+		"domain": "www.businessinsider.com",
+		"image": ""
+	},
+	{
+		"curated_id": "9diCfe2IV2nFUA0dq116Z5QlZMSplyhn8g6l1YunB9eCaKCyQY5b15j8vFchMY3XgJPHdChbbPleKKcSlrUUTuxQ117117",
+		"item_date": "2016-10-18 00:00:00",
+		"title": "Yahoo left out something important when it said users havent fled since its big hack YHOO",
+		"url": "http://www.businessinsider.com/yahoo-hack-user-loyalty-data-whole-story-2016-10",
+		"domain": "www.businessinsider.com",
+		"image": ""
+	},
+	{
+		"curated_id": "79GeE1R7116S6psjFAaOs5jYdD9Gtl123123rgpBmgE0io1JZJC1c5yg0P93ni81236J9HtANqKZNGDhvIO4N08MxtQu8Q117117",
+		"item_date": "2016-10-18 00:00:00",
+		"title": "The New Face of Law and Cyber Warfare",
+		"url": "https://www.lawfareblog.com/new-face-law-and-cyber-warfare",
+		"domain": "www.lawfareblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "6uRi5TEEdBXpH3ubuH5KhAquvDTZ5XQjly8pcOcWNkDf10sZuUD61i1NuOywrxEfdq4qQeHWKhtoNy2vZCWG9w117117",
+		"item_date": "2016-10-18 00:00:00",
+		"title": "Ecuador confirms it cut off Assanges internet access to prevent him from derailing US elections",
+		"url": "http://thenextweb.com/us/2016/10/19/ecuador-confirms-it-cut-off-assanges-internet-access-to-prevent-him-from-derailing-us-elections/",
+		"domain": "thenextweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "L2LJX123gFfe4TUTW1QrqCuHS19ynuMvqZ3BCEwD4i61163G123PIpGGhZEqhGEar5ECacNhn4v1iXxwMHJP6uEkXxug117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "Dyn issues affecting joint customers",
+		"url": "https://blog.cloudflare.com/dyn-issues-affecting-joint-customers/",
+		"domain": "blog.cloudflare.com",
+		"image": ""
+	},
+	{
+		"curated_id": "d21W3NikkPaLtLhAFXJgsr116vwhiB864rQ123k7XomeoVMLsrfSmPHIBzDcGSv1hfVvCzvNQ0WJUBhv3gtrsJcGsA117117",
+		"item_date": "2016-10-18 00:00:00",
+		"title": "Yahoo Says Traffic Rose Despite Hacking That Could Alter Verizon Deal",
+		"url": "http://www.nytimes.com/2016/10/19/technology/yahoo-says-traffic-rose-despite-hacking-that-could-alter-verizon-deal.html",
+		"domain": "www.nytimes.com",
+		"image": ""
+	},
+	{
+		"curated_id": "fanXpUJSkrKZkuE376PUsWA6shxH62z64keEHPzVp123GJ1M1IfFPb22dcX49STDHQwoxcNhBKNyBwSfBP0uaNxQ117117",
+		"item_date": "2016-10-18 00:00:00",
+		"title": "Ecuador says it disconnected Julian Assanges internet because of Clinton email leaks",
+		"url": "http://www.theverge.com/2016/10/18/13325250/ecuador-wikileaks-julian-assange-internet-cut",
+		"domain": "www.theverge.com",
+		"image": ""
+	},
+	{
+		"curated_id": "WQVvI4oJAmFIPjUTkG90WGTjRJQ6Hq6116PfQrQ12S29EB116u116rucFkv3kfCElvA6qgkYk46LspCvDCU4oUNV1iHg117117",
+		"item_date": "2016-10-19 00:00:00",
+		"title": "Man arrested in Czech Republic suspected of hacking LinkedIn",
+		"url": "http://thehill.com/policy/cybersecurity/301854-linkedin-hacker-arrested-in-czech-republicn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "NG6Ax6sqefQwnR70xJS97147ak116bGNLpoKyFl3J5OCgKp3VAeeAvyCjUXW33hk314FvJnUmitYM5U116v116ZNiM4g117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "7 Imminent IoT Threats",
+		"url": "http://www.darkreading.com/endpoint/7-imminent-iot-threats/d/d-id/1327233",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "7duVOSGoZXVbZSrQdA26WkaJ7LT5F4KaAhXaWPjDOrMhp0MSfTLJFN1aZ70I116FIgYFXhk1jOk9zW3HuHqVbK123A117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "Indian Banks Hit By Debit Card Security Breach",
+		"url": "http://www.darkreading.com/attacks-breaches/indian-banks-hit-by-debit-card-security-breach/d/d-id/1327248",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "FTeIryRu22tYg19hy6e3b6x42E36oVK3W4pCmdDBe1RoZ6B3xedintXaLqroSUxZA8YsSiTtHbC5E0gmktYS3A117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "DDoS Attack On DNS Provider Disrupts Okta Twitter Pinterest Reddit CNN Others",
+		"url": "http://www.darkreading.com/attacks-breaches/ddos-attack-on-dns-provider-disrupts-okta-twitter-pinterest-reddit-cnn-others/d/d-id/1327252",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "C1NHWpaL11680A66ChbZ0rc8kgQpjhmLTuiR6euqTJRjE5e2CiqIHlRANRNQb1XPz2S7fFiPtpHMUJXclLzC5lkw117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "Cyber Training For First Responders To Crime Scene",
+		"url": "http://www.darkreading.com/operations/cyber-training-for-first-responders-to-crime-scene-/d/d-id/1327249",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "QDV116SglWrnvzuChslOdWvc20vq9cXH2UoC6PWZOMYVmkcAaAYP6116gag099M6uUSxSsnrPAmczI6H4hAKl123Ea8g117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "NSA Contractor Over 20 Years Stole More Than 50 Terabytes Of Govt Data",
+		"url": "http://www.darkreading.com/threat-intelligence/nsa-contractor-over-20-years-stole-more-than-50-terabytes-of-govt-data-/d/d-id/1327254",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "KhsK458zWwi7ROjw116mBsGavESF5vu116oOPy4Q20123oMHmWnYSEpdmBbpghQ76K3ck5mkGzlRQM9BSjL1CVtDhqsw117117",
+		"item_date": "2016-10-19 00:00:00",
+		"title": "Yahoo ACLU press US to disclose secret surveillance orders",
+		"url": "http://www.reuters.com/article/us-yahoo-nsa-idUSKCN12J2FB",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "3PJIbcxEZfPA8zQt3rV3iRebpgtzcll3zWEcZ1x116Zsf9EafvtzQCKawdFkL123Fkk8RYzS0KIU5E68P8ivHmeDgA117117",
+		"item_date": "2016-10-19 00:00:00",
+		"title": "Six Ways Cities Can Make Cybersecurity a Top Priority",
+		"url": "http://datasmart.ash.harvard.edu/news/article/5-ways-cities-can-make-cybersecurity-a-top-priority-best-practices-from-lea",
+		"domain": "datasmart.ash.harvard.edu",
+		"image": ""
+	},
+	{
+		"curated_id": "C116aASVVrPnWiz8xalGxHqXKISeXvs3HlQFt7YfTZz8hRj0JSLtxQuQ2nJa116UaAyokD290AR6SxENPOembU3mMA117117",
+		"item_date": "2016-10-19 00:00:00",
+		"title": "There Are Almost Half of Million IoT Devices Infected with the Mirai IoT Malware",
+		"url": "http://www.itsecurityguru.org/2016/10/19/there-are-almost-half-of-million-iot-devices-infected-with-the-mirai-iot-malware/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "H0V5YOsvv0Ajh123RkgzjK5qlC51TrfQPVgdIGlPOrx116jL1JJk116heobRaBqGa579anVEYSWgIAcRvdUhILc5dnJQ117117",
+		"item_date": "2016-10-19 00:00:00",
+		"title": "Is IoT Posing a Threat To Cyber Security",
+		"url": "https://dzone.com/articles/is-iot-posing-a-threat-to-cyber-security",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "JX1CSN1jJytNd0qlgBtzQHT3x123Y123xPTCHl4mmxA116i116Dl116pfvCfunroLsSy6bZL3RGNFM7bDW7yJE0fvonDtD6A117117",
+		"item_date": "2016-10-19 00:00:00",
+		"title": "Is your security camera hacking someone else",
+		"url": "http://sensr.net/blog/2016/10/19/is-your-security-camera-hacking-someone-else/",
+		"domain": "sensr.net",
+		"image": ""
+	},
+	{
+		"curated_id": "cnRJ5jA8yeOI7OuggolaLuYh6T0sCrtqT5Q3dJq6faq5epDLvDqYYbWKbawGLv123DGA5HBA633aXq52Lg78HWhw117117",
+		"item_date": "2016-10-19 00:00:00",
+		"title": "Hacker Allegedly Responsible for Massive 2012 LinkedIn Breach Arrested",
+		"url": "http://motherboard.vice.com/read/hacker-allegedly-responsible-for-massive-2012-linkedin-breach-arrested",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "A116BbwAQHGlGpQSr2wfxIyz11611612315oTgoZX04UfrFFV05AIGQ78FE6PNUDrocdleUqXv5rZn9R3NVYimLcfMqNmQ117117",
+		"item_date": "2016-10-19 00:00:00",
+		"title": "St Jude Medical Plans Cybersecurity Advisory Panel",
+		"url": "http://www.darkreading.com/iot/st-jude-medical-plans-cybersecurity-advisory-panel/d/d-id/1327219",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "OdHd4s123bS9F3boJS116A0kZO5UZH0bkYpmd1t6PwcIZ897eHU8116HBFlncSMqMr85Xk1123FX7E9BrIYE4m9ErAdHWw117117",
+		"item_date": "2016-10-19 00:00:00",
+		"title": "Smart Cities Have No Cybersecurity Say 98 Of Government IT Pros",
+		"url": "http://www.darkreading.com/iot/smart-cities-have-no-cybersecurity-say-98--of-government-it-pros/d/d-id/1327220",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "CoDOP94v9tSSmTrJrbVcSMLLn116QDErT123TBqrTaWpXpkvl4J1sF2Y2e0BpX123BPuDub1KxQDz1165aNTAIVcUJTUuQ117117",
+		"item_date": "2016-10-19 00:00:00",
+		"title": "Aviation Officials Step Up Cybersecurity Checks of Older Messaging System",
+		"url": "http://airfax.com/blog/index.php/2016/10/19/aviation-officials-step-up-cybersecurity-checks-of-older-messaging-system-wsj/",
+		"domain": "airfax.com",
+		"image": ""
+	},
+	{
+		"curated_id": "LNZiTd1UWILLwcXs123hGNBrZEdchzRY4FBg8qXLV9WdiaP7WjyCrTUz7tr5oJ1QPm5tDK3Zd116Wh9AUKEwZ1ekJQ117117",
+		"item_date": "2016-10-19 00:00:00",
+		"title": "FBI and Czech police arrest Russian hacker for US attacks",
+		"url": "http://thenextweb.com/security/2016/10/19/fbi-and-czech-police-arrest-russian-hacker-for-us-attacks/",
+		"domain": "thenextweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Yf6U123M4U4on0iYd5DdokIa4bUO123Re64idDTyBLZKZk3VP1167urActcAsP0O4116xmJYLFiLmqbE0jo5qh123ZWFNJ4Q117117",
+		"item_date": "2016-10-19 00:00:00",
+		"title": "ThreatConnect Shares Incident Information on Major Financial Institution Domain Squat",
+		"url": "https://www.threatconnect.com/blog/obi-onyeka-domain-squat-identified/",
+		"domain": "www.threatconnect.com",
+		"image": ""
+	},
+	{
+		"curated_id": "MbcCU4eMcsLpq6jrqnCfgTZpvmuHKGS3i12r2yNDxcuAEwcONNwld9tRkEKviEBA2DxRVukfB9R123LysLkXjOZg117117",
+		"item_date": "2016-10-20 00:00:00",
+		"title": "Hajime Yet Another IoT Botnet",
+		"url": "http://hackaday.com/2016/10/20/hajime-yet-another-iot-botnet/",
+		"domain": "hackaday.com",
+		"image": ""
+	},
+	{
+		"curated_id": "SwsnVDEEpRbGu9IwqpybtGCEGuDcysd123AC1166aH116Mz116A48hk5xBnGsc1SGd4iPxKHwvqlS123iFJP1elAKfsTYKNw117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "Googles 100K cybersecurity award given to University of California Santa Barbara",
+		"url": "http://www.itsecurityguru.org/2016/10/21/university-of-california-santa-barbara-team-wins-unrestricted-100k-security-privacy-and-anti-abuse-grant-award-from-google/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "123aV2116hPBcMFAjFnBa8h8bZd116BwOX2n9yHayxlDLjWaGSDsM9Iv123H44mgXAsKcZ7G6fzVc9pj1ihp4OqBvzMNvA117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "Anonymous Hacker Officially Charged for Boston Hospital DDoS Attacks",
+		"url": "http://www.itsecurityguru.org/2016/10/21/anonymous-hacker-officially-charged-for-boston-hospital-ddos-attacks/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "3HH143X4O82Y45S0IZxwb38o3olxHjWKXaWMe4OUvEuf8jkq0pFwDwe1EWTk4U6odIDhA73kFbC7J123FdsTNFLw117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "Major DDoS attack on Dyn DNS knocks Spotify Twitter Github Etsy and more offline",
+		"url": "http://www.pcworld.com/article/3133847/internet/ddos-attack-on-dyn-knocks-spotify-twitter-github-etsy-and-more-offline.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "p1oIC7xNA7GiPWct7mnS0TtBrOwvr265XIgCc123k62XwNbbCSSX4F7BhvruE1Qgdbh4yKsLlaf116kHvDLJebefAw117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "Dyn a managed DNS service hit with attack popular sites see performance issues",
+		"url": "http://www.zdnet.com/article/dyn-a-managed-dns-service-hit-with-attack-popular-sites-see-performance-issues/",
+		"domain": "www.zdnet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "TSkjTCbsmcjvX5eR3ZHAyxWTw1KJDA85I8tXHBJ5zu116yosw1123Xsei6116leQqYr1vLRIxje4LaI7YclRP7T3pOZA117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "A denialofservice attack shut down major websites across the internet",
+		"url": "http://www.theverge.com/2016/10/21/13357344/ddos-attack-websites-shut-down",
+		"domain": "www.theverge.com",
+		"image": ""
+	},
+	{
+		"curated_id": "u116cxgULIwS82dsTouDfbvWZtClw7bAwUof6IBssHDBobnplFnaOI02116MFO8LpdUzKDQvo5123pb116wsXTMbOhHexA117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "UKs new cyber security centre to debunk scare tactics and lead by example",
+		"url": "https://techcrunch.com/2016/10/21/uks-new-cyber-security-centre-to-debunk-scare-tactics-and-lead-by-example/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "KUBxl3SUyLp9UyhVvf5zPgWEwAWjRXYSqxYuwcKqT6QKasxZTXE123aXiBtq7mbEtwIXqPc8gzf0o8v1iqdcpjkg117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "Too small for cyber security  Think again",
+		"url": "http://www.itsecurityguru.org/2016/10/21/too-small-for-cyber-security-think-again/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "gg2rCOFgBvlhAPknb05CZrU6Yrbrim123CeEKfxqKBq5NAvWMW6OJvDbmzffJtQnw3wfQyBBKWQ1RgTQer7sjngw117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "The need to stay alert as data breach costs rise",
+		"url": "http://www.itsecurityguru.org/2016/10/21/the-need-to-stay-alert-as-data-breach-costs-rise/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "kp4ofQbKxKNn2ZBl116Yo10FeRnmPRMFn9mq2gKWMGf88tp25KMScu6hobdAx7uGoR116mMXA3dsQzOXbH123Ek1NM2g117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "Report Suspected spy being investigated for mysterious NSA auction",
+		"url": "http://thehill.com/policy/cybersecurity/302179-report-accused-nsa-spy-being-investigated-for-shadow-brokers-auctionn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "571nV4yBkOv1lhq2XG116yWRTpjpu116jU116RJ5KDjAq5hwZuOWsSRTo9Vr7DyrC9zyKD88YDwTopJggEdl5RSBM6Aw117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "Researchers sabotage 3D printer files to destroy a drone",
+		"url": "https://techcrunch.com/2016/10/21/researchers-sabotage-3d-printer-files-to-destroy-a-drone/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "OecJ4JFn4j123PkgORqcnf0RI4i6G116q58bkkV5smeO2RjqI2rhkNl0FhF0FhjCN7f1guf6B4DF0IZmGE8Qxrz1164g117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "ThreatConnect Shares Incident Information on a Phishing Page Serving Fake Login for University",
+		"url": "https://www.threatconnect.com/blog/phishing-page-serves-fake-login-for-university/",
+		"domain": "www.threatconnect.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Qc1JeuRM6OCuSAu7TflcWi0EMbFBCtYoxFfi116ya4METSnkUitG123ABVNklCHZwpApTemPZwzU8f116b4yweJgKRbg117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "DNS provider Dyn facing another massive DDoS attack  Twitter Reddit and more impacted Updated",
+		"url": "http://thenextweb.com/insider/2016/10/21/dns-provider-dyn-facing-another-massive-ddos-attack-twitter-github-reddit-more-impacted-url/",
+		"domain": "thenextweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "0vPeMp0aMlHaeZxj9nwWDWlBGN60qs0tez2QRInYvl123G2hXFKaguVRTnNDDF0TImOKbgF4PvLwOVjpT2xfgP5A117117",
+		"item_date": "2016-10-20 00:00:00",
+		"title": "US charging arrested NSA contractor with espionage",
+		"url": "http://thehill.com/policy/national-security/302031-us-to-charge-arrested-nsa-contractor-with-espionagen",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "JzXKXKJisMz4assv1w9116O7o1OF0678WxMAw0RKAIEycFt123BnqIJ4cdgkjJLOn0oc94dTobJ5Lp1RhIR5anj2Hg117117",
+		"item_date": "2016-10-20 00:00:00",
+		"title": "Researchers link Podesta hack to Russia",
+		"url": "http://thehill.com/policy/cybersecurity/302039-researchers-tie-podesta-hack-to-russian",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "PZ7hMFbJEGRyZaYvFhAbT4KmaGYL123tBPgKqSQ5ghK116HmTmD116dpux1MQlLyXSrTOP4JODfKLU116116ZB123vw2qPoZsA117117",
+		"item_date": "2016-10-20 00:00:00",
+		"title": "WikiLeaks releases messages from Obama",
+		"url": "http://thehill.com/policy/cybersecurity/302074-wikileaks-releases-messages-from-obaman",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "aOZGwip4ogvCdNcqQTsdYY2XBLl6HFpW0116jKF3A3WFBGwUKQVEk123ce8SUzpI1164a8TLt4sf7XpKopeMRPVpfWCQ117117",
+		"item_date": "2016-10-20 00:00:00",
+		"title": "New Free Tool Stops Petya Ransomware  Rootkits",
+		"url": "http://www.darkreading.com/endpoint/new-free-tool-stops-petya-ransomware-and-rootkits/d/d-id/1327241",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "UoeuPs123DFqXViqm58BlDhDgIZ0bx8H116yelOrl1uhJb8Lpi93123f5YrT0zgTpw116OlS7SQ89sQnGE9N7dj3X5IP1A117117",
+		"item_date": "2016-10-20 00:00:00",
+		"title": "How To Crash A Drone By Hacking Its 3D Propeller Design",
+		"url": "http://www.darkreading.com/endpoint/how-to-crash-a-drone-by-hacking-its-3d-propeller-design/d/d-id/1327244",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "CX123mvDw77EEkP1k873zjOkDwXV7Fs22jf3mYHwWlT41TWpiqif6EjYql7FyQE84iILzWBOO6Kfv5N7yjnocqNw117117",
+		"item_date": "2016-10-19 09:03:41",
+		"title": "Inside the DDoS attacks powered by large IoT botnetsSecurity Affairs",
+		"url": "http://securityaffairs.co/wordpress/52167/cyber-crime/cloudflare-iot-botnet.html",
+		"domain": "securityaffairs.co",
+		"image": ""
+	},
+	{
+		"curated_id": "j9Jh66lLnlWdnmGiHZyj5116KTiBV116CLgPvzSbDY4MiW6as9HYw1Espk1yy116ZzhqoMDOXPTMRWEFJI123nIERaWpQw117117",
+		"item_date": "2016-10-19 22:26:02",
+		"title": "Man suspected of stealing 100 million LinkedIn users information is arrested in Prague",
+		"url": "http://www.latimes.com/business/technology/la-fi-tn-linkedin-hack-arrest-20161019-snap-story.html",
+		"domain": "www.latimes.com",
+		"image": ""
+	},
+	{
+		"curated_id": "kgelR2AqMTWnwqzFA89FPG0Ei1e5qHM123awLVIZ7NLJjSO8ns8116N1A9A3TzGfhOzezI2obArEQBNXQagU2flIYw117117",
+		"item_date": "2016-10-19 22:26:45",
+		"title": "Yahoo Seeks US Declassification of DataGathering Efforts",
+		"url": "http://www.wsj.com/articles/yahoo-seeks-u-s-declassification-of-data-gathering-efforts-1476916389",
+		"domain": "www.wsj.com",
+		"image": ""
+	},
+	{
+		"curated_id": "QCeqZWLbIUlgyuXksBrIXlDA51GK8VamTXRjF5t123iFYlET123L9bNql123sG2FW0ST0x9VATfk2116Nv9lNn1cpMtGvw117117",
+		"item_date": "2016-10-19 00:00:00",
+		"title": "LinkedIn blames Russian hacking suspect for 2012 breach",
+		"url": "http://www.pcworld.com/article/3132931/security/linkedin-blames-russian-hacking-suspect-for-2012-breach.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ADe7XR0BUaXOVEw4cIu3ByVnDrD12313CVzh8TGu5e116Eh0zT07ex328HDhL74ira9YPNdP116EEdja096jIqpbPIUw117117",
+		"item_date": "2016-10-20 00:00:00",
+		"title": "Recent IoTbased Attacks What Is the Impact On Managed DNS Operators",
+		"url": "http://dyn.com/blog/recent-iot-based-attacks-what-is-the-impact-on-managed-dns-operators/",
+		"domain": "dyn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "UvrBQo3NkM116f9AYuGCbNOv4vEeCFkx39PkJ9eM2wctFtuoRZIX4RNnuEn116RLtIayPdGxyYYLfORFuoCVVzR05g117117",
+		"item_date": "2016-10-19 00:00:00",
+		"title": "Why cybersecurity certifications suck",
+		"url": "http://blog.erratasec.com/2016/10/why-cybersecurity-certifications-suck.html",
+		"domain": "blog.erratasec.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ooQrNUTc8jgTb5mlnUEfAVs8vYgTfF9K123Cx7K9eJDMO9uRBIaflgJYebblcdlvlAJBymT123PDZuptTLbzbs6E7A117117",
+		"item_date": "2016-10-19 00:00:00",
+		"title": "BRIEFOffice of Director of National Intelligence confirms receipt of Yahoos letter",
+		"url": "http://www.reuters.com/article/idUSFWN1CP0W3",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "X70Q123gWSYEgtnZP5GEQMrMS7IxiPats116C8A9116TWvteaCnoZRxCDSrpB3EyL3tgEYU92DjMKTrkmGBQ5ioDbpDQ117117",
+		"item_date": "2016-10-19 00:00:00",
+		"title": "BRIEFUS govt officials considering release of additional info on court order served on Yahoo",
+		"url": "http://www.reuters.com/article/idUSFWN1CP0W7",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "XsUUgfewc1FKVY2pyB1237ccxO15OgBGbXgVjyNobdcUscjejGZDo89QUpg5BuihPRoGRoPC5gk3Lf0GcbIf2fjw117117",
+		"item_date": "2016-10-20 00:00:00",
+		"title": "Russian arrested over LinkedIn hack",
+		"url": "http://www.bbc.co.uk/news/technology-37713790",
+		"domain": "www.bbc.co.uk",
+		"image": ""
+	},
+	{
+		"curated_id": "Qito5bBsQB0L2SOAEdvxcmp4bcRka116F12346BkClDOSF5qJaMrGzxUBMFRC3toUFX7mzyubzIINthJG7C116ayCdhA117117",
+		"item_date": "2016-10-20 00:00:00",
+		"title": "NSA contractor to face espionage charges for alleged data theft",
+		"url": "http://www.reuters.com/article/us-cyber-nsa-arrest-idUSKCN12K2GZ",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "116jAOMsT1238dh6tzegW7ZzSkdfWqauV7rDhB4daVPecGjRFy1dnUb2tdYop71sJ1DHN7MFzUG1eS5Nfho68s0GEw117117",
+		"item_date": "2016-10-20 00:00:00",
+		"title": "Yahoo Demands Government Be More Transparent About Data Requests",
+		"url": "http://www.darkreading.com/cloud/yahoo-demands-government-be-more-transparent-about-data-requests--/d/d-id/1327231",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "tFsDbEyWpgQn1230DpXCUD123uVKXi9De28o5JfdsuzExOX2aSGsolPzFb51239pTsTrazzgP116BjUOZQZ4kd123NxOogYw117117",
+		"item_date": "2016-10-20 00:00:00",
+		"title": "Why Poor Cyber Hygiene Invites Risk",
+		"url": "http://www.darkreading.com/attacks-breaches/why-poor-cyber-hygiene-invites-risk/a/d-id/1327235",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "uzvJK1HqnUlmwsfXMQGeZS3yz30DXzOwtAMm9NXc4j95tuWTiljFdHq3T6EnFwKjxJhGMIa4rD51VU0CJo123nHw117117",
+		"item_date": "2016-10-20 00:00:00",
+		"title": "Why Arent We Talking More Proactively About Securing Smart Infrastructure",
+		"url": "http://www.darkreading.com/partner-perspectives/intel/why-arent-we-talking-more-proactively-about-securing-smart-infrastructure--/a/d-id/1327236",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "9PV123zPCB0Tsx123JRpbiAJiBdbfQio2YtQp6qtz56I51AeGFrcdVQoezD116GsPrSFw6bX82XXMpzuzXpZed6K2AWg117117",
+		"item_date": "2016-10-19 00:00:00",
+		"title": "US calls on banks to set higher cyber security standards",
+		"url": "http://www.reuters.com/article/us-usa-banks-cyber-idUSKCN12J1Q6",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "g53xoRBeWnFMmlWsSUC7umkBuSUMUHs116Q8pZ767E4wCotN1ZrpIFX39Zapg8tBh6DFfUaRaY4cgEsw1rr51237gg117117",
+		"item_date": "2016-10-19 00:00:00",
+		"title": "Regulators to set new cybersecurity standards for banks",
+		"url": "http://thehill.com/policy/finance/301739-regulators-to-propose-rules-to-protect-banks-from-cyber-attacksn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "cc3M6uSofzF2obKXbavgUcPIJUSpeOiiZzcNp1162FoN116wUS2fVKV2N64hfluZVP9S123NNA2WMNs9JERkJX1F3Ufw117117",
+		"item_date": "2016-10-19 00:00:00",
+		"title": "Security Lessons from a Power Saw",
+		"url": "https://www.schneier.com/blog/archives/2016/10/security_lesson_3.html",
+		"domain": "www.schneier.com",
+		"image": ""
+	},
+	{
+		"curated_id": "G7rk50atQaNg0o1y2diZX9FXZhnAG4FfbJZTBj1UOl0LoqnltVRKZvCznb7zocgdU04NCQJpC4PmuDlqtopivg117117",
+		"item_date": "2016-10-17 00:00:00",
+		"title": "What Does a Cybersecurity Researcher Do Really",
+		"url": "https://dzone.com/articles/what-is-a-cybersecurity-researcher-really",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "41TPWcGrT4Z5Lj1DvTvXlDPYsbNBi8608HCqemYW0BV123hLduQmbZeidu6aTVnXHzxUD9KombDxI9XsUdGaPqag117117",
+		"item_date": "2016-10-18 00:00:00",
+		"title": "Dyre malware resurfaces as TrickBot targets Australian banks",
+		"url": "http://www.itsecurityguru.org/2016/10/18/dyre-malware-re-surfaces-as-trickbot-targets-australian-banks/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "5I9xEw3sjqTnKSPe3UEOfqpEBZrG8m21lmurEcSGvjRA5MeQHUdMLAnXKoAErf0nyfcysoXCYYt2tmp3dcy4qw117117",
+		"item_date": "2016-10-18 00:00:00",
+		"title": "Northern Ireland public warned over online security after 13m stolen by cyber criminals",
+		"url": "http://www.itsecurityguru.org/2016/10/18/northern-ireland-public-warned-over-online-security-after-13m-stolen-by-cyber-criminals/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "AFEsF20bLBIS5PUTvs6abHkb4d0GebkKfmyhFYZ0ZOnUib7E3vBr0r2OckGKQHmxT1164szvzZg8mpBlSii2BOWg117117",
+		"item_date": "2016-10-18 00:00:00",
+		"title": "Shadow Brokers Cancel Auction of Supposed NSA Hacking Tools",
+		"url": "http://www.itsecurityguru.org/2016/10/18/shadow-brokers-cancel-auction-of-supposed-nsa-hacking-tools/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "Ujo5OJi8Wo0blJTBvGyKE8gxAs5S8ezYmOQh2lYlXmBG116JQ123m97xzPGsTFFmwZnTb7JGfMjvzKsCPCkWt8wz2A117117",
+		"item_date": "2016-10-18 00:00:00",
+		"title": "NyaDrop exploiting Internet of Things insecurity to infect Linux devices with malware",
+		"url": "http://www.itsecurityguru.org/2016/10/18/nyadrop-exploiting-internet-of-things-insecurity-to-infect-linux-devices-with-malware/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "CNfnqNkDRbxY123123cb8id7123RuaAokNw1169J1tHUkzzbLhgwJEW6ppbTtYxyQYW9vW116uIsM7zZhZhLkFRxYPjYY6iw117117",
+		"item_date": "2016-10-18 00:00:00",
+		"title": "Cognitive Security",
+		"url": "http://www.itsecurityguru.org/2016/10/18/cognitive-security/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "CDDTbfn6hu123ndUk116jxF116GSoh43KINzvvu3rg123oySCiA2oAQpVSDsnqsbiPTiJ4fiUiaCPVLyGgG7Wnxzqt4pJg117117",
+		"item_date": "2016-10-18 00:00:00",
+		"title": "Veracode Report Finds Open Source Components Proliferating Digital Risk at an Alarming Rate",
+		"url": "http://www.itsecurityguru.org/2016/10/18/veracode-report-finds-open-source-components-proliferating-digital-risk-at-an-alarming-rate/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "0bzt7sHLhUhpi4EpnSVGzH3FU4123xEaAv8jPWdR3pj0rhg2fDz1sC3U3g2rF3iYluj3ZFv3hAPIqxofrfJFkqzQ117117",
+		"item_date": "2016-10-18 00:00:00",
+		"title": "Ecuador affirms Assange039s asylum status amid internet access questions",
+		"url": "http://thehill.com/policy/national-security/301484-as-assange-mystery-deepens-ecuador-affirms-asylum-statusn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "sAeyGs91bGss1239eEFleq1sfRrTD34jc6RpL4fTgXfPmJeKC7P8CA0Vr6hh1V123c7AfBxAAUEvwbgpRxY3to5pvQ117117",
+		"item_date": "2016-10-17 00:00:00",
+		"title": "UKs Investigatory Powers Tribunal says GHCQ illegally spied for 17 years",
+		"url": "http://boingboing.net/2016/10/17/uks-investigatory-powers-tri.html",
+		"domain": "boingboing.net",
+		"image": ""
+	},
+	{
+		"curated_id": "VlRIdPU6bmZj0JpZXvnKpHTZaQxFbMwMvaTBt4td5J116B6rU5eFEgafJlSzab1aoE6ej2K9Jks4mrZ8GFeZIMzA117117",
+		"item_date": "2016-10-17 00:00:00",
+		"title": "Guccifer Sent Back To Romanian Prison",
+		"url": "http://www.darkreading.com/careers-and-people/guccifer-sent-back-to-romanian-prison-/d/d-id/1327196",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "f1rE4Y3XnxZSrGldQ4iv70JTcALIKqe2gsmO1VVZZiqFwTz116WYgtmCyjU5MacjAzSPWjwvlQq47abdvpZzNB9Q117117",
+		"item_date": "2016-10-17 00:00:00",
+		"title": "Cloud Security Replacing Cybersecurity Industry Says Analyst",
+		"url": "http://www.darkreading.com/cloud/cloud-security-replacing-cybersecurity-industry-says-analyst/d/d-id/1327197",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "w2OReQ7tIl19mgEF3Indv01161NZgvFjy0gCFNnq7ROIhYQeBhRkH123x6MT5JnQXuyECLXCVJGskuvEKxsoebMr9w117117",
+		"item_date": "2016-10-17 00:00:00",
+		"title": "How To Become A Cybersecurity Entrepreneur In A Crowded Market",
+		"url": "http://www.darkreading.com/attacks-breaches/how-to-become-a-cybersecurity-entrepreneur-in-a-crowded-market/a/d-id/1327198",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "XtqipAj8c116OMF0klqgFz4rFHLWVlOl9CP6116nve116Dy0xUITiaR6JwINavZL26BO3faQqz2M460Nv9IN31jnOLXw117117",
+		"item_date": "2016-10-17 00:00:00",
+		"title": "NSA hackers abandon auction seek 6M in crowd funding",
+		"url": "http://thehill.com/policy/cybersecurity/301372-nsa-hackers-abandon-file-auction-seek-6m-in-crowd-fundingn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "cX7DS6WSNmrenKXZDB123T87vYQVh6SasQPqLlRWzeZbzUj0zljFSfZRf0wFG78r7fXVUL123XpZjZZ2pHkMl116re116Q117117",
+		"item_date": "2016-10-17 00:00:00",
+		"title": "Cybersecurity from the Break Room to the Board Room",
+		"url": "https://www.dhs.gov/blog/2016/10/17/cybersecurity-break-room-board-room",
+		"domain": "www.dhs.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "XJd0C9E648UJ123jYor8zN3LTEJc72MGxZFRUWYlejQB4jGmv1TR5Mcch7CNuPa5UIXQW4smwEoGmBaTFJYdU1PA117117",
+		"item_date": "2016-10-18 00:00:00",
+		"title": "Public WiFi Use Grows Despite Security Risks",
+		"url": "http://www.darkreading.com/cloud/public-wi-fi-use-grows-despite-security-risks/d/d-id/1327206",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "qGUdd1mQvblp116qR7m47y9kyTjy123FdKnQD2HKb4CJFqungPmxtxqLlC3hj11238BRGk2U0WNUl123oWgfou123XfJTRJg117117",
+		"item_date": "2016-10-17 00:00:00",
+		"title": "UK spy agencies broke privacy rules says tribunal",
+		"url": "http://www.bbc.co.uk/news/technology-37680058",
+		"domain": "www.bbc.co.uk",
+		"image": ""
+	},
+	{
+		"curated_id": "i1232kl22YK0QbDAQn8EYVeM4ZhmOH7bMJ116c3d6VH423e116D9gHie48gCnCOUdxMpk116qlHTUd5r9NdJG7hv1j7csA117117",
+		"item_date": "2016-10-17 00:00:00",
+		"title": "How hackers handle stolen login data",
+		"url": "http://www.itsecurityguru.org/2016/10/17/how-hackers-handle-stolen-login-data/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "TRhRT7ZZWguyeBdDi0Owl116Jf9iWnzzG1LOs8pCN7gVCz123DqhqB6Z1A3wtsMrCKBSm6FoegMbxnfTJ7T8jjUk0Q117117",
+		"item_date": "2016-10-17 00:00:00",
+		"title": "UK Banks Underreporting Cyber Incidents",
+		"url": "http://www.itsecurityguru.org/2016/10/17/uk-banks-under-reporting-cyber-incidents/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "yo5mWjaeKPY116C116xA9yb5eCmrD1AskevUwXZrahylutdtVlq5D9TqxLC0u9qoJDH2lv4HjVcb7YVIj2zxy6EgNA117117",
+		"item_date": "2016-10-17 00:00:00",
+		"title": "Knowledge for Cybersecurity",
+		"url": "http://ebiquity.umbc.edu/blogger/2016/10/17/knowledge-for-cybersecurity-2/",
+		"domain": "ebiquity.umbc.edu",
+		"image": ""
+	},
+	{
+		"curated_id": "RgByEWwPeODsRZ0Mn4QxpP3n9lyqxCxP481161235rCiU8PjFJCgzcbws6aSctA0U116SY1Vkf5bU1237QyVxnfQLO116NKA117117",
+		"item_date": "2016-10-17 00:00:00",
+		"title": "UK spy agencies bulk data practices ruled unlawful before 2015",
+		"url": "https://techcrunch.com/2016/10/17/uk-spy-agencies-bulk-data-practices-ruled-unlawful-before-2015/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
 		"curated_id": "123EQbW116cplIkXHc8csv82M25BiGoTKS9123X116NrWY9fgh2wc80P3116mTRUVfF8cSvET123I0pQ116ZAyyb116t29kCuQLHIg117117",
 		"item_date": "2016-10-14 20:51:01",
 		"title": "Instegogram Leveraging Instagram for C2 via Image Steganography",
