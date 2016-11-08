@@ -1,5 +1,325 @@
 [
 	{
+		"curated_id": "0BUr60vyBNlv20H116ws2Cvl2ZmuCGj9bKzr6G4j5AxXbSTZjzJVaC7r2hzt5rFxTCaxp15viuhHQ5I116iLIgCIWw117117",
+		"item_date": "2016-11-01 17:29:33",
+		"title": "Microsoft handed the NSA access to encrypted messages",
+		"url": "https://www.theguardian.com/world/2013/jul/11/microsoft-nsa-collaboration-user-data?0p19G=c",
+		"domain": "www.theguardian.com",
+		"image": ""
+	},
+	{
+		"curated_id": "CUaGEbWXtjpgqsYZFyBKBUBUKkV11628f30JKORuKOH9ZGJHRJqycGpM9V3qyUJbQkXioh6JpBgSCJvszjXAtVqg117117",
+		"item_date": "2016-10-31 00:00:00",
+		"title": "What Were Scared About This Halloween Prosecutorial Discretion Under Notoriously Vague Computer Crime Statute",
+		"url": "https://www.eff.org/deeplinks/2016/10/what-were-scared-about-halloween-prosecutorial-discretion-under-notoriously-vague",
+		"domain": "www.eff.org",
+		"image": ""
+	},
+	{
+		"curated_id": "YuqqtBw6evw3iMxI8B1160FDGIVR5mjp116S8duJDTYm1H1169MGxmTM8b8K8ci2FWlcnrEtJfTy9u6OBTSqivbX8xqw117117",
+		"item_date": "2016-10-31 00:00:00",
+		"title": "Internet of Things Attacks are More than a Nuisance",
+		"url": "https://community.infoblox.com/t5/Company-Blog/Internet-of-Things-Attacks-are-More-than-a-Nuisance/ba-p/8135",
+		"domain": "community.infoblox.com",
+		"image": ""
+	},
+	{
+		"curated_id": "vYv9fmHVx116DzY123AwvIqQT3TBbf3d0RbJ3p9Ca2116iPIuMKG2MFwOjA116kqWs123FfeBviYYtid6uZhfItuZnba116116eQ117117",
+		"item_date": "2016-10-31 00:00:00",
+		"title": "US Should Help Private Sector Active Defense But Outlaw Hacking Back Says Task Force",
+		"url": "http://www.darkreading.com/threat-intelligence/us-should-help-private-sector-active-defense-but-outlaw-hacking-back-says-task-force/d/d-id/1327346?_mc=RSS_DR_EDT",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "UamjCnXEshoycRb4esVmlEK7HA0iR8vgy123MP123116t9tYg123XkFkyVozgAbPcrrFWzdjcg3Ce61DArZaDaPREoxRYA117117",
+		"item_date": "2016-10-31 00:00:00",
+		"title": "Shadow Brokers post list of compromised IP addresses",
+		"url": "https://techcrunch.com/2016/10/31/shadow-brokers-post-list-of-compromised-ip-addresses/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "yxOCkwMzCVn51VpWskoUoJs0NqzKeGUbcZKiBOwbLdICNTYH2vzSpWeEnIrYvuMjhv7aoLbwSMdcdAOnLC7hXQ117117",
+		"item_date": "2016-10-31 00:00:00",
+		"title": "Controversial Chinese cybersecurity law enters home stretch for approval",
+		"url": "http://www.reuters.com/article/us-cyber-china-lawmaking-idUSKBN12V1KO",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "KbpxRShNRug6DW1GQTuYyu05yVpl43Y2rTtAcrbMvJVrfiL0oA6pPx123NKrsVi3bck6wf2mCPnF0K7uHjOVf8fA117117",
+		"item_date": "2016-10-31 00:00:00",
+		"title": "Hackforums Shutters Booter Service Bazaar",
+		"url": "https://krebsonsecurity.com/2016/10/hackforums-shutters-booter-service-bazaar/",
+		"domain": "krebsonsecurity.com",
+		"image": ""
+	},
+	{
+		"curated_id": "UMRQCJ4wjjx0A7adD3aMEkVNye116q7dg7IO3116MtkwPqBjpWNUZt7J0SdISrthtElID5WEWC09OYypg5Xit1160N0Q117117",
+		"item_date": "2016-10-31 00:00:00",
+		"title": "Sundown Exploit Kit Operating 80000 Malicious Subdomains",
+		"url": "https://continuum.cisco.com/2016/10/31/sundown-exploit-kit-operating-80000-malicious-subdomains/",
+		"domain": "continuum.cisco.com",
+		"image": ""
+	},
+	{
+		"curated_id": "h5lFJjiNNVz1238AbZegHUmByOwAoGcbTPEoHXitL5l229VQYzlvhWTrVhxzU8Lg1163nJrpxeuk8tX116jLuUVqqWSQ117117",
+		"item_date": "2016-10-31 00:00:00",
+		"title": "Hackers reveal apparent targets of NSA cyber espionage",
+		"url": "http://thehill.com/policy/cybersecurity/303570-nsa-hackers-leak-more-files-revealing-apparent-targets-of-us-cybern",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "BLlec4iofkuluVmagVmeLgv947IU4L8BCgLhwfPFpGF5q73iRHYY3ESm9aVx85z29X467pUDZ1238yvECJuqqBhg117117",
+		"item_date": "2016-10-31 00:00:00",
+		"title": "Feds Preach Cybersecurity to Carmakers",
+		"url": "http://spectrum.ieee.org/cars-that-think/transportation/advanced-cars/feds-preach-cybersecurity-to-car-makers",
+		"domain": "spectrum.ieee.org",
+		"image": ""
+	},
+	{
+		"curated_id": "sl7ZD2123RYdob2eEmRVJsM116BFK3OG8Jj3123xm1116DUJp5e3EmaMU8Vpfvz7T2l6uFA5bF0adNU0nPZG0oF2tGp3pA117117",
+		"item_date": "2016-11-01 00:00:00",
+		"title": "7 Misconceptions of AI Machine Learning and Cybersecurity",
+		"url": "http://www.itsecurityguru.org/2016/11/01/7-misconceptions-of-ai-machine-learning-and-cybersecurity/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "HyVqDT116aLIglqMSA5yxqF3AG01238w2veSFqMnBO3jG4qsk1kdGSZ3t6LDCsjumrej3116hTdIr3z0WQwr9KCmfP7Q117117",
+		"item_date": "2016-11-01 00:00:00",
+		"title": "Microsoft preparing to patch security flaw used in cyberattacks",
+		"url": "http://thehill.com/policy/cybersecurity/303905-microsoft-readying-patch-of-security-flaw-used-in-espionagen",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "xqAn7IK00UfpRnUjBeFyJ116c2116S8JFBn9bfQ5xKJ3llHkWxgEYcj7xhfxEb0dPewQE3igJU5x3E65jNbjpZTDrw117117",
+		"item_date": "2016-11-01 00:00:00",
+		"title": "UK government to spend 23 billion to bolster cybersecurity",
+		"url": "http://www.pcworld.com/article/3137161/security/uk-government-to-spend-2-3-billion-to-bolster-cybersecurity.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "6j21mEEeqDx116Ki116dzsvzBcKp34njiuHfCp1165Kll123Z3DYLEfBchW1R8KmsOPVvHmz116bbv3zMton8fPmuOAxvaFw117117",
+		"item_date": "2016-11-01 00:00:00",
+		"title": "UK to increase national cyberdefence grid",
+		"url": "http://www.itsecurityguru.org/2016/11/01/uk-to-increase-national-cyber-defence-grid/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "kwtqJ3a9YiKQJW123c0vt6sWD123TlmpLe6Cx1E0HyFzobbbLnqMofQoE7lf97aRd3Bki1Gzy6PxDbJ123fEL1ZmxGnQ117117",
+		"item_date": "2016-11-01 00:00:00",
+		"title": "ThreatConnect Shares Incident Information on Typosquatting Domains",
+		"url": "https://www.threatconnect.com/blog/chinese-typosquatting-domains-identified/",
+		"domain": "www.threatconnect.com",
+		"image": ""
+	},
+	{
+		"curated_id": "swsfB4ojprEifYvzHmNCxwHBJQgj116yyGDyc3cCRb123CEe8AhcsKDQcvu9280z6Eq2Kp116oGVekUs7T03etkAQClQ117117",
+		"item_date": "2016-11-01 00:00:00",
+		"title": "ThreatConnect Shares Incident Information on Turla APT satellitebased infrastructure",
+		"url": "https://www.threatconnect.com/blog/satellite-turla-apt-identified/",
+		"domain": "www.threatconnect.com",
+		"image": ""
+	},
+	{
+		"curated_id": "4Fzm9ATqAT7LpoqQER123BkR0r0LR0Y6JRgxdGtZBIML8ZL5dvQpEJSkrXk116KrOFQlEvyhaTtp1J116H12PHDuYeCA117117",
+		"item_date": "2016-11-01 00:00:00",
+		"title": "Cybersecurity action must catch up to interest A lesson from Snowden",
+		"url": "http://blog.datagravity.com/cybersecurity-action-must-catch-interest-lesson-snowden/",
+		"domain": "blog.datagravity.com",
+		"image": ""
+	},
+	{
+		"curated_id": "oXmknfUxNG5TTR7eJNr1SGBmdS8apH123AO7Er116zCbzG3NqUoC123Ns116t8VRFu6ZGuKMtZRPrlOZth116WVkyjmUbIBw117117",
+		"item_date": "2016-11-01 00:00:00",
+		"title": "UPDATE 2Microsoft says Russialinked hackers exploiting Windows flaw",
+		"url": "http://www.reuters.com/article/us-microsoft-cyber-russia-idUSKBN12W4ZK",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "l2uazMboFi1169qBw1btWrkp3zfBgoaaksr116UouyXhXs2xRxz5k3KfWin1CGdiWkj123rInX1239116hWt5bebHq0GG7YQ117117",
+		"item_date": "2016-11-06 00:00:00",
+		"title": "China adopts controversial cybersecurity law Xinhua",
+		"url": "http://www.reuters.com/article/us-china-parliament-cyber-idUSKBN132049",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "fTaMagaP123CPWC7ZNtsMyaqsIHVTGXp1vM6MG5OSMbxIg123X7UQIAl1238VGP09iF09NZYTymfBes123wzxs64GusW9Q117117",
+		"item_date": "2016-11-01 00:00:00",
+		"title": "Shadow Brokers Releases Second Trove of Spying Tools",
+		"url": "http://www.pcmag.com/news/349227/shadow-brokers-releases-second-trove-of-spying-tools",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Qz7Mx116123Qkx0geb89Pvj6KJybm8OPeZrP3wbxA0Y6s123kReZfQclXwy116qaSHqRYcyZsiAIZRpXleco7Kki123WRaJw117117",
+		"item_date": "2016-11-01 00:00:00",
+		"title": "We Need A National Cyber Defense Agency",
+		"url": "http://www.huffingtonpost.com/adam-levin/we-need-a-national-cyber_b_12740006.html",
+		"domain": "www.huffingtonpost.com",
+		"image": ""
+	},
+	{
+		"curated_id": "CnysYue2QHLWYO5A52fy63LK2PvpNQUlTC992MHdNBeXSDsXUX2Krrh4Q5Dj116A1U9XNETZuowwdZ9wkzf5PXVA117117",
+		"item_date": "2016-11-02 00:00:00",
+		"title": "Ohio using National Guard cybersecurity team to protect elections",
+		"url": "http://thehill.com/policy/cybersecurity/303918-ohio-using-national-guard-cybersecurity-team-to-protect-electionsn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "sv4v0jCDm123VCD116df1168rQXu5MXnMXFslZSsaoQNbIGE1163QB56w2fkC123zsxc4116DJCYLf2QQFTYv2123mdw2ADH5OxQ117117",
+		"item_date": "2016-11-02 00:00:00",
+		"title": "How Unchecked Spying Corrodes Democracy Around the World",
+		"url": "https://www.aclu.org/blog/speak-freely/how-unchecked-spying-corrodes-democracy-around-world",
+		"domain": "www.aclu.org",
+		"image": ""
+	},
+	{
+		"curated_id": "6kb6Hi123QnEBUgUrxLVUMrFFMhnF141236GXRhlXO2Th2o4TWay1nYj6zBvex0ZJ3HN5T8AAg9E8ehc4Jr8ENlOAQ117117",
+		"item_date": "2016-11-02 00:00:00",
+		"title": "Why the Government Must Disclose Its Exploit to the Defense in the Playpen Cases",
+		"url": "https://www.eff.org/deeplinks/2016/10/why-government-must-disclose-its-exploit-defense-playpen-cases",
+		"domain": "www.eff.org",
+		"image": ""
+	},
+	{
+		"curated_id": "7Bne123Qm316EUe1gFow9BFoy0B9THFFmOPg38ZGmj8AkRZ2kKvDEQRo2Go1CUXl116zJTS5nacIokPz1XjIXuL8uQ117117",
+		"item_date": "2016-11-02 00:00:00",
+		"title": "We Need A National Cybersecurity Strategy That Everyone Can Implement",
+		"url": "https://ctovision.com/need-national-cybersecurity-strategy-everyone-can-implement/",
+		"domain": "ctovision.com",
+		"image": ""
+	},
+	{
+		"curated_id": "zFOP6Y0rKQDXNsY123i7gWfsbWO6D0g116grDddvCzYaTUhtbtvFa116ysxxez8twU59v1W88SRs116F5123syS123xmcCc8Pw117117",
+		"item_date": "2016-11-02 00:00:00",
+		"title": "Free Cybersecurity MOOC from FSecure and the University of Finland",
+		"url": "https://www.schneier.com/blog/archives/2016/11/free_cybersecur.html",
+		"domain": "www.schneier.com",
+		"image": ""
+	},
+	{
+		"curated_id": "yKoWst3YtgOu9Wqi8Vg6p123cGRCGRlo6CMVovLyaUptpEbOBtvx0AvWl0eYF41161161230CnUmhMzGXY6luY2HT9cRKA117117",
+		"item_date": "2016-11-02 00:00:00",
+		"title": "Bedrock Automation Extends Cyber Security to Industrial Serial Communications with the Bedrock SIOS5 Serial IO Module",
+		"url": "http://www.remotemagazine.com/main/markets/security-channels/bedrock-automation-extends-cyber-security-to-industrial-serial-communications-with-the-bedrock-sios-5-serial-io-module/",
+		"domain": "www.remotemagazine.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ID2ZB116yK0e6jLbPoPOpd82xYO9BVoJywDYpBwYOlPCBXMVsF123cd1123Crq5g6glb7CS1R3oVjHswUVFs116SiteNwA117117",
+		"item_date": "2016-11-02 00:00:00",
+		"title": "COLUMNDoes the FBI think Russia hacked Weiners computer",
+		"url": "http://www.reuters.com/article/vanburen-weiner-idUSL1N1D31MG",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Xpu0fneLZc1ut123wYZiCeu3TaUnAGybvyeEDacr7XY0c2SqgoWD3ZkASWrqGuKiG4MRTs123omOx0AC04W16N5H116w117117",
+		"item_date": "2016-11-03 00:00:00",
+		"title": "Ukraine hackers claim huge Kremlin email breach",
+		"url": "http://www.bbc.co.uk/news/world-europe-37857658",
+		"domain": "www.bbc.co.uk",
+		"image": ""
+	},
+	{
+		"curated_id": "DykRvabRyBtxMP8vKernpinN116abLFjadXmUSf50SI7dbntXCSjhTYyiob1701KrEGm7irWz02cpbKmjmTKLqng117117",
+		"item_date": "2016-11-03 00:00:00",
+		"title": "Police in Quebec are spying on journalists and Snowden calls that a threat to democracy",
+		"url": "http://boingboing.net/2016/11/03/police-in-quebec-are-spying-on.html",
+		"domain": "boingboing.net",
+		"image": ""
+	},
+	{
+		"curated_id": "B3ub123JnUyI1Viu6zTuBagpFekmbcBGqWKZjJDcx3SpG1164Yn77123SsPJE1fjyly8SZW1oSviO011LECFDk1WQzkw117117",
+		"item_date": "2016-11-03 00:00:00",
+		"title": "Liberia hit with attack that downed Twitter earlier this month",
+		"url": "http://thehill.com/policy/cybersecurity/304162-liberia-hit-with-attack-that-downed-twitter-earlier-this-monthn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "tjFoxlOMIVYxpXLpUsI6KJhKiKB123Ns0Ww4350ZgBO3tYX123BEbpcl5yPjbUsLzCbslKVYvlVIKtG0BPDDX277bQ117117",
+		"item_date": "2016-11-03 00:00:00",
+		"title": "Cybersecurity Recommendations for the Next Administration Keep Cybersecurity Front and Center",
+		"url": "https://www.lawfareblog.com/cybersecurity-recommendations-next-administration-keep-cybersecurity-front-and-center",
+		"domain": "www.lawfareblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "UpUjY8CVqzgN9Y3uf8G23sUEEb91231165lHmba3UaxkOSkqAyShX4wB2RYJOUGkYsVhV116eYKkr3Z7tBwZgvgji5Ug117117",
+		"item_date": "2016-11-03 00:00:00",
+		"title": "It039s time to make Russia pay for its cyberattacks",
+		"url": "http://thehill.com/blogs/pundits-blog/international/304253-its-time-to-make-russia-pay-for-its-cyberattacksn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "EFRuNbFSWXa8kIc116v9Jr9EIPxW1116iFEkJYmaaD2Y9116sXY3dZ17ZZVta9nEQlQJyCb46EFet116Qoo123OwvDGgajIw117117",
+		"item_date": "2016-11-03 00:00:00",
+		"title": "Why Cybersecurity Is So Hard  Absurd Division",
+		"url": "https://www.lawfareblog.com/why-cybersecurity-so-hard%E2%80%94absurd-division",
+		"domain": "www.lawfareblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "bbCPedIy123he0qqo2aW1EZXSuFoqmLfPzNuBCkbt8gF3SnyOMcY116gw3JcadTU717XIQWd123DiM01F9r123XaAP0EqA117117",
+		"item_date": "2016-11-03 00:00:00",
+		"title": "NationBlanking DDoS Attacks Launched By Individuals Now Proven Able To Take Entire Nations Off The Net",
+		"url": "https://ctovision.com/nation-blanking-ddos-attacks-launched-individuals-now-proven-able-take-entire-nations-off-net/",
+		"domain": "ctovision.com",
+		"image": ""
+	},
+	{
+		"curated_id": "116XxyHtUXXe1Z0Zfyk123cf9EeDVBuUWmSrHb7QI123x7cSkRjwod3116iqhSmfaNL3t7887GK3jl116uynD87M8Oj116mCqg117117",
+		"item_date": "2016-11-03 00:00:00",
+		"title": "Photobucket Hacker Sent To Prison",
+		"url": "http://www.darkreading.com/attacks-breaches/photobucket-hacker-sent-to-prison/d/d-id/1327379",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "UmiYFnKy70r7DW9DKIBJzssmAYIcWTrIPObb116MTvl116bAaGoez1Zjn0mt123CoDsftPKP9JsV6D3mrnW12912317E123g117117",
+		"item_date": "2016-11-03 00:00:00",
+		"title": "American Industry Benefiting From Government Cybersecurity Executive Transitions",
+		"url": "https://ctovision.com/american-industry-benefiting-government-cybersecurity-executive-transitions/",
+		"domain": "ctovision.com",
+		"image": ""
+	},
+	{
+		"curated_id": "yYAzhMFJaIX3I3BChk0116hT43AZ1fF4QByvcO1bYbMddIukt1163Z2tahHbgVt7UBM123UuvX6Uv116Dsnsy1PBrb123Fbg117117",
+		"item_date": "2016-11-03 00:00:00",
+		"title": "Key Points in the New UK National Cyber Security Strategy",
+		"url": "https://duo.com/blog/key-points-in-the-new-uk-national-cyber-security-strategy",
+		"domain": "duo.com",
+		"image": ""
+	},
+	{
+		"curated_id": "EiC116GDb2otldT24aYtg5qdCaXjtWZSobZwq1ATnN1OsDCBoGYvzkuVulAb116tWiZvB7yssp3QZhbR5ctAcZ6YVg117117",
+		"item_date": "2016-11-04 00:00:00",
+		"title": "NeerDoWell News and Cyber Justice",
+		"url": "https://krebsonsecurity.com/2016/11/neer-do-well-news-and-cyber-justice/",
+		"domain": "krebsonsecurity.com",
+		"image": ""
+	},
+	{
+		"curated_id": "RxUckD116xX5RPkVwdTxttjigI6KaaB8RUYCIKDZEJXlWwRq1165dpZpFrxLWZUe8rv2dIj0yWYTlx123avwz43KnfAQ117117",
+		"item_date": "2016-11-04 00:00:00",
+		"title": "US boosting cyber defenses but not police presence for election",
+		"url": "http://www.reuters.com/article/usa-election-security-idUSL1N1D42CC",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
 		"curated_id": "qEIE5EN8cbL1Aomk9ZdZWzBXE123HN123n7k0m0EbNx7v6AuCe8CeKl8qAM13C0afFQKOFOw1Qy3HJ3AgCVDBqHoSQ117117",
 		"item_date": "2016-10-28 12:44:18",
 		"title": "DDoS attack that disrupted internet was largest of its kind in history experts say  Technology  The Guardian",
@@ -16,11 +336,67 @@
 		"image": ""
 	},
 	{
+		"curated_id": "zsBs4U86wa9iOZZ8lrc5TYSw4i7go3HxRz116aD4EPKjxEiPCDXDjlB9w0JHP86zZpzAyyJieGbzOHhbJNq0B4qw117117",
+		"item_date": "2016-11-01 17:29:33",
+		"title": "Microsoft handed the NSA access to encrypted messages",
+		"url": "https://www.theguardian.com/world/2013/jul/11/microsoft-nsa-collaboration-user-data",
+		"domain": "www.theguardian.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Ae116HzAIJPk123ud116uWS85iWY4zZY123PPzZRA9KwbCjWzTtBt75PmTEdFiFXaZXAUVgmnpjnEiTAoSIc116Cu7yoVvPw117117",
+		"item_date": "2016-11-02 06:16:46",
+		"title": "Tim BernersLee Warns Hackers Could Exploit Open Data To Wreak RealWorld Chaos",
+		"url": "http://www.techweekeurope.co.uk/security/tim-berners-lee-warns-hackers-could-exploit-open-data-to-wreak-real-world-chaos-199934",
+		"domain": "www.techweekeurope.co.uk",
+		"image": ""
+	},
+	{
+		"curated_id": "OHPVHGIc5qS0WJfbxPbtl0ySaSbMtzhRLFU5CZhJn116z2jzu6GMkdmEoIf4QXOQlX7Uav9IbGoQGcr39NqmGyeQ117117",
+		"item_date": "2016-11-02 06:22:13",
+		"title": "We Need A National Cybersecurity Strategy That Everyone Can Implement",
+		"url": "http://www.fedcyber.com/2016/11/02/we-need-a-national-cybersecurity-strategy-that-everyone-can-implement/",
+		"domain": "www.fedcyber.com",
+		"image": ""
+	},
+	{
 		"curated_id": "9ZQWt95eAQyrGS8GIdnr116JVKf9oiG4yheTdcla507yYwkzq4VjSBOekBj123L0TEriTPOGEmFQZhIzk123oXgzU123iA117117",
 		"item_date": "2016-10-28 12:44:18",
 		"title": "DDoS attack that disrupted internet was largest of its kind in history experts say  Technology  The Guardian",
 		"url": "https://www.theguardian.com/technology/2016/oct/26/ddos-attack-dyn-mirai-botnet",
 		"domain": "www.theguardian.com",
+		"image": ""
+	},
+	{
+		"curated_id": "116u7e1fObS123jhXySEBAdPf0HPDYXuBeSVTEPQ2QDbEfdDangH29Jo6JYMXB5YAb0gkjF7d9RslXQf7pKRT0Yd7Q117117",
+		"item_date": "2016-11-01 06:55:31",
+		"title": "National Cyber Security Strategy launched by UK chancellor",
+		"url": "http://www.infosecurity-magazine.com/news/national-cyber-strategy-defend",
+		"domain": "www.infosecurity-magazine.com",
+		"image": ""
+	},
+	{
+		"curated_id": "2PaQS6LmMeJGT54oLYoRxIcaQgcxFOeVyIPmoO0K51z63116cFDGtK6RaXJ8JR1DLQQajsPD3Tal84slgEIDkxhg117117",
+		"item_date": "2016-11-01 14:04:51",
+		"title": "Another Shadow Brokers Leak",
+		"url": "https://www.schneier.com/blog/archives/2016/11/another_shadow_.html",
+		"domain": "www.schneier.com",
+		"image": ""
+	},
+	{
+		"curated_id": "f116ZmnywVUGHB2123xlx8MbRVNHlSDDDZQTkkaaeCeTidkHlTUyzO7g123TiAib8UtPatO123i123OpaSiEuJrLr6r8Hvag117117",
+		"item_date": "2016-11-01 16:28:05",
+		"title": "Details emerging on Dyn DNS DDoS attack Mirai IoT botnet",
+		"url": "http://searchsecurity.techtarget.com/news/450401962/Details-emerging-on-Dyn-DNS-DDoS-attack-Mirai-IoT-botnet#sf40470382",
+		"domain": "searchsecurity.techtarget.com",
+		"image": ""
+	},
+	{
+		"curated_id": "123MXjI3g90CgZIj7YplwOrsWOI00UzriTBWPvkaDK9vbUaXD52sDs0NH6VzQL4rcDBfnY4APjb2BI9EIEJd62BQ117117",
+		"item_date": "2016-10-31 00:00:00",
+		"title": "Recent Botnet Attacks Highlight Importance of Automated Testing to Harden Defenses",
+		"url": "https://dzone.com/articles/recent-botnet-attacks-highlight-importance-of-auto",
+		"domain": "dzone.com",
 		"image": ""
 	},
 	{
@@ -34,9 +410,17 @@
 	{
 		"curated_id": "X6LPo31l116qmHBrkaonXUG123ESnEZCL9FMlTyxuS8buEDwr8rLsBwDcR5P9SWDrWmD7TFAm4xLz2mhUk2DuZp4yw117117",
 		"item_date": "2016-10-31 11:59:52",
-		"title": "Untitled httpwwwscmagazinecomfraudreportnamesmostsophisticatedcyberattacksgloballyin2016article569321",
-		"url": "http://www.scmagazine.com/fraud-report-names-most-sophisticated-cyber-attacks-globally-in-2016/article/569321/",
+		"title": "Fraud report names most sophisticated cyberattacks globally in 2016",
+		"url": "https://www.scmagazine.com/fraud-report-names-most-sophisticated-cyber-attacks-globally-in-2016/article/569613/",
 		"domain": "www.scmagazine.com",
+		"image": ""
+	},
+	{
+		"curated_id": "eufGjp2S1zvIvPxxqcKZ9Wzysm8TzhAjCSoB8NsNvVAA9uGCzyqByxKphvJMxCmsL7VJKXciLhLBwPxQtOs1Xw117117",
+		"item_date": "2016-10-31 00:00:00",
+		"title": "Cloud originated DDoS attacks",
+		"url": "http://resources.infosecinstitute.com/cloud-originated-ddos-attacks/",
+		"domain": "resources.infosecinstitute.com",
 		"image": ""
 	},
 	{
