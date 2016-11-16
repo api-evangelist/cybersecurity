@@ -11,7 +11,7 @@
 		"curated_id": "Z2H1165PVFRW6acnsUgukEZTPZC9xttZrqGFXs116uwyENan6aaTeJhL116Y0dgIC8oU9yw0NEv116Ax5X8C2bC1mM1HTw117117",
 		"item_date": "2016-11-08 00:00:00",
 		"title": "Public Consultation on the Proposed Approach to EU Cyber Security Directive",
-		"url": "http://bhconsulting.ie/securitywatch/?p=3031",
+		"url": "http://bhconsulting.ie/securitywatch/",
 		"domain": "bhconsulting.ie",
 		"image": ""
 	},
@@ -91,7 +91,7 @@
 		"curated_id": "iKwmNFf7jKFCRgUUmpygbOE77UjSDk7LdzpimndTqjfrwldrKdKYEvb1eHbOJidcpKXMTgbqoEhealEYRAYJnQ117117",
 		"item_date": "2016-11-10 21:49:14",
 		"title": "Britain flexes its cybermuscles",
-		"url": "http://www.economist.com/news/britain/21709603-online-attacks-foreign-powers-will-be-met-kind-vows-government-britain-flexes-its?fsrc=scn/tw/te/pe/ed/britainflexesitscybermuscles",
+		"url": "http://www.economist.com/news/britain/21709603-online-attacks-foreign-powers-will-be-met-kind-vows-government-britain-flexes-its",
 		"domain": "www.economist.com",
 		"image": ""
 	},
@@ -122,7 +122,7 @@
 	{
 		"curated_id": "nUOz116OargGmhERiesaM11QFTJw1AcDbdXgonEgbXS4MJGs2xWNYBpqU9276ad3fb0TXuq6ZXyLx1vsMd2116jKdw117117",
 		"item_date": "2016-11-09 00:00:00",
-		"title": "Britain to Make 19 Billion Cybersecurity Investment",
+		"title": "",
 		"url": "https://continuum.cisco.com/2016/11/09/britain-to-make-1-9-billion-cybersecurity-investment/",
 		"domain": "continuum.cisco.com",
 		"image": ""
@@ -1330,7 +1330,7 @@
 	{
 		"curated_id": "5I9xEw3sjqTnKSPe3UEOfqpEBZrG8m21lmurEcSGvjRA5MeQHUdMLAnXKoAErf0nyfcysoXCYYt2tmp3dcy4qw117117",
 		"item_date": "2016-10-18 00:00:00",
-		"title": "Northern Ireland public warned over online security after 13m stolen by cyber criminals",
+		"title": "",
 		"url": "http://www.itsecurityguru.org/2016/10/18/northern-ireland-public-warned-over-online-security-after-13m-stolen-by-cyber-criminals/",
 		"domain": "www.itsecurityguru.org",
 		"image": ""
@@ -1666,7 +1666,7 @@
 	{
 		"curated_id": "najoNQBjZjg0XYmc98ZyJZ20cnWYUIIFG9LGZs7zt7RDvIhnAJIMks2M5CYXZ2BcWOo4116bZ8aQEADWdYoKxPvw117117",
 		"item_date": "2016-10-13 00:00:00",
-		"title": "Verizon says Yahoo privacy breach had material impact",
+		"title": "",
 		"url": "https://techcrunch.com/2016/10/13/verizon-yahoo-privacy-impact-material/",
 		"domain": "techcrunch.com",
 		"image": ""
@@ -6042,7 +6042,7 @@
 	{
 		"curated_id": "TFcspM40g3cH5UrE6a59BG70Uez3m2OJOmicYLZyeBFoJ123PWVGjy4wEHesXvEH123AZVse1jzO3qbDzdp0sOAPeg117117",
 		"item_date": "2016-08-11 00:00:00",
-		"title": "No Pokmon for British Spies as Pokstops Vanish From MI5 and MI6 Buildings",
+		"title": "",
 		"url": "http://motherboard.vice.com/read/no-pokemon-for-british-spies-as-pokestops-vanish-from-mi5-and-mi6-buildings",
 		"domain": "motherboard.vice.com",
 		"image": ""
@@ -7642,7 +7642,7 @@
 	{
 		"curated_id": "pYPJ2dHRsSeYB5IKCTI8fMDiPgnPSrg3TcUy116e05hoONrRV2l1231YF6oZeDdg1162yxBSx7VnG8XoaBAL0v7VJXVQ117117",
 		"item_date": "2015-10-24 00:00:00",
-		"title": "TalkTalk Hackers Demanded 80K in Bitcoin",
+		"title": "",
 		"url": "http://krebsonsecurity.com/2015/10/talktalk-hackers-demanded-80k-in-bitcoin/",
 		"domain": "krebsonsecurity.com",
 		"image": ""
@@ -8070,53 +8070,5 @@
 		"url": "https://gigaom.com/2015/01/07/fbi-north-korea-got-sloppy-with-ip-addresses-in-sony-hack/",
 		"domain": "gigaom.com",
 		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/gigaom-com20150107fbi-north-korea-got-sloppy-with-ip-addresses-in-sony-hack.png"
-	},
-	{
-		"curated_id": "KFVb0cUXCGmyXHI22RtZo3yUUuiCGfBXKumOx2rRluBgXZfi8DEHfjugY3XGHLQucyVzcCtcCFr5kXPlkb91tA117117",
-		"item_date": "2014-06-04 10:47:28",
-		"title": "Transition to New Internet Protocol Raises Security Concerns  Briefings  GBC  GovExeccom",
-		"url": "http://www.govexec.com/gbc/transition-new-internet-protocol-raises-security-concerns/85789/",
-		"domain": "www.govexec.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-govexec-comgbctransition-new-internet-protocol-raises-security-concerns85789.png"
-	},
-	{
-		"curated_id": "TtBsELg2Ggx0N0NwJcK5KS4drf1HUCRKzjtunWkS979R77Ilv1236WmUQiGI8ARfNa4g1A3HU4lZ8116dIte4IvXxg117117",
-		"item_date": "2014-05-04 11:30:24",
-		"title": "Why PublicPrivate Partnerships are Essential for Critical Infrastructure Cybersecurity  Industry Insights  GBC  GovExeccom",
-		"url": "http://www.govexec.com/gbc/why-public-private-partnerships-are-essential-critical-infrastructure-cybersecurity/81760/",
-		"domain": "www.govexec.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-govexec-comgbcwhy-public-private-partnerships-are-essential-critical-infrastructure-cybersecurity81760.png"
-	},
-	{
-		"curated_id": "MAJK1235mDK7ewEVDhZiyPdOb4swxZ41IzvigFHxmNbno6IA72nRryYFzxgxAw52kUHb7fLWqYjJemsKrXoD8123mQ117117",
-		"item_date": "2014-05-04 11:30:24",
-		"title": "Twitter  GovBizCouncil PublicPrivate partnership ",
-		"url": "https://twitter.com/GovExecInsights/status/455743569546862592",
-		"domain": "twitter.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/twitter-comgovbizcouncilstatus455743569546862592photo1.png"
-	},
-	{
-		"curated_id": "UCfmCwhrSGrmPEMGogQKfhj00v116YAQsWgbUPgIN4H8vSx116cnvxup9ben116Bc116aZ07LQD116RbNaObMBeR6ZeyMI1A117117",
-		"item_date": "2013-08-06 14:49:35",
-		"title": "White House outlines possible incentives for cybersecurity framework  ZDNet",
-		"url": "http://www.zdnet.com/article/white-house-outlines-possible-incentives-for-cybersecurity-framework/",
-		"domain": "www.zdnet.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/www-zdnet-comwhite-house-outlines-possible-incentives-for-cybersecurity-framework-7000019066.png"
-	},
-	{
-		"curated_id": "HW5vvR0zEadWlilm1pfVq87Cn9WE7ohxy123IgHPgc4yxD4T31amcBLMs5ppL9C6xLJG3NsXmzWkFWtP4J123wCYRg117117",
-		"item_date": "2013-04-19 00:00:00",
-		"title": "Splunk Joins PublicPrivate Partnership to Improve Cybersecurity",
-		"url": "http://blogs.splunk.com/2013/04/19/splunk-joins-public-private-partnership-to-improve-cybersecurity/",
-		"domain": "blogs.splunk.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/7594_blogs_splunk_com.png"
-	},
-	{
-		"curated_id": "RTMcVp1g4J123dZchFfEV7DozTPwxTh1zHseW7mCeCZ0Qoh0yzkaC116pJXd2jitW4vliRVQLbYzLOsWpDk9aDb8Hg117117",
-		"item_date": "2013-04-17 00:00:00",
-		"title": "The Government Didnt Shut Down Cell Service in Boston But With SOP 303 It Could Have",
-		"url": "http://www.motherjones.com/politics/2013/04/boston-maraton-cell-phone-standard-operating-procedure-303",
-		"domain": "www.motherjones.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/7581_www_motherjones_com.png"
 	}
 ]
