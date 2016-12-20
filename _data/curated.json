@@ -1,5 +1,61 @@
 [
 	{
+		"curated_id": "VmIE9E9Yfd1238lo116XeJLsOG3PgruPOXYqJHttxSOJFtNh7c9Qqu8CeTZVkbqvY1gdaHKcnOkA5asneEWbFWzX6g117117",
+		"item_date": "2016-12-19 00:00:00",
+		"title": "Malware Exchange Busted by the Feds Relaunches At Least in Name",
+		"url": "http://motherboard.vice.com/read/darkode-brand-relaunches",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "p31A6msrGnG56rLgsJU4sRUQ6bURYOo2L76cW7XIPLq4URFa9Vf3wdw2jTnOyF0XNsedsd116ANysf116QEjchPdjg117117",
+		"item_date": "2016-12-19 00:00:00",
+		"title": "Russian Hackers Seized Control of Pentagon Email System",
+		"url": "http://www.itsecurityguru.org/2016/12/19/russian-hackers-seized-control-pentagon-email-system/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "G116qP4Gubh9kNeAwJkI8xL7Gx8AL2k4hvehuXu4nHVqr9bnTSmihuH0koXXVQOCssuJ3dn0rhA8fWSk1235rwm1QQ117117",
+		"item_date": "2016-12-19 00:00:00",
+		"title": "2017 Cyber Security Predictions",
+		"url": "http://resources.infosecinstitute.com/2017-cyber-security-predictions/",
+		"domain": "resources.infosecinstitute.com",
+		"image": ""
+	},
+	{
+		"curated_id": "uSOjfxd4G9rlLvKDHG4N6u7Ad7p6Ec6LvDY2Bjqe116bJUkGfo9IvimPjrJKibSYRCvc6shYmsOnBFfvnhMFUcUg117117",
+		"item_date": "2016-12-19 00:00:00",
+		"title": "The US Response to Russian PreElection Meddling An Overview",
+		"url": "https://www.lawfareblog.com/us-response-russian-pre-election-meddling-overview",
+		"domain": "www.lawfareblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "OW3IfOgk6CYzpyFUxv3h94AZ116GzrgzBbuX5SZg10ADdYRQX9nYV6A8Q8OMsrIxMekBIOA4va3yvBe9lB5B4pDw117117",
+		"item_date": "2016-12-19 00:00:00",
+		"title": "US Charges 3 Romanians With Cyber Fraud Involving 4 Million",
+		"url": "http://www.darkreading.com/us-charges-3-romanians-with-cyber-fraud-involving-$4-million/d/d-id/1327745?_mc=RSS_DR_EDT",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "jiaY2oVXkQFPPHsVEx0Fmg1X123ySdiTGRd0IHqvE7HBCAvTwNggla8k7Wbq5DUH9UGh123RBm8OuROhE123if123NTtmQ117117",
+		"item_date": "2016-12-19 00:00:00",
+		"title": "Kremlin says it is not in contact with Trump team",
+		"url": "http://thehill.com/homenews/310989-kremlin-says-it-is-not-communicating-with-trump-teamn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YnI9kmSRkPOYWpfUQPrhjDTAfra4vlEruBrxoyYcnQBPqUydBfFkXErrSTbYZRFBL1JnS4xFy6jT2DNQ1aJwZA117117",
+		"item_date": "2016-12-19 00:00:00",
+		"title": "Russian Official Blames Western Media for Turkish Ambassadors Assassination",
+		"url": "http://www.motherjones.com/politics/2016/12/top-russian-official-blames-western-media-killing-russian-ambassador",
+		"domain": "www.motherjones.com",
+		"image": ""
+	},
+	{
 		"curated_id": "zPu8AVbFZwrNoad6NDwcbvZNpNH32Gk920U4zBImUz8Q123g1IKUmKEfCNdV7VZR3EXU7YaKpSgJJhHF7OSLA123cQ117117",
 		"item_date": "2016-12-18 00:00:00",
 		"title": "Schumer joins McCain in call for independent probe of Russian hacking",
@@ -19,8 +75,8 @@
 		"curated_id": "QyhrcFyoZj73qFWv7w0MGoSQfiQEm2BnyUUSINQnjAlkiYxZj2xKbuvmwPcM9dx123I116u3dv0FYZ6bZZQDKjYIpQ117117",
 		"item_date": "2016-12-18 00:00:00",
 		"title": "Yahoo security problems a story of too little too late",
-		"url": "http://feeds.reuters.com/~r/reuters/technologyNews/~3/8LxVnyJspes/us-yahoo-cyber-insight-idUSKBN1470WT",
-		"domain": "feeds.reuters.com",
+		"url": "http://www.reuters.com/article/us-yahoo-cyber-insight-idUSKBN1470WT",
+		"domain": "www.reuters.com",
 		"image": ""
 	},
 	{
@@ -123,7 +179,7 @@
 		"curated_id": "gB123DWEEWh116DroW0nFzISe0LqLUDPMgTcINzgGVGgrL1AVXX8hgRXJ123W1rOHq2zDsTlBiEGCRUzAe116oVljKX3Ow117117",
 		"item_date": "2016-12-15 00:00:00",
 		"title": "American Hacker Arrested For 2014 JP Morgan Chase Breach",
-		"url": "http://www.darkreading.com/careers-and-people/american-hacker-arrested-for-2014-jp-morgan-chase-breach-/d/d-id/1327726?_mc=RSS_DR_EDT",
+		"url": "http://www.darkreading.com/careers-and-people/american-hacker-arrested-for-2014-jp-morgan-chase-breach-/d/d-id/1327726",
 		"domain": "www.darkreading.com",
 		"image": ""
 	},
