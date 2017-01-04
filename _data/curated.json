@@ -8,6 +8,14 @@
 		"image": ""
 	},
 	{
+		"curated_id": "xqqUyIqaqKkvBDJ5WFHR123RL36Bi7oqi6oaYsJw2q1236Gaonf3D8EaIv2pb2HjUkXB67idaxJeM1238wIjGg8c4Ing117117",
+		"item_date": "2017-01-02 00:00:00",
+		"title": "Trumps cybersecurity book from Bill OReilly",
+		"url": "http://boingboing.net/2017/01/02/trumps-cybersecurity-book-f.html",
+		"domain": "boingboing.net",
+		"image": ""
+	},
+	{
 		"curated_id": "9Vt6Yfmcfi1169nPjZ3E49123ENQrN8116aX123TNf123skXaQLL71161161bfHLAcCMBn8SON6HIP4gGj116A123lNlqDEAO1IERekg117117",
 		"item_date": "2017-01-02 00:00:00",
 		"title": "GOP rep suggests CIA NSA leaked info on Russian hacking",
@@ -16,11 +24,131 @@
 		"image": ""
 	},
 	{
+		"curated_id": "1123lylFZa123AhS814H116HsLsLzGvr123Z2Isnu9Ua8cgcwjCnEWUbtfi4e8cZc3PY9dwp4Xr1WBKoHDal0tdvOyYdxA117117",
+		"item_date": "2016-12-28 00:00:00",
+		"title": "Another Massive DDoS Closes Out 2016 But Mirai Not To Blame",
+		"url": "http://www.darkreading.com/attacks-breaches/another-massive-ddos-closes-out-2016-but-mirai-not-to-blame/d/d-id/1327802",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
 		"curated_id": "epDh022116W0EaTpJIZAEEgPXFel123ZliWwQ7Aq5mFMGLifW0YHmFK9TGIoDBm5FoW1lyTxP8IAAKyVktgSinQKqg117117",
 		"item_date": "2017-01-02 00:00:00",
 		"title": "10 Cybersecurity Lessons Learned In 2016",
 		"url": "http://www.crn.com/slide-shows/security/300083259/10-cybersecurity-lessons-learned-in-2016.htm",
 		"domain": "www.crn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "V6Aja7tT7Kdz123h86vQ1ezF27ER2LKr8raINH6IyQR2fUX9pBkMcDpoz1AJ7LYMDGSoK7VjuPcW2ORq1Hw0KbRw117117",
+		"item_date": "2016-12-30 00:00:00",
+		"title": "Policy statistics and questions Reflections on UK cyber security disclosuresdagger",
+		"url": "http://cybersecurity.oxfordjournals.org/cgi/content/short/2/1/43?rss=1",
+		"domain": "cybersecurity.oxfordjournals.org",
+		"image": ""
+	},
+	{
+		"curated_id": "PtctrvouU123xgLPoSbVhS17t8DdwQsTn7yNo2LwHv8jwelgk93vK0sDIbLtqaJN1iu123cIGXoOlfRbT62mB3drlw117117",
+		"item_date": "2016-12-31 00:00:00",
+		"title": "Leahy calls utility breach 039direct threat to Vermont039",
+		"url": "http://thehill.com/policy/cybersecurity/312293-vt-sen-we-do-not-take-grid-hack-lightlyn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "677Eaj4QQgNZb116EhiNHRywDKrylXdFHFTmtJ7WnT37Zz9kHh4rfyrtx41hdPSwCOE9123c5Pn56u8pL21LBaJf2g117117",
+		"item_date": "2016-12-31 00:00:00",
+		"title": "Grizzly Steppe Russian Malware Found on Vermont Utility System",
+		"url": "http://www.pcmag.com/news/350716/grizzly-steppe-russian-malware-found-on-vermont-utility-sy",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "0DKN3WRZtRq11AB12351zLZvXyF51tqlvA25xYAYQC4mMQVYe3e0xd13fQBAhWW5xICvzS0Ih0uqxrwn8A6opphg117117",
+		"item_date": "2016-12-31 00:00:00",
+		"title": "Luggage Tag Code Unlocks Your Flights Identity to Hackers",
+		"url": "http://www.pcmag.com/news/350685/luggage-tag-code-unlocks-flights-flyer-miles-your-identity",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "123oG3i8IhQF3k4y8Ytc116bQc7BHbu8POBvYTcFOKd6LDumPd5116123HwEk7Ej7eZfNwTduC55ssxKKcTZ116zqDAjSh8A117117",
+		"item_date": "2016-12-30 00:00:00",
+		"title": "Evidence of Russian malware found on US electrical company laptop",
+		"url": "http://www.theverge.com/2016/12/30/14132572/russia-hacking-electric-grid-grizzly-steppe-us-utilities-vermont",
+		"domain": "www.theverge.com",
+		"image": ""
+	},
+	{
+		"curated_id": "fDGJQtgwBx116ubJR0abPwlCMl7FUf8Bk1p6MTu123UcoreLbL0awKVxcI4ATxJHRiUD2pAMD29ET116iiMtMXCMn8Jg117117",
+		"item_date": "2016-12-29 00:00:00",
+		"title": "GRIZZLY STEPPE  Russian Malicious Cyber Activity",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2016/12/29/GRIZZLY-STEPPE-Russian-Malicious-Cyber-Activity",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "uNa6RZkfzZB0c0qrjVBoi4CG2UIpQnNdaD7PO9AKQ3KSfVHSo116t5bEPkC0p6dolDM123SElzNCuvBvUBokB1Cfzw117117",
+		"item_date": "2016-12-30 00:00:00",
+		"title": "Cyber Intelligence and Defense for the Public Sector Part 3 The Rise of Active Defense",
+		"url": "https://ctovision.com/cyber-intelligence-defense-public-sector-part-3-rise-active-defense/",
+		"domain": "ctovision.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Ug99YTfOePBdOSy4xNkrj7P9NX50lr7NanKw1T1232HFMP6ISIaNGYHu8rQPXAG0xW123nZuX8ERVYthu116iyQktlTg117117",
+		"item_date": "2016-12-30 00:00:00",
+		"title": "Russian minister proposes expelling 35 Americans in titfortat response",
+		"url": "http://thehill.com/policy/international/312172-russia-to-expel-35-americans-in-tit-for-tat-responsen",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "UJkUhG3kQtRQ7qS5EOTZrBuWvR123CkkKTlN116P3Gi5U3H116ILCnekDo9IUuf08iw76123ajlFfizXRh116tYaoxAXZ1Iw117117",
+		"item_date": "2016-12-29 00:00:00",
+		"title": "New Report Says Russian Hacking Came From Russia",
+		"url": "http://www.motherjones.com/kevin-drum/2016/12/new-report-says-russian-hacking-came-russia",
+		"domain": "www.motherjones.com",
+		"image": ""
+	},
+	{
+		"curated_id": "5dlwc811xZHczAfpUdEbww0uZUyF4bd2X7sRylA123zlexW6T9Fj3Uu0RCSPnLMOq01H3zH116V3h1233AZaRQRmDPaQ117117",
+		"item_date": "2016-12-29 00:00:00",
+		"title": "FBI analysis fingers Russian spy agencies for US election hacks",
+		"url": "http://www.reuters.com/article/usa-russia-cyber-fbi-idUSL1N1EO1D1",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "W5Qmu0abv9yft2CnT0MXJF95a1123cq99elW4wDb95TN1c9mM9zZ6cQv2AwF0Bg7qlFgdGI173A3kJhsjeLpa5pg117117",
+		"item_date": "2016-12-29 00:00:00",
+		"title": "Threat Actors Bring Ransomware To Industrial Sector With New Version of KillDisk",
+		"url": "http://www.darkreading.com/threat-intelligence/threat-actors-bring-ransomware-to-industrial-sector-with-new-version-of-killdisk/d/d-id/1327805",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "9wAtBRLlmPxrIb5TqUqOCOH1164GWsLPnl0pwc8bqystXnCqiDpa123Wkm22116tOTCpuh8vtf0mtReBiB1OCVstYAbQ117117",
+		"item_date": "2016-12-29 00:00:00",
+		"title": "Cyberattack On Ukraine Conflict Watchdog",
+		"url": "http://www.darkreading.com/attacks-breaches/cyberattack-on-ukraine-conflict-watchdog-/d/d-id/1327808",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "HbSZM1jzcwDoN4XhrzFBTxoNW6LX2sV3j7zmkJUr9TjpkOl5nr1238cDXlJEfK6JdhUdlO1167d2h3TU116KSJHL5GwA117117",
+		"item_date": "2016-12-29 00:00:00",
+		"title": "US accuses Chinese citizens of hacking law firms insider trading",
+		"url": "http://www.itsecurityguru.org/2016/12/29/u-s-accuses-chinese-citizens-hacking-law-firms-insider-trading/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "qdA2gAL3HekXUcPTen2cMr20MVoyXt0XejbQ123qpzJuGG6eL116IVH8K6CdsZWpcU3Mog1ses8dxOr05Bk24J4Urg117117",
+		"item_date": "2016-12-29 00:00:00",
+		"title": "NH Department of Health and Human Services Announces Data Breach",
+		"url": "http://www.itsecurityguru.org/2016/12/29/nh-department-health-human-services-announces-data-breach/",
+		"domain": "www.itsecurityguru.org",
 		"image": ""
 	},
 	{
