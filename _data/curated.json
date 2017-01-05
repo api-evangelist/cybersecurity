@@ -32,6 +32,14 @@
 		"image": ""
 	},
 	{
+		"curated_id": "pVU3px1oQSWbNnohFAgYK1mbFeagXBJzfq3hvs1tXxdVj3IHms2G8YlPyFNIfWc4nzzXyz6ZoWsmL621164QSuWA117117",
+		"item_date": "2016-12-28 00:00:00",
+		"title": "Kerry Russian interference had 039profound impact039 on election",
+		"url": "http://thehill.com/policy/cybersecurity/312010-kerry-russian-interference-had-profound-impact-on-electionn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
 		"curated_id": "epDh022116W0EaTpJIZAEEgPXFel123ZliWwQ7Aq5mFMGLifW0YHmFK9TGIoDBm5FoW1lyTxP8IAAKyVktgSinQKqg117117",
 		"item_date": "2017-01-02 00:00:00",
 		"title": "10 Cybersecurity Lessons Learned In 2016",
@@ -43,7 +51,7 @@
 		"curated_id": "V6Aja7tT7Kdz123h86vQ1ezF27ER2LKr8raINH6IyQR2fUX9pBkMcDpoz1AJ7LYMDGSoK7VjuPcW2ORq1Hw0KbRw117117",
 		"item_date": "2016-12-30 00:00:00",
 		"title": "Policy statistics and questions Reflections on UK cyber security disclosuresdagger",
-		"url": "http://cybersecurity.oxfordjournals.org/cgi/content/short/2/1/43?rss=1",
+		"url": "http://cybersecurity.oxfordjournals.org/content/2/1/43",
 		"domain": "cybersecurity.oxfordjournals.org",
 		"image": ""
 	},
@@ -117,6 +125,14 @@
 		"title": "FBI analysis fingers Russian spy agencies for US election hacks",
 		"url": "http://www.reuters.com/article/usa-russia-cyber-fbi-idUSL1N1EO1D1",
 		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "eDVseCR9xV5Noe3hbWryXKT8UQljK72NUBZ53Ltalk123vy232if50IX6uzjfF8ABlhkFViVk4udfysNAkb116116wXA117117",
+		"item_date": "2016-12-28 00:00:00",
+		"title": "Report Distributed Denial of Service Attacks Increased In 2016 Spurred By IoT Vulnerabilities",
+		"url": "http://www.crn.com/news/internet-of-things/300083248/distributed-denial-of-service-attacks-increased-in-2016-spurred-by-iot-vulnerabilities.htm",
+		"domain": "www.crn.com",
 		"image": ""
 	},
 	{
