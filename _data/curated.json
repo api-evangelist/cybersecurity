@@ -1,9 +1,25 @@
 [
 	{
+		"curated_id": "iLdNx5WEBAPzH45XS116P123ChaKNOKvT7YVdGygM056COyAMozjb49Yp7JmXsN9ULaMd9tgxmUk2KkAigk4PzOSaA117117",
+		"item_date": "2017-02-16 00:00:00",
+		"title": "Experts at RSA give their best cybersecurity advice",
+		"url": "http://www.pcworld.com/article/3171280/security/experts-at-rsa-give-their-best-cybersecurity-advice.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "fzz1Uf2QC6PxNnOO6K0gjP3HTxciYB3F7fbiEmSfK1EUDdoM0ZNbkfTvcC1KsV7ExP6dKvFc9AZ6TxlRZ123Fc6g117117",
+		"item_date": "2017-02-16 00:00:00",
+		"title": "Europes banking system needs active management of cybersecurity borders",
+		"url": "http://www.itsecurityguru.org/2017/02/16/europes-banking-system-needs-active-management-cyber-security-borders/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
 		"curated_id": "Wbkkb9wORTA8123PY6TEwj26116Jp123AIsHFVxYsxJ2fzn5rEc8oGZUzlmutpdSl116lF75VjIvcZOPqknyDr123o9Z0Nkg117117",
 		"item_date": "2017-02-14 00:00:00",
 		"title": "Anomali Talks Threat Intelligence  Info Sharing",
-		"url": "http://www.darkreading.com/anomali-talks-threat-intelligence-and-info-sharing/v/d-id/1328164?_mc=RSS_DR_EDT",
+		"url": "http://www.darkreading.com/anomali-talks-threat-intelligence-and-info-sharing/v/d-id/1328164",
 		"domain": "www.darkreading.com",
 		"image": ""
 	},
@@ -67,8 +83,8 @@
 		"curated_id": "a5lL0HM0cglB2718yu5ieGTWE8lerZ62zHLva0T71233C7E4gp90Fr123116ItXNzN7oRFMp4aZ1233pOCXzwmcVk9pdBQ117117",
 		"item_date": "2017-02-15 00:00:00",
 		"title": "Governments should protect civilians against state sponsored hacking",
-		"url": "http://feedproxy.google.com/~r/BillingViews/~3/K40uhEf37tg/",
-		"domain": "feedproxy.google.com",
+		"url": "https://disruptiveviews.com/governments-protect-civilians-state-sponsored-hacking/",
+		"domain": "disruptiveviews.com",
 		"image": ""
 	},
 	{
@@ -115,7 +131,7 @@
 		"curated_id": "a0vkWGKMD9B7mH1160u123FvV0ktZxs2feNcUu1sbw0zxHQC1cabO6gHPIkPL1MPhjDegplAkSORbbIy5mN7GM116RCg117117",
 		"item_date": "2017-02-11 00:00:00",
 		"title": "Restricted Spyware Used to Hack Advocates of Mexicos Soda Tax",
-		"url": "http://www.nytimes.com/2017/02/11/technology/hack-mexico-soda-tax-advocates.html?partner=rss&emc=rss",
+		"url": "https://www.nytimes.com/2017/02/11/technology/hack-mexico-soda-tax-advocates.html",
 		"domain": "www.nytimes.com",
 		"image": ""
 	},
