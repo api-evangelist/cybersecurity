@@ -1,10 +1,74 @@
 [
 	{
+		"curated_id": "Di6Ty3QO60XXc7EgNElHJ8mVXHJ8Eaqoe58pMZxR0j0W66ZOMo9TSdnoBfYM9EGXJGmlba61wys9PozHzLpzgQ117117",
+		"item_date": "2017-04-15 00:00:00",
+		"title": "Microsoft says exploits leaked by Shadow Brokers were addressed by prior patches",
+		"url": "https://techcrunch.com/2017/04/15/microsoft-says-exploits-leaked-by-shadow-brokers-were-addressed-by-prior-patches/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "KUub9e4A84HRhdayKWsbxw58L9XOqbbbNmPdbu8Dr6cXVYsZvqkxxt116Q98LhWNDJ5H77zuB4crGMeM2QVeaF4Q117117",
+		"item_date": "2017-04-14 15:51:01",
+		"title": "Tweet CIA and NSA first sought to exploit commercial databases in mid80s httpstcoTbeBZZfv7Y by NatSecGeek httpstcodRb26l1Sbu",
+		"url": "https://twitter.com/MuckRock/statuses/853017778927919110",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "52vsI5fMK31231116123kkazS1169Yi1vbERSm0N77pTDm7L5CZhdG116nM7cJ6HYpSTTirZ1su2UFps4o8b2VlhIAOl0jNw117117",
+		"item_date": "2017-04-14 00:00:00",
+		"title": "NSA may have hacked banking transactions network",
+		"url": "http://thehill.com/policy/cybersecurity/328837-nsa-may-have-hacked-banking-protocoln",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "hrnGosYAO8Teaybl1163XIf5uJJ5A116tqOepz2DwmvA8YiLcxK680H7Vk7dnAz5ePz123vnLO1i5dlYm5WGM5gjIJfw117117",
+		"item_date": "2017-04-14 00:00:00",
+		"title": "Leak suggests NSA was interested in hacking Middle Eastern banks",
+		"url": "http://thehill.com/policy/cybersecurity/328911-expert-financial-network-hack-gave-nsa-access-to-banksn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "dW8r6123ecBHeyZq7CfFY2kC9ZbdXsVWLmAmEAtXj4SiK123DU8QM123yrX83rDLiotTjuSiotBQQQdBwwsrDzNXRVGA117117",
+		"item_date": "2017-04-14 00:00:00",
+		"title": "Battle intensifies between Trumps CIA WikiLeaks",
+		"url": "http://thehill.com/policy/cybersecurity/328918-battle-intensifies-between-trumps-cia-wikileaksn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "6PougyeJom4ku123Ihut3LV6WFwFA123123EnMI2ZUsmrt93B9xOte12388MONu2Cdmi0D0z0rRKe123eDBXgSBbYo66XkGQ117117",
+		"item_date": "2017-04-14 00:00:00",
+		"title": "DHS head North Korea more of a cyber threat",
+		"url": "http://thehill.com/policy/cybersecurity/328945-dhs-head-north-korea-certainly-a-cyber-threatn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "WXTY116k0MZAsYkeeno8w5Ofn1123QbbVfsyjYZSOg60c7LXwPrAmJGi7hq9gewpLCfqC7Vc123qm32p3WUHHMNXk9qQ117117",
+		"item_date": "2017-04-15 00:00:00",
+		"title": "Microsoft has already patched the NSAs leaked Windows hacks",
+		"url": "http://www.theverge.com/2017/4/15/15311846/microsoft-windows-shadow-brokers-nsa-hacks-patched",
+		"domain": "www.theverge.com",
+		"image": ""
+	},
+	{
+		"curated_id": "kQaLZvjPUZp6QoCFx116G5PeN1wy2LFzCBbEJytvWyFb19RziPcijiab4eWkJ9zM6s1MMZCuiiW0Vi31167in2XavQ117117",
+		"item_date": "2017-04-15 00:00:00",
+		"title": "We Can Calm Down Microsoft Already Patched Most of the Shadow Brokers Exploits",
+		"url": "https://motherboard.vice.com/en_us/article/we-can-calm-down-microsoft-already-patched-most-of-the-shadow-brokers-exploits",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
 		"curated_id": "Y14zSbNhLL116KX2RLD1w9Ix5vmszucykVt9ejOoh5UBHMzlwiy3116pr9L4Wg8K3dQ9ddgIs1oCevYXs641235wvS4g117117",
 		"item_date": "2017-04-13 00:00:00",
 		"title": "The CIA is really really mad at WikiLeaks",
-		"url": "http://feedproxy.google.com/~r/Techcrunch/~3/jrgnwOTkPms/",
-		"domain": "feedproxy.google.com",
+		"url": "https://techcrunch.com/2017/04/13/pompeo-wikileaks-csis-hostile-intelligence-service/",
+		"domain": "techcrunch.com",
 		"image": ""
 	},
 	{
@@ -59,8 +123,8 @@
 		"curated_id": "OB6jQpt116xnAZBoKOdQI3GZfNtKIa116uMFv12347OBBJoAtlDBBPcxXVnH7HqQMJzT0roQon3zBK3MGMf116z6Wf46yg117117",
 		"item_date": "2017-04-14 00:00:00",
 		"title": "The Shadow Brokers are back with exploits for Windows and global banking systems",
-		"url": "http://feedproxy.google.com/~r/Techcrunch/~3/HVqYNP1SkLE/",
-		"domain": "feedproxy.google.com",
+		"url": "https://techcrunch.com/2017/04/14/the-shadow-brokers-april-exploits-swift-windows/",
+		"domain": "techcrunch.com",
 		"image": ""
 	},
 	{
@@ -195,7 +259,7 @@
 		"curated_id": "HiaRaTSn0iBRFBczLm14rjFno6EUehxMRjbB1M0gBkZ1byCKcTbtV116116kQPHyM39Yj2D9nvDqt0AleobQ5123bJoA117117",
 		"item_date": "2017-04-11 00:00:00",
 		"title": "Computer Engineer Charged with Theft of Proprietary Computer Code",
-		"url": "http://www.darkreading.com/attacks-breaches/computer-engineer-charged-with-theft-of-proprietary-computer-code-/d/d-id/1328602?_mc=RSS_DR_EDT",
+		"url": "http://www.darkreading.com/attacks-breaches/computer-engineer-charged-with-theft-of-proprietary-computer-code-/d/d-id/1328602",
 		"domain": "www.darkreading.com",
 		"image": ""
 	},
@@ -203,7 +267,7 @@
 		"curated_id": "7kohTHENcfh2pakWzyI59ULyqLmU116ncaVbqgv3d33DYFRgHMjKI123SzJj8LdtHaffGEIsVJYe4oxAn9TpMHJBiw117117",
 		"item_date": "2017-04-11 00:00:00",
 		"title": "When Hacks Are about Image instead of Money",
-		"url": "http://www.darkreading.com/endpoint/when-hacks-are-about-image-instead-of-money/a/d-id/1328599?_mc=RSS_DR_EDT",
+		"url": "http://www.darkreading.com/endpoint/when-hacks-are-about-image-instead-of-money/a/d-id/1328599",
 		"domain": "www.darkreading.com",
 		"image": ""
 	},
