@@ -1,5 +1,85 @@
 [
 	{
+		"curated_id": "123GQYySTu1165JlJYTahQJnlhRnvA8Ei706QsdR3simVO1kt0NTdjhEJrDaF123rRbKeRpKIcOGFQzKZ6uknlByHC2Q117117",
+		"item_date": "2017-04-22 11:27:01",
+		"title": "Cyber threats are growing more serious and artificial intelligence could be the key to security",
+		"url": "http://www.cnbc.com/2017/04/17/darktrace-on-why-artificial-intelligence-is-key-in-cybersecurity.html",
+		"domain": "www.cnbc.com",
+		"image": ""
+	},
+	{
+		"curated_id": "wrLTc116fYZSTrOCrUHFq5123123K52cpctVppJlEfubQR4OyH5AqxCQDk07a0ExlqKvPbRZSyhr923RXEU6gExPUO0g117117",
+		"item_date": "2017-04-22 00:00:00",
+		"title": "Five questions for the House039s new Russia investigator",
+		"url": "http://thehill.com/policy/national-security/329448-five-questions-for-the-houses-new-russia-investigatorn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "iAnih9CBefU123pYAVTr5NxisX5igykaBouyvqVHh26YteE0sydCTRSWn123hCc9116Lr13116LUBSrbyWQ3TDb3116ZgpgA117117",
+		"item_date": "2017-04-22 00:00:00",
+		"title": "NYT Russian hack didn039t immediately raise alarms with FBI",
+		"url": "http://thehill.com/homenews/news/330046-nyt-russian-hack-didnt-immediately-raise-alarms-with-fbin",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "oOgBquqEnIQIf9FGx3qWmITK0GayVdgQSS1pM3iJ7htQ7LbOizGe4ttSdgazhV116tVIAEUyjBRYB1TF8j11670i1w117117",
+		"item_date": "2017-04-21 00:00:00",
+		"title": "Cybersecurity is an incurable disease its time we thought of it that way",
+		"url": "https://gigaom.com/2017/04/21/cybersecurity-is-an-incurable-disease-its-time-we-though-of-it-that-way/",
+		"domain": "gigaom.com",
+		"image": ""
+	},
+	{
+		"curated_id": "sxC0CqWgAYFwdjIOD116d8oVw123T6MZInFOQOhaNpbfJecTcSw84SjOqda116r4eU8UuFrbtzLogwxICHIa8JkD7pEQ117117",
+		"item_date": "2017-04-21 00:00:00",
+		"title": "Study Reveals Our Vulnerabilities to Repeat Cyberattacks",
+		"url": "https://dzone.com/articles/study-reveals-our-vulnerabilities-to-repeat-cybera",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "L8123xoL4gn44GzKHqXHkgNNA7z1af5EqhF116r8w3FfNqPi5L123c5DR64yQ0FQDz0RHCvKN2csqLaZEOss7Gy1pAAw117117",
+		"item_date": "2017-04-21 00:00:00",
+		"title": "Russian Hacker Sentenced to 27 Years in Credit Card Case",
+		"url": "https://www.nytimes.com/2017/04/21/technology/russian-hacker-sentenced.html",
+		"domain": "www.nytimes.com",
+		"image": ""
+	},
+	{
+		"curated_id": "yYWx0ZNs2pkuoBJ00C123116XAWH71EFR0VCxh123WzIhAEEK4116YGzIfv123x5HBb1GbyAjayvbdAuOHHUYhHrb123f2ruNw117117",
+		"item_date": "2017-04-22 00:00:00",
+		"title": "Report Young Adults Drawn to Life of Cyber Crime",
+		"url": "http://www.pcmag.com/news/353238/report-young-adults-drawn-to-life-of-cyber-crime",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "NRgCJtH5hJL0JcVKGkO3ZL5StXB4j8xmFSzepLbGnMp1123vgbA9A0C116x2dYGvACQyuZEgAI4TRpKLOEbnhA116qRA117117",
+		"item_date": "2017-04-21 00:00:00",
+		"title": "Free Hacking Tools Help Young into Cybercrime",
+		"url": "http://www.itsecurityguru.org/2017/04/21/free-hacking-tools-help-young-cyber-crime/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "TROhoH0QC2sVPNhvg557tU8iKWJR3hRpevriifc116cgZWLqrUrhWMtetbMQF1D6XrDzjnsIIdOLWsvehltZaplg117117",
+		"item_date": "2017-04-21 00:00:00",
+		"title": "Donald Trump Misses his Own Cyber Security Plan Deadline After Promising to Deliver in 90 days",
+		"url": "http://www.itsecurityguru.org/2017/04/21/donald-trump-misses-cyber-security-plan-deadline-promising-deliver-90-days/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "BWE116yY123MOiuA19qg3SnFaee39grjtuW7GKNMjIbUAGt116kV65Z1165lxALE4RMV7Nh2bI30k8e2gO8GTvWndA13Gw117117",
+		"item_date": "2017-04-21 00:00:00",
+		"title": "Script Kiddies Pwn 1000s of Windows Boxes Using Leaked NSA Hack Tools",
+		"url": "http://www.itsecurityguru.org/2017/04/21/script-kiddies-pwn-1000s-windows-boxes-using-leaked-nsa-hack-tools/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
 		"curated_id": "PwrisbcsasWk6D7lMIQQfrLilm9DmbVh123T123Pfjyxpk2R2QwpvVZFvM8TPVgUemoCFFJyHvLDGRk8fRMQNCg41A117117",
 		"item_date": "2017-04-14 06:28:01",
 		"title": "Business lobby pushes back on NIST Framework measurement plans  CyberScoop",
