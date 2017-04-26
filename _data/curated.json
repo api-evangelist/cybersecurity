@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "5TplopFyZ0X7azoBdIvnSw3pFHkWLkghdNIyPXzZzswQ3EniBo5ZnFeZOHNvd0dZ116a14ydOr6ZJoHiXo4THsRw117117",
+		"item_date": "2017-04-23 00:00:00",
+		"title": "Why the Wikileaks CIA dump was the most damaging one yet",
+		"url": "https://techcrunch.com/2017/04/23/why-the-wikileaks-cia-dump-was-the-most-damaging-one-yet/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
 		"curated_id": "123GQYySTu1165JlJYTahQJnlhRnvA8Ei706QsdR3simVO1kt0NTdjhEJrDaF123rRbKeRpKIcOGFQzKZ6uknlByHC2Q117117",
 		"item_date": "2017-04-22 11:27:01",
 		"title": "Cyber threats are growing more serious and artificial intelligence could be the key to security",
@@ -20,6 +28,38 @@
 		"item_date": "2017-04-22 00:00:00",
 		"title": "NYT Russian hack didn039t immediately raise alarms with FBI",
 		"url": "http://thehill.com/homenews/news/330046-nyt-russian-hack-didnt-immediately-raise-alarms-with-fbin",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "lcS1235W3LSjEHb7hMqqjycy5JspK7CRib0Ic0b7L32teQwJnR2VE6h7VVjeOZ4M4SQbYUFFCWPVBVZ123pZfwlP116Q117117",
+		"item_date": "2017-04-20 00:00:00",
+		"title": "Air Mozilla American Spies Modern Surveillance and What We Can Do Speaker Jennifer Granick",
+		"url": "http://cyberlaw.stanford.edu/events/air-mozilla-american-spies-modern-surveillance-and-what-we-can-do-speaker-jennifer-granick",
+		"domain": "cyberlaw.stanford.edu",
+		"image": ""
+	},
+	{
+		"curated_id": "Jy9g2NSSFTKM3KRZXaQPhivbYxJtkdWdKc8TSKa44e8SHRuiFRGnH1hRV9MF5Pmszqx2yJgMiLxrn6KtM00Uog117117",
+		"item_date": "2017-04-20 00:00:00",
+		"title": "Over OneThird of CyberAttacks Against FIs Are Successful",
+		"url": "http://bankinnovation.net/2017/04/over-one-third-of-cyberattacks-against-fis-are-successful/",
+		"domain": "bankinnovation.net",
+		"image": ""
+	},
+	{
+		"curated_id": "w6rOoL80JA116iv5fSKwCSyZHYZbmjqm2Y9kfQlaBUk57kmrhXRLMQ5SPkS9yI123RO5C98CamV7UeCbkt8HBh27qQ117117",
+		"item_date": "2017-04-20 00:00:00",
+		"title": "Wyden pushing to mandate 039basic cybersecurity039 for Senate",
+		"url": "http://thehill.com/policy/cybersecurity/329695-wyden-pushing-to-mandate-basic-cybersecurity-for-senaten",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "HfQW3h123nqifjtlO116VVgaOPLPHwsewGMGSNX1dhOWNZTQ24QMvju06uDqYM2GQv9zsLswi35xEFewZDMrzZxHug117117",
+		"item_date": "2017-04-20 00:00:00",
+		"title": "Trump may miss deadline on Russia report",
+		"url": "http://thehill.com/policy/cybersecurity/329739-deeply-distressing-pres-may-miss-deadline-on-own-russia-reportn",
 		"domain": "thehill.com",
 		"image": ""
 	},
@@ -48,11 +88,27 @@
 		"image": ""
 	},
 	{
+		"curated_id": "PHjG123yXmRCcPj83ZG514H123Pyu8ZLTNiJ63VXfd9WkIGHOHKooxKCDLS2wD0M5FdLZEL2njwsihB89Wm88eJAGQ117117",
+		"item_date": "2017-04-21 00:00:00",
+		"title": "WikiLeaks docs detail UK role in developing CIA039s TV hacking malware",
+		"url": "http://thehill.com/policy/cybersecurity/329869-wikileaks-docs-detail-uk-program-used-to-develop%7F-cias-samsung-tv-hacksn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
 		"curated_id": "yYWx0ZNs2pkuoBJ00C123116XAWH71EFR0VCxh123WzIhAEEK4116YGzIfv123x5HBb1GbyAjayvbdAuOHHUYhHrb123f2ruNw117117",
 		"item_date": "2017-04-22 00:00:00",
 		"title": "Report Young Adults Drawn to Life of Cyber Crime",
 		"url": "http://www.pcmag.com/news/353238/report-young-adults-drawn-to-life-of-cyber-crime",
 		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "e88bzXfkfSVx5iztmFeAO1168S2N85kxMotICHM116qg6Rc594rfgNnX539pS5KPapHY02w9mal4HVnY1SjK0Bm33Q117117",
+		"item_date": "2017-04-20 00:00:00",
+		"title": "The DEA Is Buying Cyberweapons from Hacking Team",
+		"url": "https://www.schneier.com/blog/archives/2017/04/the_dea_is_buyi.html",
+		"domain": "www.schneier.com",
 		"image": ""
 	},
 	{
@@ -76,6 +132,62 @@
 		"item_date": "2017-04-21 00:00:00",
 		"title": "Script Kiddies Pwn 1000s of Windows Boxes Using Leaked NSA Hack Tools",
 		"url": "http://www.itsecurityguru.org/2017/04/21/script-kiddies-pwn-1000s-windows-boxes-using-leaked-nsa-hack-tools/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "J08ZY1qSPpg6ehB27xrOxLlrGUlRH5A73sychy3ues912xPSIlHajIlqXZMkfuvX3Qe52Z123LBducdkdS3G123XRg117117",
+		"item_date": "2017-04-20 00:00:00",
+		"title": "Share of Democrats calling Russia greatest danger to US is at its highest since end of Cold War",
+		"url": "http://www.pewresearch.org/fact-tank/2017/04/20/share-of-democrats-calling-russia-greatest-danger-to-u-s-at-its-highest-since-end-of-cold-war/",
+		"domain": "www.pewresearch.org",
+		"image": ""
+	},
+	{
+		"curated_id": "CHhMFCxp123FbrusjFd116C123SRwrmbgZIzZ04qkLAKwZfOQdKWcV0Hf67soAcY557DNsZ1a5VTMalu116dcYCItzHF123w117117",
+		"item_date": "2017-04-20 00:00:00",
+		"title": "Skype is the number one communication choice among cybercriminals",
+		"url": "https://thenextweb.com/apps/2017/04/20/skype-cybercriminal-economy/",
+		"domain": "thenextweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "123PuePtDwEh5t116lmzOwKByhkhYiR7kbjJ99eNXo0uvBwdkzXaHEEezE8kWX7bc0YQp8s3U116T116Vl6rqhizH1pb6w117117",
+		"item_date": "2017-04-20 00:00:00",
+		"title": "Hackers use old Stuxnetrelated bug to carry out attacks",
+		"url": "http://www.pcworld.com/article/3191433/security/hackers-use-old-stuxnet-related-bug-to-carry-out-attacks.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "S2123chqiPrjVXAztJlDWZiQplssKaCe7gJgBNdSEAmwXtjXAKBOW5123123J5q5DdHi0j123gQzxRIwn319ILCu872TZQ117117",
+		"item_date": "2017-04-20 00:00:00",
+		"title": "The Justice Department is reconsidering charges against Julian Assange and Wikileaks",
+		"url": "http://www.theverge.com/2017/4/20/15377996/julian-assange-wikileaks-us-federal-charges",
+		"domain": "www.theverge.com",
+		"image": ""
+	},
+	{
+		"curated_id": "HjU5keA1HWXi44HHFg0ov2R29RvPpS123x1166ha5LRtX8123bdLBwuwMnAIUYS4muYV70hzo3ICfdEw3ky6V0i9qgSA117117",
+		"item_date": "2017-04-20 12:37:38",
+		"title": "British army creates team of Facebook warriors",
+		"url": "https://www.theguardian.com/uk-news/2015/jan/31/british-army-facebook-warriors-77th-brigade",
+		"domain": "www.theguardian.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YW4xK0q123l116Pj15PkfAh6c2BABLAy116bHkZ6ERPy6e8PceBsuCen3TxHUwM9OP1123mLznXgo0As4K3MiJmv8hpcfQ117117",
+		"item_date": "2017-04-20 00:00:00",
+		"title": "Half of UK businesses hit by Cyber Attack",
+		"url": "http://www.itsecurityguru.org/2017/04/20/half-uk-businesses-hit-cyber-attack/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "JMoVA1233tJZs1mF6ob8KlghEa8OAL1DZrRfYse8Uyu4KabIXAMLS66TpU7vjqnQLCo4fc4lOisn8CMfiuJ8lrzw117117",
+		"item_date": "2017-04-20 00:00:00",
+		"title": "30000 London Gun Owners Hit by Met Police Data Breach",
+		"url": "http://www.itsecurityguru.org/2017/04/20/30000-london-gun-owners-hit-met-police-data-breach/",
 		"domain": "www.itsecurityguru.org",
 		"image": ""
 	},
