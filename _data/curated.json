@@ -8,6 +8,86 @@
 		"image": ""
 	},
 	{
+		"curated_id": "3sNtlxmD123avOAO46X6RVfvqXHZFDqY123HATe8UIs4123NNqzkllOB7v123UuRUWwsTbU08ybpa9ZcaFSNFQj8fTqY0g117117",
+		"item_date": "2017-04-17 00:00:00",
+		"title": "The New Shadow Brokers Leak Connects the NSA to the Stuxnet Cyber Weapon Used on Iran",
+		"url": "https://motherboard.vice.com/en_us/article/shadow-brokers-nsa-stuxnet-iran",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "5hdsWvdXNgsMKCAxP18AwPWqiEXlgYXMD2EeCenuYvOzaxEXp123GhtXfly0RQCXll116J0jOC511637VgkWP13Utoaw117117",
+		"item_date": "2017-04-17 00:00:00",
+		"title": "Exorcists Tried to Purge the NSA of Its Demons in Manhattan This Weekend",
+		"url": "https://motherboard.vice.com/en_us/article/nsa-building-nyc-exorcists",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "eyh3RymRbbYxpt5Ofq123DWPMNbizipBLQFLN9yxJSo4OJmbp6fHN2dOCA116tNAGbm88tJ3jgvkI123rMNc1WB4XTHw117117",
+		"item_date": "2017-04-17 00:00:00",
+		"title": "Researchers Warn of Phishing Sites using Unicode and Homograph URLs",
+		"url": "https://continuum.cisco.com/2017/04/17/researchers-warn-of-phishing-sites-using-unicode-and-homograph-urls/",
+		"domain": "continuum.cisco.com",
+		"image": ""
+	},
+	{
+		"curated_id": "6fLbrVMPCpjDrXIeOr4c7Gjt38wJPCh9eiGQv66t4X8D4LhB5cV4T6ZA2HXhKyJbftKYcdfdZAcLjhXhmrRTaw117117",
+		"item_date": "2017-04-17 00:00:00",
+		"title": "Surveillance and our Insecure Infrastructure",
+		"url": "https://www.schneier.com/blog/archives/2017/04/surveillance_an_2.html",
+		"domain": "www.schneier.com",
+		"image": ""
+	},
+	{
+		"curated_id": "8ZBcettnsvS30nPDDBepdlh1avRqCXsSXyEEP50LvxoORa116X8oxSsHyh4116TiMUjA5woynKiHADamD5pVeN4a7Q117117",
+		"item_date": "2017-04-18 00:00:00",
+		"title": "Five reasons to worry about the ShadowBrokers hack",
+		"url": "http://thehill.com/policy/cybersecurity/329187-five-reasons-to-worry-about-the-shadowbrokers-hackn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "naYoyWpoku827AdDddM744X8knqAUKExNpRWQkiYM116tQ3m4pt9X1234dqjn2OcUC116Fu123rE123i6NhW0adm93fFnrYQ117117",
+		"item_date": "2017-04-18 00:00:00",
+		"title": "At 175 this ransomware service is a boon to cybercriminals",
+		"url": "http://www.pcworld.com/article/3190852/security/at-175-this-ransomware-service-is-a-boon-to-cybercriminals.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Hkot12ZXJihpW3WLa116xTsbRF0LCZoZXO3v0nQKgB123hJpIAUegLUIHKDqL2I9Fb1Pvvx81230ChtXvHygh116MgT7iQ117117",
+		"item_date": "2017-04-18 00:00:00",
+		"title": "CISOs Board Members Have Widely Divergent Views on Cybersecurity",
+		"url": "http://www.darkreading.com/operations/cisos-board-members-have-widely-divergent-views-on-cybersecurity/d/d-id/1328674",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YmN65lq5Qg6AGr8vOX7DeOG4d9RXCrJOKB5xk9D0Md9mFVeHTwzpK99C4mY6NDwyCcviWzLE1n3Wro2YuWEGyg117117",
+		"item_date": "2017-04-18 00:00:00",
+		"title": "Cybercrime Tactics  Techniques Q1 2017",
+		"url": "http://www.darkreading.com/partner-perspectives/malwarebytes/cybercrime-tactics-and-techniques-q1-2017----/a/d-id/1328664",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "tcBr123apIQkPrkwF8116dpdhhd116x0vUVY6k6F9WvC123JPZhso123mIkAfNxHDFbxjvUfvBMIQ0okExsI11NtX5gV9yGQ117117",
+		"item_date": "2017-04-18 00:00:00",
+		"title": "Intrusion Suppression Transforming Castles into Prisons",
+		"url": "http://www.darkreading.com/endpoint/intrusion-suppression-transforming-castles-into-prisons/a/d-id/1328665",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "y123gpOkEtsrbx34O6HvhA4RlDnd6QoSdjOQVL8b25Eqh0TCcGVasr9TC8qkPU7RHInkC4B3Fw123nxe6TUcIMb2GQ117117",
+		"item_date": "2017-04-18 00:00:00",
+		"title": "Corsa Strives to Combat Growing Volumetric DDoS Attacks",
+		"url": "https://gigaom.com/2017/04/18/corsa/",
+		"domain": "gigaom.com",
+		"image": ""
+	},
+	{
 		"curated_id": "fOm123NWC123K4WjME6wFGS123ELggfgNBh2sYti2SqkLyJlz00iM5WH7SjAnbmgEh4QqmOhNfxot714dzC8DNaz116iMA117117",
 		"item_date": "2017-04-19 00:00:00",
 		"title": "ISC2 Issues White House Cybersecurity Executive Order Recommendations",
@@ -16,11 +96,27 @@
 		"image": ""
 	},
 	{
+		"curated_id": "7atDq4pIfpkTKraXfgsC1dPFlR8gi4fqsphv8bNu3p9iguSMyxdrRMF4I123tU2S123wXOfpWNG4ZlkhlrQjapp24w117117",
+		"item_date": "2017-04-19 00:00:00",
+		"title": "The Cyber Threats Facing Cinemas",
+		"url": "https://celluloidjunkie.com/2017/04/20/the-cyber-threats-facing-cinemas/",
+		"domain": "celluloidjunkie.com",
+		"image": ""
+	},
+	{
 		"curated_id": "123GQYySTu1165JlJYTahQJnlhRnvA8Ei706QsdR3simVO1kt0NTdjhEJrDaF123rRbKeRpKIcOGFQzKZ6uknlByHC2Q117117",
 		"item_date": "2017-04-22 11:27:01",
 		"title": "Cyber threats are growing more serious and artificial intelligence could be the key to security",
 		"url": "http://www.cnbc.com/2017/04/17/darktrace-on-why-artificial-intelligence-is-key-in-cybersecurity.html",
 		"domain": "www.cnbc.com",
+		"image": ""
+	},
+	{
+		"curated_id": "8qlniGGt7uCKkiaoFYjoHSIEqc116zEUd4FSiLp123ihAiXrXH10MpsXsv2bMdMqOHILkOzDrywl35hcKAmGWbdVgw117117",
+		"item_date": "2017-04-19 00:00:00",
+		"title": "What is Threat Hunting",
+		"url": "https://www.carbonblack.com/2017/04/19/what-is-threat-hunting/",
+		"domain": "www.carbonblack.com",
 		"image": ""
 	},
 	{
@@ -208,11 +304,43 @@
 		"image": ""
 	},
 	{
+		"curated_id": "WJ7awjC6LusaiWMWAIH9VGVB116JvS116BC2PNHlK123ZnMlSPMdSD3HfiTih0jD5fWfBZQttFsHy1HtLHVRkGGcci0Q117117",
+		"item_date": "2017-04-19 00:00:00",
+		"title": "The Architecture of the Web Is Unsafe for Todays World",
+		"url": "http://www.darkreading.com/endpoint/the-architecture-of-the-web-is-unsafe-for-todays-world/a/d-id/1328529",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "pN3UuUaxB6jOw9LQsnNOg123lV2A3123LQw9YnT33L6lgJKe86WXDJKGD2116fUd24116L9meNf5LkvmtZVpTVluSQ8WWQ117117",
+		"item_date": "2017-04-18 00:00:00",
+		"title": "The Password to the Latest NSA Leak Is a 4chan Meme",
+		"url": "https://motherboard.vice.com/en_us/article/the-password-to-the-latest-nsa-leak-is-a-4chan-meme",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
 		"curated_id": "PwrisbcsasWk6D7lMIQQfrLilm9DmbVh123T123Pfjyxpk2R2QwpvVZFvM8TPVgUemoCFFJyHvLDGRk8fRMQNCg41A117117",
 		"item_date": "2017-04-14 06:28:01",
 		"title": "Business lobby pushes back on NIST Framework measurement plans  CyberScoop",
 		"url": "https://www.cyberscoop.com/business-lobby-chamber-isa-nist-framework-version-1-1-measurement/",
 		"domain": "www.cyberscoop.com",
+		"image": ""
+	},
+	{
+		"curated_id": "FpEk7H02B55rbqpat0KW116M116WDYVUdrzPgtxGEkD9123I9gAK1v0weuCQ123ukcTWeV1jNigbc9BXXaUXkuggEL8TFg117117",
+		"item_date": "2017-04-17 00:00:00",
+		"title": "NSA hacks into SWIFT Wells board faces the voters",
+		"url": "https://www.americanbanker.com/morning-scan/nsa-hacks-into-swift-wells-board-faces-the-voters",
+		"domain": "www.americanbanker.com",
+		"image": ""
+	},
+	{
+		"curated_id": "WOfbdmuidhdQObzRK9NzeGNnMLM4zvcyiRjXRMopn6kWOKeAyyHMxAVZbbrjZTRMaYmFIcnXIZ5XMT3GFhyA123g117117",
+		"item_date": "2017-04-17 00:00:00",
+		"title": "Microsoft patched NSA hack Windows flaws before leak",
+		"url": "http://www.bbc.co.uk/news/technology-39620534",
+		"domain": "www.bbc.co.uk",
 		"image": ""
 	},
 	{
