@@ -1,5 +1,69 @@
 [
 	{
+		"curated_id": "tEswz1fMfuPJY2VVe9ZTpcLZkYSd628erTNE8h7F09ZO123SVPE123TJiZmgDWiiUB4gsd123z43v1MbNCp2Nz7Wuo116A117117",
+		"item_date": "2017-05-06 00:00:00",
+		"title": "French cybersecurity agency probing Macron hack",
+		"url": "http://thehill.com/policy/international/332247-french-cybersecurity-agency-to-investigate-hacking-of-macron-campaignn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "GUbNVCWNzqPPkJSOGMp4FbzfyF2AEhq8963fMjDO2C9WwQiciEf70tVgFVcdVu1I1g8I1232yzevEcrN0lOGOL2w117117",
+		"item_date": "2017-05-06 00:00:00",
+		"title": "Five key players for Trump on cybersecurity",
+		"url": "http://thehill.com/policy/cybersecurity/332166-five-key-players-for-trump-on-cybern",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "bR4WxRcyX7HBdxq8lAqDpLMHd9QtzaDzs4Oul0arjyKIV9FRmbCL123Sz1Iv123juhVZKja116JlESI5UO50FxBhvMQw117117",
+		"item_date": "2017-05-05 00:00:00",
+		"title": "German Spy Chief Warns Russia Cyber Attacks Aiming To Influence Elections",
+		"url": "http://www.itsecurityguru.org/2017/05/05/german-spy-chief-warns-russia-cyber-attacks-aiming-influence-elections/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "Tsu6CeZ0WEi9123rNOFX2w1unZn7ukm123097pW4JKBTiORcEbO1z7TBOTyn7bO0123WrzQ84tc2SiaNwxNL9g1sFQUw117117",
+		"item_date": "2017-05-05 00:00:00",
+		"title": "Cyberspies tap free tools to make powerful malware framework",
+		"url": "http://www.pcworld.com/article/3194782/security/cyberspies-tap-free-tools-to-make-powerful-malware-framework.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "o5116rgxH5HSl9CceyOWTCLTDm1y7FOPDPFCU123BiGbUhbAiMiluUv6z116RuSVpomPHvOF83eVsKTaxdkVhfj8eDRQ117117",
+		"item_date": "2017-05-05 00:00:00",
+		"title": "Denial Of life Medical Devices Are At Risk Of CyberAttack",
+		"url": "http://www.cxotoday.com/story/denial-of-life-medical-devices-are-at-risk-of-cyber-attack/",
+		"domain": "www.cxotoday.com",
+		"image": ""
+	},
+	{
+		"curated_id": "116VJo4R1116Q1o7E4NWfLs123cEUt38hUAPpdHq2hlFfzRupbO4ibQd6S8gNFOgL116NDiy123PiNUv854v1zt5yYmd1238kA117117",
+		"item_date": "2017-05-05 00:00:00",
+		"title": "Cybercrime Roundup Using Twitter as a Weapon Copyright Trolling Porn and Script Kiddies on the Rise",
+		"url": "https://www.lawfareblog.com/cybercrime-roundup-using-twitter-weapon-copyright-trolling-porn-and-script-kiddies-rise",
+		"domain": "www.lawfareblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "5nvlCV3abVM7eRh1U116enp9vd123XhQ8b7evXUHF3QsM123E35NnPND4E3rr5TYQE0RZ01ZinvAjyVEN5UEEbkTrOyA117117",
+		"item_date": "2017-05-05 00:00:00",
+		"title": "Emmanuel Macrons party says its been hit by massive hack",
+		"url": "http://www.zdnet.com/article/emmanuel-macrons-party-says-its-been-hit-by-massive-hack/",
+		"domain": "www.zdnet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "OnKun7OrxmrAIXCXZWdrIbxDSV5VDX5TFOtB4LaaXCtKJiLwfnlvi123KeKwRXkOtTWEDYD8R3Z6qi2C3GuQ116Uew117117",
+		"item_date": "2017-05-05 00:00:00",
+		"title": "Symantec says malware attackers are hiding in plain sight",
+		"url": "https://disruptiveviews.com/symantec-malware-attackers/",
+		"domain": "disruptiveviews.com",
+		"image": ""
+	},
+	{
 		"curated_id": "Qwomixs2RTRuSMiGumkDUhLK7k9Pa0EjMRKoI7RgpsjEmWJM1q86e85cQ6NSmihz1qANXNG1fHuZyzH123tycREg117117",
 		"item_date": "2017-04-29 14:30:00",
 		"title": "Tweet Dmitry Bogatov Debian developer and Tor node admin is still being held in a Moscow jail httpstcos4hRwUvom9",
