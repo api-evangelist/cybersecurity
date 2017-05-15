@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "UQ1162LcE116C8rYjuQeHCb3YGESzm6ewbVzXjYSLVMO4G29s2XIJ0pJTYyVQEOJ6yWlW0Oi9EkTnpK3vkyMx5hPIA117117",
+		"item_date": "2017-05-14 00:00:00",
+		"title": "Wcry ransomware is reborn without its killswitch starts spreading anew",
+		"url": "http://boingboing.net/2017/05/14/as-predicted.html",
+		"domain": "boingboing.net",
+		"image": ""
+	},
+	{
+		"curated_id": "grzlvv1psZdcwxQ6JsvN7ntw1cpyF8s123FzI1238JEBa6jMzhN116iy2DqW65LHJaI4ABofyzQAWvDlzNPBXtmoMD4Q117117",
+		"item_date": "2017-05-14 00:00:00",
+		"title": "Cyberattack threat escalating  Europol",
+		"url": "http://www.bbc.co.uk/news/technology-39913630",
+		"domain": "www.bbc.co.uk",
+		"image": ""
+	},
+	{
 		"curated_id": "gwB4muixJtQt9eBWpzjFtDOyF123DDp45Wv810svb7CT3irwbb6CiKbuR9n0AQiA6nlHJaHg6NsaquVUhAIayhmw117117",
 		"item_date": "2017-05-13 00:00:00",
 		"title": "Round Two WannaCry Ransomware That Struck the Globe Is Back",
@@ -99,8 +115,32 @@
 		"curated_id": "cKMnzhf4KJzv1yDYr4P0WBp4tpmq2015jwW1oIafZaxtug4GofLQv5EzQaPtnQyqWQBwGHMhmh0CTlL3OvnTSg117117",
 		"item_date": "2017-05-12 00:00:00",
 		"title": "Theres a global cyberattack happening thats taking down hospitals and telecoms companies",
-		"url": "http://feedproxy.google.com/~r/typepad/alleyinsider/silicon_alley_insider/~3/yiZJjZpN3yo/telefonica-and-other-firms-have-been-infected-by-wannacry-malware-2017-5",
-		"domain": "feedproxy.google.com",
+		"url": "http://www.businessinsider.com/telefonica-and-other-firms-have-been-infected-by-wannacry-malware-2017-5",
+		"domain": "www.businessinsider.com",
+		"image": ""
+	},
+	{
+		"curated_id": "qq20jF4123VcO5iPiosi0UhPqc0lChscaHdxfTF33GLjQW6ghmbhjoU1PF28nM7CIq9DT3etGy123SQUvVZ8h9EHqA117117",
+		"item_date": "2017-05-09 00:00:00",
+		"title": "State Dept pick Russian election interference is a profound threat",
+		"url": "http://thehill.com/policy/cybersecurity/332524-no-2-state-dept-pick-sees-profound-threat-from-russian-electionn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "w116Fn3bZ9nXLzzDshB59AIp123kZ86RnTVlgNEUFbCiWpGB097imFvB27SeAw7VNDBYCaYbHoG1F8eS26xzBlBw2w117117",
+		"item_date": "2017-05-09 00:00:00",
+		"title": "Trump Goes Full Watergateand Threatens Russia Investigation",
+		"url": "http://www.motherjones.com/politics/2017/05/donald-trump-james-comey-firing-watergate-russia-1",
+		"domain": "www.motherjones.com",
+		"image": ""
+	},
+	{
+		"curated_id": "116JqTU2D6N34nQXgjmvCCpCjd2LK116tltjZqH116PmcFQyhgUGkCTnc5bAWF1em20xQNjD3pfqH2MkWEEg8HgmM2nw117117",
+		"item_date": "2017-05-10 00:00:00",
+		"title": "How To Know if The TrumpRussia Story Has Momentum",
+		"url": "https://fivethirtyeight.com/features/how-to-know-if-the-trump-russia-story-has-momentum/",
+		"domain": "fivethirtyeight.com",
 		"image": ""
 	},
 	{
@@ -120,11 +160,51 @@
 		"image": ""
 	},
 	{
+		"curated_id": "kIvqwCLqGOmPcDIwkLAr116j3hXUAgNN9GjDRHdYMFZQ6Fje0z116cEu6hYMgLzmkmOPo4FuT2RJbHfVDt9eOI116F1Q117117",
+		"item_date": "2017-05-11 00:00:00",
+		"title": "Yahoo blocking probe into recordsetting userdata hacks German authorities",
+		"url": "http://www.siliconbeat.com/2017/05/11/yahoo-blocking-probe-into-record-setting-user-data-hacks-german-authorities/",
+		"domain": "www.siliconbeat.com",
+		"image": ""
+	},
+	{
 		"curated_id": "f1I123vFPN7J1dWaqnNisl3fhKZX4agpv123GH0TKl7dbnyreCH5Ivfkp4Ok116ZOlBxGnhams116ItqekMfphIEN0YGkw117117",
 		"item_date": "2017-05-11 00:00:00",
 		"title": "Artificial Intelligence Cybersecurity Friend or Foe",
 		"url": "http://www.darkreading.com/threat-intelligence/artificial-intelligence-cybersecurity-friend-or-foe-/a/d-id/1328838",
 		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "hTIyPITRgHyzJ0QkHiOdqpevmswlqBTU2hfK4JjoCUExZLUUaDtc8fbUH1238ZyaX116B0K2LN4Mum6QO8zlJBzuTw117117",
+		"item_date": "2017-05-11 00:00:00",
+		"title": "Trump Issues Previously Delayed Cybersecurity Executive Order",
+		"url": "http://www.darkreading.com/vulnerabilities---threats/trump-issues-previously-delayed-cybersecurity-executive-order/d/d-id/1328860",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "7OKFA2vTgW116123V116A2R8tWbkm5LRo116NnFBvc8dC32116kLHTqiFvOHU7PkPMAS8CA4NCbJB2bT31tD116ksvg116UbNlyQ117117",
+		"item_date": "2017-05-11 00:00:00",
+		"title": "Trump signs longdelayed executive order on cybersecurity",
+		"url": "https://techcrunch.com/2017/05/11/trump-signs-long-delayed-executive-order-on-cybersecurity/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "hzN116mLnwfsA80usTPeqy6W116NsS6yJhCaPlGfajDVBRyfnTeMHxeZSd1xZ2dTCUBTxyn116b2cyCqbbD8Tz4o0fjQ117117",
+		"item_date": "2017-05-11 00:00:00",
+		"title": "US intelligence chiefs say reviewing use of Kaspersky software",
+		"url": "http://www.reuters.com/article/us-usa-kaspersky-idUSKBN1872M6",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "3vBRCz2deKEv3YAYCRHQ116T123byZVps123SS90ovG5hDdkkR116Z4miXxULxSwqSzIfSYtbaQJaTRphCYBoSGGE8qfdg117117",
+		"item_date": "2017-05-11 00:00:00",
+		"title": "Trump signs order aimed at upgrading government cyber defenses",
+		"url": "http://www.reuters.com/article/us-usa-trump-cyber-idUSKBN1872L9",
+		"domain": "www.reuters.com",
 		"image": ""
 	},
 	{
@@ -149,6 +229,70 @@
 		"title": "Major cyberattack plunges NHS into chaos closing hospitals and cancelling operations",
 		"url": "http://www.businessinsider.com/nhs-hospitals-cyberattack-england-2017-5",
 		"domain": "www.businessinsider.com",
+		"image": ""
+	},
+	{
+		"curated_id": "HmGWg8RkBCILMd4nJ84B9PwxuBTChnKIeiSsevprolfwav7116BhDFnJ2whUIUnX5JovfBOPJwPi4MxbkVvGjIdQ117117",
+		"item_date": "2017-05-10 00:00:00",
+		"title": "Extreme Makeover AI  Network Cybersecurity",
+		"url": "http://www.darkreading.com/threat-intelligence/extreme-makeover-ai-and-network-cybersecurity-/a/d-id/1328837",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "5116iIlJLWqABa5EkIVoreJAuTGseQI0HYE42O4FyAmnFiOUmoTNAJoC7NJOZ3byK4LHWIqFZGjD5msPNKxPokCg117117",
+		"item_date": "2017-05-10 00:00:00",
+		"title": "FTC Launches Cybersecurity Resource Website for SMBs",
+		"url": "http://www.darkreading.com/mobile/ftc-launches-cybersecurity-resource-website-for-smbs/d/d-id/1328847",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "utNseP1zEgUFbyZWxxdejU5LO8zL6QsxpCuTlHqnfRljNcACOuJSsvoNRGEM6hBVdGxsAfyqs0B8KJFLBky116Gg117117",
+		"item_date": "2017-05-10 00:00:00",
+		"title": "Ask the FCC for proof it was crashed by DDoS  not outraged Net Neutrality commenters",
+		"url": "http://boingboing.net/2017/05/10/extraordinary-claims-extraordi.html",
+		"domain": "boingboing.net",
+		"image": ""
+	},
+	{
+		"curated_id": "1EjmIXpExIeZQXLtVqXSuRmoHeiNoVgDG0BOO2w39TuI6nPmxVZnMEW85KzQ7jPr9rpPJiVkshCduvOzU66nUA117117",
+		"item_date": "2017-05-10 00:00:00",
+		"title": "The FCC Claims A DDoS Attack  Not John Oliver  Crashed Its Website But Nobody Seems To Believe Them",
+		"url": "https://www.techdirt.com/articles/20170510/06303837332/fcc-claims-ddos-attack-not-john-oliver-crashed-website-nobody-seems-to-believe-them.shtml",
+		"domain": "www.techdirt.com",
+		"image": ""
+	},
+	{
+		"curated_id": "o7x4RZR0Q07s0zZnDC116DaoMh116ew6UjkwzAnRMnPib2w44UeeNbFRcI6bL8g0pwfq5dOJh6BmGRx116XVxbIaLs123A117117",
+		"item_date": "2017-05-10 00:00:00",
+		"title": "US Official Says France Warned About Russian Hacking Before Macron Leak",
+		"url": "http://www.itsecurityguru.org/2017/05/10/us-official-says-france-warned-russian-hacking-macron-leak/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "uQelWPUIwWCkezdqnBFMa3QLr2eaihVUM2RRRqCk3BoLiptq1123WYZDfK95Os6xP5L9ZmYfPPaY2jDPlaObL2qQ117117",
+		"item_date": "2017-05-10 00:00:00",
+		"title": "Cisco Patches Leaked 0day in 300 Of Its Switches",
+		"url": "http://www.itsecurityguru.org/2017/05/10/cisco-patches-leaked-0-day-300-switches/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "hldfFv2Vlx6qAlWNVDpOO6ynkR123UJrDq123h4qaS123YkjQEldRvyJ123YjfmxNAtjlL2lm123zY9hsjXO9PdgibEcPbKQ117117",
+		"item_date": "2017-05-09 00:00:00",
+		"title": "FCC faced massive DDoS attacks after net neutrality proposal",
+		"url": "https://disruptiveviews.com/fcc-faced-massive-ddos-attacks-net-neutrality-proposal/",
+		"domain": "disruptiveviews.com",
+		"image": ""
+	},
+	{
+		"curated_id": "B8hO4vX2u2tzKK10QKTZlrkEbpRbh1160JUehTCjagB7sWEg116SabuYiDtDcxeZo6CM1231mFm116hZscz12313eUDKWaBA117117",
+		"item_date": "2017-05-08 00:00:00",
+		"title": "CIA Vault 7 Data Leak what do we know since now",
+		"url": "http://resources.infosecinstitute.com/cia-vault-7-data-leak-know-since-now/",
+		"domain": "resources.infosecinstitute.com",
 		"image": ""
 	},
 	{
