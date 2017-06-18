@@ -1,0 +1,331 @@
+- slug: sensr.net
+  name: Sensr.net
+  description: >-
+    We'll keep track of interesting images and alert you when something happens.
+    We're starting off with basic motion detection. We keep the images around
+    and organize them by time and day. We'll send you an email or a text message
+    if you'd like when we detect something. Heading out of town for the weekend?
+    Leave your camera pointed at the front door. If someone comes in, we'll text
+    you. You can also share your cameras with your friends or the whole world.
+    We encourage sharing, but it's best not to share cameras located in ultra
+    private spaces. Sorry, we don't allow adult content on our site. There are
+    plenty of other places on the Internet if you're looking for that kind of
+    stuff.
+  url: 'https://sensr.net/api'
+  short_url: ''
+  twitter: 'https://twitter.com/sensr'
+  blog: 'http://sensr.net/blog'
+  blog_rss: 'http://sensr.net/blog/feed/'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/924_logo.png
+  tags: 'Videos,Webcam,Sensors,Devices,Internet of Things,Cameras,Surveillance'
+- slug: urme-surveillance
+  name: URME Surveillance
+  description: >-
+    URME is dedicated to protecting the public from surveillance and creating a
+    safe space to explore our digital identities
+  url: 'http://www.urmesurveillance.com/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/URME_Surveillance.png
+  tags: 'Surveillance,Physical'
+- slug: puretechsystems
+  name: PureTechSystems
+  description: ''
+  url: 'http://www.puretechsystems.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/puretechsystems'
+  blog: 'http://www.puretechsystems.com/blog/'
+  blog_rss: 'http://www.puretechsystems.com/blog/feed/'
+  github: ''
+  image: ''
+  tags: 'Surveillance,Drones'
+- slug: emc
+  name: EMC
+  description: ''
+  url: 'http://www.emc.com'
+  short_url: ''
+  twitter: 'https://twitter.com/EMCcorp'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/emccode'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/EMC_Corporation_logo.svg.png
+  tags: Surveillance
+- slug: persistent-surveillance-systems
+  name: Persistent Surveillance Systems
+  description: >-
+    PSS develops highly capable, yet affordable, wide area surveillance systems
+    for city, state, national, and international markets.
+  url: 'http://www.pss-1.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/PSSWAS'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: ''
+  tags: Surveillance
+- slug: proximity
+  name: Proximity
+  description: ''
+  url: 'http://www.proximityid.co.za/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: ''
+  tags: Surveillance
+- slug: quantum
+  name: Quantum
+  description: >-
+    Quantum is a leading expert in scale-out storage, archive and data
+    protection, providing intelligent solutions for capturing, sharing and
+    preserving digital assets over the entire data lifecycle. We help customers
+    maximize the value of these assets to achieve their goals, whether
+    it&rsquo;s top movie studios looking to create the next blockbuster,
+    researchers working to accelerate scientific discovery, or small businesses
+    trying to streamline their operations. With a comprehensive portfolio of
+    best-in-class disk, tape and software solutions for physical, virtual and
+    cloud environments, we enable customers to address their most demanding
+    workflow challenges and opportunities.
+  url: 'http://www.quantum.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/QuantumCorp'
+  blog: 'http://blog.quantum.com/'
+  blog_rss: 'http://blog.quantum.com/feed/'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/quantum-logo.png
+  tags: Surveillance
+- slug: surveillance-self-defense
+  name: Surveillance Self Defense
+  description: >-
+    Tips, Tools and How-tos for Safer Online Communications. Surveillance
+    Self-Defense is EFF's guide to defending yourself and your friends from
+    surveillance by using secure technology and developing careful practices.
+  url: 'https://ssd.eff.org/en'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/surveillance-self-defense.png
+  tags: Surveillance
+- slug: surveillance-self-defense
+  name: Surveillance Self Defense
+  description: >-
+    Tips and tools to help you protect your data and communications. Tips and
+    tools to help you more safely access LGBTQ resources, navigate social
+    networks, and avoid snoopers. Modern technology has given those in power new
+    abilities to eavesdrop and collect data on innocent people. Surveillance
+    Self-Defense is EFF's guide to defending yourself and your friends from
+    surveillance by using secure technology and developing careful practices.
+  url: 'https://ssd.eff.org/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: ''
+  tags: Surveillance
+- slug: umbc-ebiquity-research-group
+  name: UMBC Ebiquity Research Group
+  description: >-
+    The UMBC Ebiquity Research Group consists of faculty and students from the
+    Department of Computer Science and Electrical Engineering (CSEE) of
+    University of Maryland, Baltimore County (UMBC), located in Baltimore MD.
+  url: 'http://ebiquity.umbc.edu/'
+  short_url: ''
+  twitter: 'https://twitter.com/ebiquity/'
+  blog: 'http://ebiquity.umbc.edu/blogger/'
+  blog_rss: 'http://feeds.feedburner.com/ebiquityStream'
+  github: 'https://github.com/Ebiquity'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/UMBC
+    Ebiquity Lab.png
+  tags: 'Security,Surveillance,Trust'
+- slug: electronic-frontier-foundation
+  name: Electronic Frontier Foundation
+  description: >-
+    The Electronic Frontier Foundation (EFF) is an international non-profit
+    digital rights group based in San Francisco in the United States. EFF
+    provides funds for legal defense in court, presents amicus curiae briefs,
+    defends individuals and new technologies from what it considers abusive
+    legal threats, works to expose government malfeasance, provides guidance to
+    the government and courts, organizes political action and mass mailings,
+    supports some new technologies which it believes preserve personal freedoms
+    and online civil liberties, maintains a database and web sites of related
+    news and information, monitors and challenges potential legislation that it
+    believes would infringe on personal liberties and fair use, and solicits a
+    list of what it considers patent abuses with intentions to defeat those that
+    it considers without merit.
+  url: 'https://www.eff.org/'
+  short_url: ''
+  twitter: 'https://twitter.com/eff'
+  blog: 'https://www.eff.org/deeplinks'
+  blog_rss: 'https://www.eff.org/rss/updates.xml'
+  github: 'https://github.com/EFForg'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/EFF.png
+  tags: 'Privacy,Surveillance,Transparency,Copyright,Patents'
+- slug: access-now
+  name: Access Now
+  description: >-
+    Access Now defends and extends the digital rights of users at risk around
+    the world. By combining innovative policy, global advocacy, and direct
+    technical support, we fight for open and secure communications for all.
+  url: 'https://www.accessnow.org'
+  short_url: ''
+  twitter: 'https://twitter.com/accessnow'
+  blog: 'https://www.accessnow.org/blog/'
+  blog_rss: 'https://www.accessnow.org/feed/'
+  github: 'https://github.com/accessnow'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Access-Logo1.jpg
+  tags: 'Privacy,Surveillance,Transparency,Blog'
+- slug: american-civil-liberties-union-aclu
+  name: American Civil Liberties Union (ACLU)
+  description: >-
+    For almost 100 years, the ACLU has worked to defend and preserve the
+    individual rights and liberties guaranteed by the Constitution and laws of
+    the United States.
+  url: 'https://www.aclu.org'
+  short_url: ''
+  twitter: 'https://twitter.com/aclu'
+  blog: 'https://www.aclu.org/blog-feed/gamut'
+  blog_rss: 'https://www.aclu.org/blog-feed/all/feed'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aclu-logo.png
+  tags: 'Privacy,Surveillance,Transparency'
+- slug: u.s.-army-cyber-command-and-second-army
+  name: U.S. Army Cyber Command and Second Army
+  description: >-
+    United States Cyber Command (USCYBERCOM) is an armed forces sub-unified
+    command subordinate to United States Strategic Command. The command is
+    located in Fort Meade, Maryland, and centralizes command of cyberspace
+    operations, organizes existing cyber resources and synchronizes defense of
+    U.S. military networks.
+  url: 'http://www.arcyber.army.mil/'
+  short_url: ''
+  twitter: 'https://twitter.com/ARCYBER'
+  blog: 'https://www.army.mil/armycyber'
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/United_States_Cyber_Command.png
+  tags: >-
+    Military,Cybersecurity,Surveillance,Cybersecurity.Theater,Cybersecurity
+    Character
+- slug: 'bureau-of-alcohol,-tobacco,-firearms,-and-explosives'
+  name: 'Bureau of Alcohol, Tobacco, Firearms, and Explosives'
+  description: >-
+    The Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF, BATF, and
+    BATFE) is a federal law enforcement organization within the United States
+    Department of Justice.[4] Its responsibilities include the investigation and
+    prevention of federal offenses involving the unlawful use, manufacture and
+    possession of firearms and explosives; acts of arson and bombings; and
+    illegal trafficking of alcohol and tobacco products. The ATF also regulates
+    via licensing the sale, possession, and transportation of firearms,
+    ammunition, and explosives in interstate commerce. Many of ATF's activities
+    are carried out in conjunction with task forces made up of state and local
+    law enforcement officers, such as Project Safe Neighborhoods. ATF operates a
+    unique fire research laboratory in Beltsville, Maryland, where full-scale
+    mock-ups of criminal arson can be reconstructed.
+  url: 'https://www.atf.gov'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/399px-US-AlcoholTobaccoFirearmsAndExplosives-Seal.svg.png
+  tags: 'Federal Government,Surveillance,Policing'
+- slug: national-security-agency-nsa
+  name: National Security Agency (NSA)
+  description: >-
+    The National Security Agency (NSA) is an intelligence organization of the
+    United States government, responsible for global monitoring, collection, and
+    processing of information and data for foreign intelligence and
+    counterintelligence purposes &ndash; a discipline known as signals
+    intelligence (SIGINT). NSA is concurrently charged with protection of U.S.
+    government communications and information systems against penetration and
+    network warfare.
+  url: 'https://www.nsa.gov/'
+  short_url: ''
+  twitter: 'https://twitter.com/NSAGov'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/NationalSecurityAgency'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/nsa-logo.jpg
+  tags: >-
+    Federal
+    Government,Surveillance,Cybersecurity,Cybersecurity.Theater,Cybersecurity
+    Character
+- slug: bureau-of-justice-statistics
+  name: Bureau of Justice Statistics
+  description: >-
+    The United States Bureau of Justice Statistics (BJS) is a federal government
+    agency belonging to the U.S. Department of Justice and a principal agency of
+    the U.S. Federal Statistical System. Established on December 27, 1979, the
+    bureau collects, analyzes and publishes data relating to crime in the United
+    States. The agency publishes data regarding statistics gathered from the
+    roughly fifty-thousand agencies that comprise the U.S. justice system on its
+    Web site.
+  url: 'http://www.bjs.gov'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/US-DeptOfJustice-Seal.svg.png
+  tags: 'Federal Government,Surveillance'
+- slug: department-of-homeland-security
+  name: Department of Homeland Security
+  description: >-
+    The U.S. Department of Homeland Security (DHS) is a cabinet department of
+    the United States federal government, created in response to the September
+    11 attacks, and with the primary responsibilities of protecting the United
+    States and its territories (including protectorates) from and responding to
+    terrorist attacks, man-made accidents, and natural disasters. The Department
+    of Homeland Security, and not the United States Department of the Interior,
+    is equivalent to the Interior ministries of other countries.&nbsp;
+  url: 'http://www.dhs.gov'
+  short_url: ''
+  twitter: ''
+  blog: 'https://www.dhs.gov/news-releases/blog?field_news_type_tid=588'
+  blog_rss: 'https://www.dhs.gov/news_and_updates/rss.xml/blog?field_news_type_tid=588'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/400px-US_Department_of_Homeland_Security_Seal.svg.png
+  tags: 'Federal Government,Surveillance'
+- slug: federal-bureau-of-investigation-fbi
+  name: Federal Bureau of Investigation (FBI)
+  description: >-
+    The Federal Bureau of Investigation (FBI) is the domestic intelligence and
+    security service of the United States, which simultaneously serves as the
+    nation's prime federal law enforcement agency. Operating under the
+    jurisdiction of the U.S. Department of Justice, the FBI is concurrently a
+    member of the U.S. Intelligence Community and reports to both the Attorney
+    General and the Director of National Intelligence. A leading U.S.
+    counterterrorism, counterintelligence, and criminal investigative
+    organization, the FBI has jurisdiction over violations of more than 200
+    categories of federal crimes.
+  url: 'https://www.fbi.gov/'
+  short_url: ''
+  twitter: 'https://twitter.com/FBI'
+  blog: 'https://www.fbi.gov/news'
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/2000px-US-FBI-ShadedSeal.svg.png
+  tags: 'Federal Government,Law Enforcement,Surveillance'
